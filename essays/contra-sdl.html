@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link rel="stylesheet" href="essay.css">
+</head>
+
+<body>
+	<div style = "display: grid; grid-template-columns: 1fr 3fr 1fr;">
+		<div></div>
+		<div>
+			<h1>Contra Standard Deontic Logic</h1>
+			<h3>Why SDL fails at modelling Obligation. Published 01/23/25</h3>
+			<hr>
+			
+<p>Since I’ve started publishing again, I decided to begin with a re-write of an old article titled something along the lines of <em>Contra Standard Deontic Logic</em>. It’s a re-write because I lost the original article, but it wasn’t very long anyway.</p>
+<p>Bengt Hansson introduced the term <em>Standard Deontic Logic</em> (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset ℐ of the set 𝒲 of possible worlds, such that for all p, Op holds if and only if p ∈ w for all w ∈ ℐ.</p>
+<p>ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:</p>
+<ol>
+<li><p>Op → ¬O¬p, </p>
+</li>
+<li><p>Op ∧ Oq ↔ O(p ∧ q), </p>
+</li>
+<li><p>O(p ∨ q).</p>
+</li>
+</ol>
+<p>The second axiom is equivalent to the combination of:</p>
+<ol>
+<li><p>Op ∧ Oq → O(p ∧ q), i.e. agglomeration.</p>
+</li>
+<li><p>If Op and p logically implies q, then Oq, i.e. necessitation.</p>
+</li>
+</ol>
+<p>Now that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following issues.</p>
+<p>First is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him your crowbars and said, &quot;You may borrow either the big or the small crowbar.&quot; You offer him a choice between two tools. Now imagine the tools belonged to someone else who authorized you to lend one of them, but you had forgotten which of the two could be lent. You might say, &quot;You may borrow either the big or the small crowbar, but I do not know which.&quot; In this latter case, only one of the crowbars is permitted to be borrowed. However, the former case illustrates an instance of free choice permission: you are permitted to take the small crowbar, and you are permitted to take the large crowbar (but not both). To represent this in SDL, we want a permission operator that satisfies the postulate P(a ∨ b) → Pa ∧ Pb.</p>
+<p>Such a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of SDL axioms. However, this leads to implausible results. Consider the following inference:</p>
+<ol>
+<li><p>O(¬a ∧ ¬b) → O~a, Holds in SDL.</p>
+</li>
+<li><p>O¬(a ∨ b) → O¬a, Equiv to 1.</p>
+</li>
+<li><p>¬O¬a → ¬O¬(a ∨ b), Contrapositive.</p>
+</li>
+<li><p>Pa → P(a ∨ b), Definition of P.</p>
+</li>
+<li><p>Pa → Pb, From added postulate.</p>
+</li>
+</ol>
+<p>The axiom combined with the original postulates entails that if something is permitted, then everything else is permitted. This is intolerable, so we cannot solve the issue of free choice by turning the SDL permission operator into an operator of free choice permission.</p>
+<p>Some deontic logicians attempt to fix this by introducing a second permission operator Pc into SDL. One such definition is Pc(a ∨ b) ↔ Pa ∧ Pb. This definition is implausible, see the following derivation:</p>
+<ol>
+<li><p>Pa → (Pa ∧ P(a ∨ b)), Pa → P(a ∨ b) holds in SDL.</p>
+</li>
+<li><p>Pa → Pc(a ∨ (a ∨ b)), Definition of Pc</p>
+</li>
+<li><p>Pa → Pc(a ∨ b).</p>
+</li>
+</ol>
+<p>So, if you’re permitted to borrow a screwdriver, it follows that you have free choice to either borrow or steal the screwdriver. Other attempts to construct free choice operators have similarly absurd consequences. This is because such constructions rely on the <em>single sentence assumption</em> —the idea that free choice between a and b can be represented as a property of a single sentence, namely a ∨ b.</p>
+<p>Under this assumption, logically equivalent sentences are interchangeable. Thus, if a∨b is equivalent to c∨d, then there is a free choice permission between a and b if and only if there is a free choice permission between c and d. This entails implausible results. Consider the case of the vegetarian’s free lunch. In a restaurant, I may have a meal with meat or a meal without meat. Therefore, I may either have a meal and pay for it or have a meal and not pay for it. This follows because: Let m denote having a meal with meat, v a meal without meat, and p paying. P(m ∨ v) is equivalent to P(((m ∨ v) ∧ p) ∨ ((m ∨ v) ∧ ~p)).</p>
+<p>Free choice permission illustrates an intuitive deontic principle that doesn’t hold in SDL. Conversely, SDL sometimes validates principles that are not plausible. We call such cases deontic paradoxes. Consider Åqvist&#39;s knower paradox: If a police officer ought to know that Smith robbed Jones, then Smith ought to rob Jones. This counterexample challenges the principle of necessitation. Von Wright correctly points out that all major deontic paradoxes rely on necessitation. However, necessitation follows from SDL’s semantic construction of possible worlds, so these paradoxes challenge SDL’s semantics itself.</p>
+<p>SDL also fails to model certain important kinds of obligations commonly discussed—namely, obligations of compensation, reparation, and prevention. Recall that under SDL’s semantics, obligatory acts in the actual world consist of actions that would occur in ideal worlds. Suppose there’s a drowning child in front of you. In a deontically ideal world, no child would drown, so you wouldn’t save a child from drowning in an ideal world because no drowning child would exist. It follows that you are not obligated to save the drowning child. </p>
+<p>Obligations of compensation, reparation, and prevention require the existence of actions that need be compensated, reparated, and prevented. But these are actions that are unideal and wouldn’t occur in an ideal world. Consequently, SDL’s semantics cannot model such obligations. This is a significant problem, as such obligations are central not only to everyday moral discourse but also to moral philosophy as a whole. As Holly Goldman puts it, SDL &quot;ignores the fact that particular obligations flow from abstract principles together with contingent features of the world,&quot; and such features &quot;do not appear in all the morally best worlds.&quot;</p>
+
+		</div>
+		<div></div>
+	</div>
+</body>
+</html>
