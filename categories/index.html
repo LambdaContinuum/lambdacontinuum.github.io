@@ -1,62 +1,254 @@
 <!DOCTYPE html>
 <html lang="en-us">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<style type=text/css>body{font-family:monospace;}</style>
-	<title>Categories</title>
-	
-	
-	<link rel="stylesheet" href="/css/style.css">
-	
-	<link rel="alternate" type="application/rss+xml" href="/categories/index.xml" title="Lambda Continuum">
-</head>
-<body>
-	<header>
-	======================<br>
-	== <a href="https://lambdacontinuum.github.io/">Lambda Continuum</a> ==<br>
-	======================
-	<div style="float: right;"></div><br>
-	<p>
-	<nav>
-			<a href="/"><b>Start</b></a>.
-			
-</header>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-	
-	<main>
-		
-		
-		<div>
-			<h1>Categories</h1>
-			
-		</div>
-		
-		
-		<ul>
-		    
-		    <li>
-		        <div class="post-title">
-				
-				    <a href="/categories/default/">Default</a>
-				
-		        </div>
-		    </li>
-		    
-		</ul>
-		<div>
+    <meta http-equiv="cache-control" content="max-age=0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+    <meta http-equiv="pragma" content="no-cache" />
 
-1 of 1
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"}>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
 
-</div>
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1b1b1b" />
 
-	</main>
+    <meta name="description" content="Categories">
 
-	<footer>
-	<p>&copy; 2025 <a href="https://lambdacontinuum.github.io/"><b>Lambda Continuum</b></a>.
-	</p>
+    <link rel="alternate" type="application/rss+xml" href="https://lambdacontinuum.github.io/categories/index.xml" title="Lambda Continuum" />
+    
+        <title>Categories | Lambda Continuum</title>
+    
+
+    
+    <style>
+        :root {
+          --background: #ffffff;
+        }
+        @media (prefers-color-scheme: dark) {
+          :root {
+            --background: #1b1b1b;
+          }
+        }
+        html {
+            background-color: var(--background);
+        }
+        body {
+            background-color: var(--background);
+        }
+    </style>
+
+    
+    <link rel="stylesheet" type="text/css" href="/style.min.375e5ed55aac1492efe66cf6fd686d0af88cb56b12d6bafab6571d3b39c73883.css" media="all">
+  </head>
+
+  <body>
+        
+        <nav>
+          <ul class="menu">
+            
+          </ul>
+        </nav>
+        
+
+
+<h1>Categories</h1>
+
+<ul class="terms">
+  
+</ul>
+
+<br>
+
+<footer>
+
+<script defer>
+  document.addEventListener("keydown", function (e) {
+    if (document.activeElement.isContentEditable) {
+      return false;
+    }
+    if (document.activeElement.tagName == "INPUT") {
+      return false;
+    }
+    if (e.altKey || e.ctrlKey || e.shiftKey) {
+      return false;
+    }
+    var key = e.key;
+    if (key === "h") {
+      e.preventDefault();
+      e.stopPropagation();
+      window.location.href = "/";
+    } else if (key === "t") {
+      e.preventDefault();
+      e.stopPropagation();
+      window.location.href = `https://${location.hostname}/tags`;
+    } else if (key === "i") {
+      e.preventDefault();
+      e.stopPropagation();
+      const inputs = document.querySelectorAll("input");
+      for (let i = 0; i < inputs.length; i++) {
+        if (inputs[i].offsetParent !== null) {
+          inputs[i].selectionStart = inputs[i].selectionEnd =
+            inputs[i].value.length;
+          inputs[i].focus();
+          break;
+        }
+      }
+    }
+    return false;
+  });
+</script>
+
+
+<script defer>
+  function throttle(fn, wait) {
+    var time = Date.now();
+    return function () {
+      var now = Date.now()
+      if (time + wait - now < 0) {
+        fn();
+        time = now;
+      }
+    };
+  }
+
+  function scrollHandler() {
+    const anchors = Array.from(document.querySelectorAll("body h2, body h3"));
+
+    function scrollCallback() {
+      var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+      
+      for (var i = 0; i < anchors.length; i++) {
+        var anchorId = anchors[i].getAttribute("id");
+        var link = document.querySelector(
+          'nav ul li a[href="#' + anchorId + '"]',
+        );
+        if (link) {
+          link.classList.remove("active-toc");
+        }
+      }
+
+      
+      for (var i = anchors.length - 1; i >= 0; i--) {
+        var offsetTop = anchors[i].offsetTop;
+        if (scrollTop > offsetTop - 75) {
+          var anchorId = anchors[i].getAttribute("id");
+          var link = document.querySelector(
+            'nav ul li a[href="#' + anchorId + '"]',
+          );
+          if (link) {
+            link.classList.add("active-toc");
+            break;
+          }
+        }
+      }
+    }
+
+    window.addEventListener(
+      "scroll",
+      throttle(scrollCallback, 200),
+    );
+  }
+  setTimeout(scrollHandler, 100);
+</script>
+
+<script defer>
+  function addCopyButtonToCodeBlocks() {
+    
+    const codeBlocks = document.querySelectorAll('code[class^="language-"]');
+
+    codeBlocks.forEach((codeBlock) => {
+      const copyButton = document.createElement("button");
+      copyButton.classList.add("copy-code-button");
+      copyButton.innerHTML = "copy";
+
+      
+      copyButton.addEventListener("click", () => {
+        
+        const elements = codeBlock.querySelectorAll(".cl");
+        let codeToCopy = "";
+        elements.forEach((element) => {
+          codeToCopy += element.innerText;
+        });
+        navigator.clipboard.writeText(codeToCopy);
+
+        
+        copyButton.innerHTML = "copied!";
+        setTimeout(() => {
+          copyButton.innerHTML = "copy";
+        }, 1500);
+      });
+
+      
+      codeBlock.parentNode.before(copyButton);
+    });
+  }
+  setTimeout(function () {
+    addCopyButtonToCodeBlocks();
+  }, 100);
+</script>
+
+<script>
+window.store = {
+    
+    "https:\/\/lambdacontinuum.github.io\/posts\/divine-agency\/": {
+        "title": "Divine Agency Without Failure",
+        "tags": [],
+        "content": "Philosophy of Religion has recently seen a surge of popularity in philosophy circles online, so I’ve decided to throw my hat in the ring. Here’s an argument against God being an agent.\nWittgenstein makes an interesting distinction. He distinguishes viewing intentions as mere mental processes from viewing intentions in terms of their fulfillment. For the latter, the idea here is that elements in the world can be taken to be in accord with such intentional states. Fulfillment conveys something that is normative in some minimal sense, leading us to think the very idea of intention is a normative idea. The general gist is that intentional states seem like the types of states that have standards by which one could be in accord or out of accord with them. Consider the cases of belief and desire. Suppose an agent believes that it’s raining outside, believes that an umbrella will protect them from the rain, and desires not to be wet. If such an agent were to walk outside without taking their umbrella, they’d be out of accord with their very own intentional states. The observation here is that intentional states seem to generate ideals of norm or correctness, and these norms are such that one could be in accord with or fail to accord with them. We can assess an agent’s actions as correct or incorrect by the light of the norms generated by their intentions. Thus, normativity is constitutive of intentional states.\nFurthermore, it seems uncontroversial that intentional states are constitutive of agency. If you were to conceive of an agent, such a being would have beliefs, desires, etc. But here’s the problem: If intentional states are constitutive of agency, and normativity is constitutive of intentional states, it follows that agency is constitutively normative. Why is this a problem? It’s said that the very possibility of failure is a necessary condition for normativity. That is, if you ought to do something, it follows there must be some possibility that you don’t do it.\nWe established earlier that agency is a normative notion, and so agency must imply the possibility of failing to be in accord with one’s intentions—if it’s granted that a necessary condition for normativity is the possibility of failure. But traditional conceptions of God hold that His will is perfectly efficacious. God couldn’t fail to be in accord with His own intentional states. It follows that God couldn’t be an agent. The problem should be clear: God has been reduced to a matter of disposition, a mere causal tendency.\nWhat is to be done to defend God’s agency? One could deny that the possibility of failure is an essential component of normativity, or one could deny that the possibility of failure is an essential part of intentional states—thereby rejecting the claim that intentional states are normative. Here, I’ll take the latter approach. More specifically, I’ll undercut the considerations given for intentional states being normative.\nOne may ask, as Akeel Bilgrami does, whether the general claim that intentional states are normative holds in the specific case of linguistic intentions—the intentions speakers have regarding the meaning of their words.\nThe normativity in play when discussing meaning-intentions comes from the idea that we can act in accord with our intentions to use words. For example, uttering “That is a snake” to apply to snakes when we’re in the presence of snakes is acting in accord with our intention. This suggests that the intentions relevant to meaning target the truth-conditions of the words one uses.\nIf we grant that the possibility of failure is a necessary condition for normativity, then for meaning-intentions to be normative, it must be possible to fail to get the truth-conditions of one’s utterances right. The most straightforward way to fail here would be if one doesn’t know the truth-conditions of the sentence they utter.\nBut how could one intend their words to possess truth-conditions they don’t actually possess, simply because they don’t know those truth-conditions? This is the crucial question. Can one not know the meanings of the words they intend to utter? The answer is that one cannot fail to know the truth-conditions of what they utter.\nWhy? Recall that the idea that the meaning of a sentence is given by its truth-conditions was popularized by Frege’s doctrine of sense. Frege introduced sense to solve puzzles concerning informative identities. Suppose the meaning of a name consists solely in the object it picks out. Then two names that pick out the same object must have the same meaning. This creates a problem. Consider the names ‘Phosphorus’ and ‘Hesperus’, both of which pick out Venus:\nPhosphorus = Phosphorus\nHesperus = Hesperus\nHesperus = Phosphorus\nWe can know a priori that (1) and (2) are true, but (3) is not knowable a priori. This reveals a key issue: Being uninformed is not the same as being irrational. If the meaning of a name consists solely in its referent, an agent would be irrational if they denied that Hesperus is Phosphorus. Yet such an agent isn’t irrational—they’re merely uninformed about the a posteriori identity. The puzzle arises because a Millian theory of names conflates irrationality with ignorance. Frege’s solution posits “sense” (meaning) to preserve the distinction between logical error and empirical ignorance.\nThus, any account of meaning must respect the following crucial desideratum: Agents in such puzzles should be seen as lacking empirical knowledge of the a posteriori identities at play, not as holding inconsistent mental states. Nothing should be tolerated in the understanding of the notion of meaning that prevents sense from doing what it was posited to do, solving the Fregean puzzles and maintaining the distinction between logical error and lack of empirical knowledge.\nImagine someone wondering, “Is Hesperus Phosphorus?” This is intelligible if senses are posited. But if the wonderer doesn’t know their own senses, they might ask, “Is the sense of ‘Hesperus’ the same as the sense of ‘Phosphorus’?” The puzzle re-emerges! If meanings aren’t transparent to the speaker, Frege’s original problem resurfaces one level up, at the level of senses. This violates the basic desideratum that meaning must solve the puzzle it was posited to solve.\nAnd so, one cannot fail to know the meaning of the sentences they intend to utter. This follows from the requirement that meaning must resolve Fregean identity puzzles decisively—a fundamentally Fregean argument for the transparency of meaning. This argument blocks the possibility of failing to act in accord with meaning-intentions due to ignorance of the truth-conditions.1 Meaning-intentions thus serve as an exception to Wittgenstein’s insight about the normativity of intentions. Bilgrami grants that Wittgenstein is generally correct about intentions being normative. However, what I gather is that intentions need not necessarily be normative. The reasoning for intentional states being normative hinges on the idea that intentions can be in or out of accord with actions. But such reasoning doesn’t guarantee all intentions are intrinsically normative. Meaning-intentions act as a counterexample: They’re a degenerate case. Then it wouldn’t follow that normativity is constitutive of agency. Meaning being an agent doesn’t necessarily imply the possibility of failure.\nTo be clear, what I’m providing is an undercutting argument. The argument given for intentions being normative fails at guaranteeing that normativity is constitutive of intentionality, and so agency need not imply the possibility of failure. God’s agency—as a being whose intentions cannot fail—remains preserved.\n1 There are other sources that may contribute to the possibility of failing to be in accord with the intentions to say something with certain truth conditions. Another major one is misspeaking. I won’t address this here to avoid making the article overly long. If you’re interested, check out Why Meaning Intentions Are Degenerate.\n", 
+        "url": "https:\/\/lambdacontinuum.github.io\/posts\/divine-agency\/"
+    },
+    
+    "https:\/\/lambdacontinuum.github.io\/": {
+        "title": "Lambda Continuum",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/lambdacontinuum.github.io\/"
+    },
+    
+    "https:\/\/lambdacontinuum.github.io\/posts\/": {
+        "title": "Posts",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/lambdacontinuum.github.io\/posts\/"
+    },
+    
+    "https:\/\/lambdacontinuum.github.io\/posts\/contra-sdl\/": {
+        "title": "Contra Standard Deontic LOgic",
+        "tags": [],
+        "content": "Since I’ve started publishing again, I decided to begin with a re-write of an old article titled something alon\nBengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic\nℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences\nOp → Op,\nOp∧Oq ↔ O(p∧q),\nO(p∨q).\nThe second axiom is equivalent to the combination of:\nOp∧Oq → O(p∧q), i.e. agglomeration.\nIf Op and p logically implies q, then Oq, i.e. necessitation.\nNow that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following\nFirst is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him\nSuch a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of S\nO(~a∧b) → Oa, Holds in SDL.\nO~(a∨b) → O~a, Equiv to 1.\nOa → O(a∨b), Contrapositive.\nPa → P(a∨b), Definition of P.\nPa → Pb, From added postulate.\nThe axiom combined with the original postulates entails that if something is permitted, then everything else is permitted. This is intolerable, so we cannot solve the issue of free choice by turning the SDL permission operator into an operator of free choice permission.\nSome deontic logicians attempt to fix this by introducing a second permission operator Pc into SDL. One such definition is Pc(a∨b) ↔ Pa∧Pb. This definition is implausible, see the following derivation:\nPa → (Pa∧P(a∨b)), Pa → P(a∨b) holds in SDL.\nPa → Pc(a∨(a∨b)), Definition of Pc\nPa → Pc(a∨b).\nSo, if you’re permitted to borrow a screwdriver, it follows that you have free choice to either borrow or steal the screwdriver. Other attempts to construct free choice operators have similarly absurd consequences. This is because such constructions rely on the single sentence assumption —the idea that free choice between a and b can be represented as a property of a single sentence, namely a∨b.\nUnder this assumption, logically equivalent sentences are interchangeable. Thus, if a∨b is equivalent to c∨d, then there is a free choice permission between a and b if and only if there is a free choice permission between c and d. This entails implausible results. Consider the case of the vegetarian’s free lunch. In a restaurant, I may have a meal with meat or a meal without meat. Therefore, I may either have a meal and pay for it or have a meal and not pay for it. This follows because: Let m denote having a meal with meat, v a meal without meat, and p paying. P(m∨v) is equivalent to P(((m∨v)∧p)∨((m∨v)∧~p)).\nFree choice permission illustrates an intuitive deontic principle that doesn’t hold in SDL. Conversely, SDL sometimes validates principles that are not plausible. We call such cases deontic paradoxes. Consider Åqvist\u0026rsquo;s knower paradox: If a police officer ought to know that Smith robbed Jones, then Smith ought to rob Jones. This counterexample challenges the principle of necessitation. Von Wright correctly points out that all major deontic paradoxes rely on necessitation. However, necessitation follows from SDL’s semantic construction of possible worlds, so these paradoxes challenge SDL’s semantics itself.\nSDL also fails to model certain important kinds of obligations commonly discussed—namely, obligations of compensation, reparation, and prevention. Recall that under SDL’s semantics, obligatory acts in the actual world consist of actions that would occur in ideal worlds. Suppose there’s a drowning child in front of you. In a deontically ideal world, no child would drown, so you wouldn’t save a child from drowning in an ideal world because no drowning child would exist. It follows that you are not obligated to save the drowning child.\nObligations of compensation, reparation, and prevention require the existence of actions that need be compensated, reparated, and prevented. But these are actions that are unideal and wouldn’t occur in an ideal world. Consequently, SDL’s semantics cannot model such obligations. This is a significant problem, as such obligations are central not only to everyday moral discourse but also to moral philosophy as a whole. As Holly Goldman puts it, SDL \u0026ldquo;ignores the fact that particular obligations flow from abstract principles together with contingent features of the world,\u0026rdquo; and such features \u0026ldquo;do not appear in all the morally best worlds.\u0026rdquo;\n", 
+        "url": "https:\/\/lambdacontinuum.github.io\/posts\/contra-sdl\/"
+    },
+    
+    "https:\/\/lambdacontinuum.github.io\/categories\/": {
+        "title": "Categories",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/lambdacontinuum.github.io\/categories\/"
+    },
+    
+    "https:\/\/lambdacontinuum.github.io\/tags\/": {
+        "title": "Tags",
+        "tags": [],
+        "content": "", 
+        "url": "https:\/\/lambdacontinuum.github.io\/tags\/"
+    },
+    
+}
+</script>
+
+
+    <script defer src="/js/lunr.js"></script>
+    <script defer src="/js/search.js"></script>
+
+
 </footer>
 
 </body>
 </html>
+
