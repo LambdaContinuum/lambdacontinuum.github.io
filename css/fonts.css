@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Lexend";
+    src: url('/fonts/Lexend-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Abel";
+    src: url('/fonts/Abel-Regular.ttf') format('truetype');
+}
+
+body {
+  font-family: 'Abel', Optima, Candara, Calibri, Arial, sans-serif;
+}
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}
