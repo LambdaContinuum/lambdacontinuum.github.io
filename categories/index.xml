@@ -4,8 +4,11 @@
     <title>Categories on Lambda Continuum</title>
     <link>https://lambdacontinuum.github.io/categories/</link>
     <description>Recent content in Categories on Lambda Continuum</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://lambdacontinuum.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+        <atom:link href="https://lambdacontinuum.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
