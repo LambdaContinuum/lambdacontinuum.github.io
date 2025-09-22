@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://lambdacontinuum.github.io/posts/divine-agency/</loc>
-    <lastmod>2025-01-27T17:59:14-05:00</lastmod>
-  </url><url>
     <loc>https://lambdacontinuum.github.io/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lambdacontinuum.github.io/posts/trusting-future-selves/</loc>
+    <lastmod>2025-04-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lambdacontinuum.github.io/posts/divine-agency/</loc>
     <lastmod>2025-01-27T17:59:14-05:00</lastmod>
   </url><url>
     <loc>https://lambdacontinuum.github.io/posts/contra-sdl/</loc>
