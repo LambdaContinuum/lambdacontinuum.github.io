@@ -201,7 +201,7 @@
 &lt;p&gt;(M) □φ → φ&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;(4) □□φ → □φ&lt;/p&gt;
+&lt;p&gt;(4) □φ → □□φ&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;
@@ -214,7 +214,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The interpretation that modal connectives take within modal logic depends on the modal system we’re attempting to analyze. ‘□’ can be interpreted as logical necessity, nomic necessity, moral obligation, and more. The interpretation we’re interested in is ‘□φ’ as ‘It is provable that φ.’&lt;/p&gt;
-&lt;p&gt;On its face, S4 might seem like a decent candidate for a modal logic that correctly analyzes provability. (K) holds because if a conditional is provable, then if the antecedent of the conditional is provable, the consequent of the conditional is obviously provable as well. (M) holds because if something is provable, it’s true. (4) holds because if you can prove there’s a proof, then there is a proof.&lt;/p&gt;
+&lt;p&gt;On its face, S4 might seem like a decent candidate for a modal logic that correctly analyzes provability. (K) holds because if a conditional is provable, then if the antecedent of the conditional is provable, the consequent of the conditional is obviously provable as well. (M) holds because if something is provable, it’s true. (4) holds because there’s a proof, then you can prove there is a proof.&lt;/p&gt;
 &lt;p&gt;This intuitive work is valuable, but more needs to be done. We need to ensure that there are no principles that hold for provability but are not provable in S4. To determine this, we require a precise explication of the notion of provability, and we must check whether the principles of S4 hold up in light of this explication.&lt;/p&gt;
 &lt;p&gt;Let’s provide an explication of provability. A natural candidate for the interpretation of □ is a formal provability predicate within a standard axiomatized mathematical theory. In fact, formal provability predicates are typically developed in the context of arithmetic. This is for a few reasons. For one, via Gödel coding, we can discuss numbers instead of expressions. Conveniently, arithmetic has many established results that can be borrowed and applied to syntax.&lt;/p&gt;
 &lt;p&gt;We’ll use Peano Arithmetic (PA). The language of PA, denoted 𝓛PA, is a first-order language with identity and the symbols 0, S, +, and *. Each natural number &lt;em&gt;n&lt;/em&gt; has a corresponding numeral, ⟨ &lt;em&gt;n&lt;/em&gt; ⟩, in PA with the form S(…S(0)) with &lt;em&gt;n&lt;/em&gt; occurrences of &lt;em&gt;S&lt;/em&gt;. Formulas in 𝓛PA can be classified by their complexity. Consider the formulas ∀x &amp;lt; t φ(x) and ∃x &amp;lt; t φ(x), the quantifiers in such formulas are are called &lt;em&gt;bounded&lt;/em&gt;. Formulas with only bounded quantifiers are called Δ0​-formulas. The complexity hierarchy is as follows: Π0 = Σ0 =Δ0. Σn+1-formulas have the form ∃x1…∃xk(φ(x1, …, xk)), where φ(x1,…,xk) is Πn​. Πn+1​-formulas have the form ∀x1…∀xk(φ(x1, …, xk)), where φ(x1,…,xk) is Σn​.&lt;/p&gt;
