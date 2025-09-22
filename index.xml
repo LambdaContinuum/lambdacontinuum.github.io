@@ -6,10 +6,225 @@
     <description>Recent content in Home on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://lambdacontinuum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is existence a predicate?</title>
+      <link>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</guid>
+      <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;
+&lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;
+&lt;p&gt;It is trivial to construct a first-order monadic predicate, termed ‘exists,’ such that exists := λx (∃y y = x). This ‘exists’ predicate is true of and only of things that exist and will abide by the syntactic rules of a predicate in first-order logic. So, why would it be incorrect to say that existence is a predicate?&lt;/p&gt;
+&lt;p&gt;Well, the dictum that existence isn’t a predicate originates with Kant, and he was writing before the progress in a logic of quantification that Frege, Russell, Quine, and others contributed to. It’s reasonable to assume that when Kant claimed existence isn’t a predicate, he meant something different.&lt;/p&gt;
+&lt;p&gt;There are a few possible things Kant may have had in mind when he said that existence isn&amp;rsquo;t a predicate.&lt;/p&gt;
+&lt;p&gt;At the time, traditional formal logic was relegated to Port Royal and Aristotelian syllogism. Such formal logic viewed existence as explicated in terms of copulas like &amp;lsquo;is&amp;rsquo; or &amp;lsquo;are.&amp;rsquo; Consider traditional examples of syllogistic logic, such as &amp;lsquo;Socrates is a man&amp;rsquo; or &amp;lsquo;Men are mortal.&amp;rsquo; If these sentences are true, they imply that both men and Socrates exist. So, existence is not a real predicate but is merely derivatively implied by the copula. Existence is merely a matter of the logic of the copula. He may also have meant that, whereas conceiving of a red apple adds something to the concept of an apple, conceiving of an existing apple doesn’t add anything because the mental images of an existing apple and a non-existing apple are the same. Thus, existence isn’t a predicate.&lt;/p&gt;
+&lt;p&gt;But in both cases, when Kant says that existence isn’t a predicate, he seems to be addressing something very different from what someone who constructs the predicate above is claiming. When Kant says existence isn’t a predicate, he is suggesting that within the framework of Aristotelian syllogistic logic, existence isn’t a predicate or that existence does not “add” to the concept of a thing. Meanwhile, those who endorse the trivial construction are simply asserting that a predicate named &amp;rsquo;existence&amp;rsquo; can be constructed in a predicate logic, which is true only of existing things. They are addressing two different questions.&lt;/p&gt;
+&lt;p&gt;Let’s take someone from a post-Frege world of logic. Gilbert Ryle denies that existence is a predicate. What does he mean? The idea is that existence differs significantly from other ordinary terms used in the predicate position. Consider the following sentences:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;‘Brown cows exist.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;‘Purple cows don’t exist.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;‘Brown cows flourish.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;‘Purple cows don’t flourish.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The idea is that we are systematically misled into treating sentences like (1) and (2) analogously to (3) and (4) due to superficial grammatical resemblance, since &amp;rsquo;exists&amp;rsquo; appears in the predicate position. However, there is a major difference between existence claims and other predicate claims, such as &amp;lsquo;flourish.&amp;rsquo; The former are translatable into quantificational sentences like &amp;lsquo;Some cows are brown&amp;rsquo; and &amp;lsquo;It is false that some cows are purple.&amp;rsquo; In translation, the word &amp;rsquo;exists&amp;rsquo; disappears from the predicate position, with its function being accomplished by the quantifier. In contrast, ordinary predicates like &amp;lsquo;flourish&amp;rsquo; and &amp;lsquo;red&amp;rsquo; are genuine predicates, as they cannot be translated into sentences where they no longer take a predicate position. The idea is that every existence claim is merely a covert quantificational claim, and hence &amp;rsquo;exists&amp;rsquo; is a bogus predicate. The proper role of existence is played by quantification and not predication.&lt;/p&gt;
+&lt;p&gt;If this is what’s at dispute, then it’s not even clear that Ryle disagrees with someone who claims existence is a predicate because they can construct a &amp;rsquo;exists&amp;rsquo; predicate. What’s actually in contention is whether or not it is a &amp;lsquo;genuine&amp;rsquo; predicate. One could endorse that &amp;rsquo;exists&amp;rsquo; is a predicate but not a &amp;rsquo;true&amp;rsquo; predicate in the sense that Ryle describes.&lt;/p&gt;
+&lt;p&gt;It seems to me that asking whether existence is a predicate is essentially pointless without further clarification of what is meant when one asks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kripke and Liars</title>
+      <link>https://lambdacontinuum.github.io/posts/kripke-and-liars/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/kripke-and-liars/</guid>
+      <description>&lt;p&gt;The Liar paradox is a paradox that arises when one is able to construct sentences that assert their own untruth. Consider the sentence &amp;ldquo;This sentence is not true.&amp;rdquo; Abbreviating this sentence as &amp;lsquo;L&amp;rsquo;, one can see that &amp;lsquo;L&amp;rsquo; is equivalent to ~True(L), that is: L ↔ ~True(L). Assuming that a truth predicate abides by the Tarski schema, True(A) ↔ A, it follows that True(L) ↔ ~True(L). This is a contradiction.&lt;/p&gt;
+&lt;p&gt;There are four routes one can take from here. One could grant that truth abides by the Tarski schema and so entirely abandon the notion of truth, keep the notion of truth but prevent the construction of any such Liar sentences, reject or restrict the Tarski schema, or restrict classical logic so one cannot infer a contradiction (or prohibit explosion while allowing contradictions).&lt;/p&gt;
+&lt;p&gt;Most find preventing the construction of Liar sentences the most plausible solution to the problem of the Liar. This seems plausible, but it isn&amp;rsquo;t as easy as it sounds. Liar sentences seem to naturally arise if one allows self-reference and there are a variety of ways to achieve such self-reference. The most suspicious form of self-reference, what we&amp;rsquo;ll call Artificial Self Reference, arises when we consider languages within which it&amp;rsquo;s permissible to have names for sentences that contain those very names. For example, if we let &amp;lsquo;L&amp;rsquo; be the name of the sentence &amp;lsquo;L isn&amp;rsquo;t true&amp;rsquo;. You may reasonably doubt that such a language is even intelligible, but importantly, this isn&amp;rsquo;t the only way to achieve self-reference. For example, one could achieve self-reference through Gödel Self-Reference.&lt;/p&gt;
+&lt;p&gt;The core insight behind Gödel Self-Reference is that once languages hit a certain level of expressive power, they can express their own syntax. Famously, one can achieve this by setting up a correlation between letters in the alphabet of a language with certain numbers, and between some concatenation relation and a relation among numbers. The result is that for each expression &lt;em&gt;e&lt;/em&gt; of the language, we have a singular term ⟨ &lt;em&gt;e&lt;/em&gt; ⟩ that denotes the number correlated with &lt;em&gt;e&lt;/em&gt;. Using Gödel numbering, from here on out we&amp;rsquo;ll describe the liar as L ↔ ~True(⟨L⟩).&lt;/p&gt;
+&lt;p&gt;It turns out that for any property you can express in some language, one could construct a sentence in the language that predicates that property to its own Gödel number. Formally, for any formula C(v) in the language of arithmetic with v as its only free variable, there is a sentence F in that language such that F ↔ C(⟨F⟩) is provable in the arithmetic theory. This is known as the Gödel-Tarski Fixed Point Lemma. And so this allows us to indirectly but legitimately achieve self-reference.&lt;/p&gt;
+&lt;p&gt;Now, just because self-reference is permitted doesn&amp;rsquo;t mean the construction of Liars is permitted. Applying the Fixed-Point Lemma to any formula ~B(v) gives us, for some sentence F, F ↔ ~B(⟨F⟩). It follows from F ↔ ~B(⟨F⟩) that ~(F ↔ B(⟨F⟩)). Now if truth abides by the Tarski schema, A ↔ True(⟨A⟩), then (arithmetic) truth must be undefinable since for any predicate, P, you define there will be a sentence of the form, ~(A ↔ P(⟨A⟩)), contradicting the Tarski schema. This is known as Tarski&amp;rsquo;s &amp;ldquo;Undefinability Theorem&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;This theorem generalizes to theories in classical logic in which our theory of arithmetic can be embedded. Consider an extension we&amp;rsquo;ll call L1 that results from adding to our language of arithmetic, which we&amp;rsquo;ll call L0, a primitive truth predicate, which we&amp;rsquo;ll call Truth0, meaning &amp;lsquo;is a true sentence of the language of L1&amp;rsquo;. The generalized proof of Tarski&amp;rsquo;s theorem tells us that in the extended language there&amp;rsquo;s the sentence Q such that it&amp;rsquo;s provable that ~(Q ↔ Truth0(⟨Q⟩)), but this is no problem, we&amp;rsquo;re able to consistently add into our extended language as axioms instances of the Tarski schema for all formulas in our non-extended arithmetic language L0 which enables us to define truth for our language L0 without having to deal with our sentence Q serving as a counter-example.&lt;/p&gt;
+&lt;p&gt;So we can define truth for sentences of a language, but only within an extended language. Of course, the undefinability theorem still shows we cannot extend our interpretation of the truth predicate to the extended language, since our extended language cannot consistently contain its own truth predicate any more than our non-extended language can. We need a second extension to consistently construct a truth predicate for the first extension. This second extension may look similar to the first, we obtain it by adding to arithmetic not only the predicate &amp;lsquo;Truth0&amp;rsquo; but also a new predicate &amp;lsquo;Truth1&amp;rsquo;. This process of extension will proceed indefinitely, giving us what we call the Tarski hierarchy over arithmetic.&lt;/p&gt;
+&lt;p&gt;This isn&amp;rsquo;t limited to arithmetic; each of the truth predicates in the Tarski hierarchy over arithmetic can be defined within standard set theory, of course our undefinability theorem still implies that the notion of set-theoretic truth cannot be defined within set theory.&lt;/p&gt;
+&lt;p&gt;What does this tell us about truth &lt;em&gt;tout court&lt;/em&gt;? If we were to add truth &lt;em&gt;tout court&lt;/em&gt; to a language, Tarski&amp;rsquo;s theorem tells us there&amp;rsquo;s a liar sentence in that language. And so if we want to restrict the formation of Liars in our language, it seems we need to reject full truth. This isn&amp;rsquo;t to entirely abandon the notion of truth, we still have the variety of formal truth predicates as given by our extended languages, rather this is to reject the coherence of &amp;ldquo;full&amp;rdquo; truth to prevent the formation of Liars. This is the classical Tarskian picture of a never-ending increasing hierarchy of truth predicates.&lt;/p&gt;
+&lt;p&gt;This solution to the Liar seems fine enough, so what is there to be said about Kripke&amp;rsquo;s thoughts? It&amp;rsquo;s important to note that the standard Tarskian picture works by avoiding to venture into a domain that is extremely easy to enter, and this may indicate the Tarskian hierarchy as an insufficient solution. Consider Kripke&amp;rsquo;s famous example of Jones who says:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Most of Nixon’s assertions about Watergate are untrue.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This seems like the sort of mundane thing people are willing to say in our day-to-day lives. But, suppose one of the things Nixon said was:&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Everything Jones says about Watergate is true.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;and that everything else Nixon said about Watergate is evenly divided between the false and the true. This would mean that Jones&amp;rsquo; assertion (1) is true if and only if Nixon&amp;rsquo;s assertion (2) is untrue, and Nixon&amp;rsquo;s assertion (2) is untrue if and only if Jones&amp;rsquo; assertion (1) is untrue. So Jones&amp;rsquo; assertion is true if and only if it&amp;rsquo;s untrue, a contradiction.&lt;/p&gt;
+&lt;p&gt;Maybe to protect against paradox, Jones asserts with the usage of Tarskian truth predicates:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Most of Nixon’s assertions about Watergate are not true0.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For reasons discussed previously this would obviously block the paradox, but it wouldn&amp;rsquo;t be true to what Jones wanted to say. Jones needs to choose a subscript higher than all the subscripts on &amp;rsquo;true&amp;rsquo; employed in Nixon&amp;rsquo;s utterances. Sadly, Jones probably doesn&amp;rsquo;t know which subscripts Nixon employed, and if he chooses one that&amp;rsquo;s too low his statement won&amp;rsquo;t have the content he wants it to have.&lt;/p&gt;
+&lt;p&gt;The general problem this indicates is that speaking in line with Tarskian theory places an immense pressure on us to choose incredibly high subscripts, otherwise we&amp;rsquo;re at risk of falling short of what we hope to say, but in doing so we make it harder for others to fulfill their own intentions. Imagine if you and a friend each attempted to say that nothing the other said is true, you&amp;rsquo;d both be trying to include the other&amp;rsquo;s assertions within the scope of your own. At most only one of you can succeed since success requires the use of a higher subscript than the other.&lt;/p&gt;
+&lt;p&gt;How do we go about dealing with this problem? Let&amp;rsquo;s add a single non-indexical truth predicate to a language L0, presume that Tarskian truth in such a theory can be defined in standard set theory and also presume that L0 is expressive enough such that self-referential formulas are permitted. Since truth in L0 can be defined in standard set theory, quantifiers in such a language must be restricted so as to range only over the members of some set, we cannot permit the ability to speak of arbitrary sets.&lt;/p&gt;
+&lt;p&gt;We’ll extend L0, a first-order language with names, predicates, and function symbols, to a language L0+ by adding a new 1-place predicate ‘True’. Variables in such a language will range over the members of some domain of discourse, D. Every n-place predicate in our original language has a set of n-tuples of members of D as its extension. For our ‘True’ predicate we won’t assign a permanent extension yet, first we’ll consider various temporary quasi-extensions. Each temporary quasi-extension X is a subset of our domain of discourse D satisfying the following conditions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;All of the members of X are Gödel numbers of sentences&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;No sentence and it’s negation are both in X.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Let Xneg consist of everything in D that is either not a sentence or the negation of a member of X. From (2) Xneg must be disjoint with X. From this one can give an inductive definition that assigns values to a formula of L0+ relative to an assignment function and a temporary quasi-extension X for ‘True’. I&amp;rsquo;ll avoid explicitly giving te full inductive definition here to avoid unnecessarily increasing the length of this article. Here, the main point is True(t) is true (which here is a term in some set-theoretic meta-language whose purpose is to describe L0+) relative to some assignment function and temporary quasi-extension X if and only if there is an object o denoted by t and o is in X. Likewise, True(t) is false if and only if there is an object o denoted by t and o isn’t in X.&lt;/p&gt;
+&lt;p&gt;Since X and Xneg need not be exhaustive, some formulas won’t be either true or false relative to a given assignment function and temporary quasi-extension X. Since we’ll be focusing on formulas with no free variables, we can drop talk of assignment functions and just focus on semantic value relative to a temporary quasi-extension X.&lt;/p&gt;
+&lt;p&gt;Now when it comes to our choice of a permanent quasi-extension, we can start with the simplest case. What we take to be the minimal fixed point. Let X0 be the empty set. Let X1 be the set of sentences that are true relative to the quasi-extension X0. For any ordinal α, let Xα+1 be the set of sentences that are true relative to the quasi-extension Xα. For a limit ordinal λ, let Xλ be the set of sentences that are true relative to some Xβ where β &amp;lt; λ. Now as it turns out, if a sentence is in Xα, it must also be in Xβ for any β &amp;gt; α. This is clear to see once you note our construction has the Monotonicity property. If X is a subset of Y, then every sentence with value 1 relative to X has value 1 relative to Y, and every sentence with value 0 relative to X has value 0 relative to Y. It follows that if Xα is a subset of Xα+1 then Xα+1 must be a subset of Xα+2 and by induction it follows that if Xα is a subset of Xα+1 then for all γ &amp;gt; β ≥ α, Xβ is a subset of Xγ. Since X0 is the empty set, X0 is a subset of X1, so whenever γ &amp;gt; β, Xβ is a subset of Xγ. Since Xα cannot grow indefinitely because of the fixed cardinality of sentences in the language, there must be an ordinal β for which Xβ = Xβ+1. This is the minimal fixed point.&lt;/p&gt;
+&lt;p&gt;We can say a sentence is true &lt;em&gt;tout court&lt;/em&gt; if it’s true in the minimal fixed point, false &lt;em&gt;tout court&lt;/em&gt; if it’s false in the minimal fixed point, or neither true nor false if it’s neither true nor false in the minimal fixed point.&lt;/p&gt;
+&lt;p&gt;As it turns out, on this construction, any Liar sentence will be assigned neither true nor false and we&amp;rsquo;re given a single non-indexical truth predicate allowing us to avoid the woes of competing for higher subscripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Quick Argument Contra Positivism</title>
+      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
+      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
+&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;K(P ∧ ¬KP)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Since our logic extends K, K(P ∧ ¬KP) ⊨ KP ∧ K¬KP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;By (2), KP ⊨ KKP&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;This implies KKP ∧ K¬KP, which contradicts D.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, we have derived a contradiction from our assumption, meaning it is impossible for the assumption to be true.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hence, ¬◊K(P ∧ ¬KP), that is, there are truths that are impossible to know.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since we’ve demonstrated certain truths are impossible to know, one must either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the assumption that there are truths we do not know,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the 4 and D, or&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the notion that all true propositions are unknowable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Option (1) is untenable as there are obviously truths we don’t know. Option (2) also doesn’t seem viable, if you know that P you know that you know that P (i.e. axiom 4) and if you know P you don’t know not P (i.e. axiom D) seem intuitive. The only option is to accept option (3) which contradicts positivism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Casual Sex is Wrong</title>
+      <link>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</guid>
+      <description>&lt;p&gt;As the world becomes more socially progressive, many people believe there is nothing wrong with casual sex. The approach to sexual ethics taken by many socially progressive individuals is that as long as sex is consensual, it is permissible. I can see why this view is popular as it presents a straightforward model of sexual relations and appears to restrict a lot of impermissible behavior. The idea that sex is permissible if and only if it is consensual allows casual sex to be permissible, since sex can indeed be both casual and consensual.&lt;/p&gt;
+&lt;p&gt;Although I consider myself socially progressive, I do not adopt the view that casual sex is permissible. In fact, I think it is plausible that views permitting casual sex may fail to adequately explain the wrongness of rape and pedophilia. This is an argument forwarded by David Benatar.&lt;/p&gt;
+&lt;p&gt;We have two views to consider here. The first holds that for sex to be permissible, it must signify romantic love. We’ll refer to this as the &amp;ldquo;significance view.&amp;rdquo; The opposing perspective is the &amp;ldquo;casual view,&amp;rdquo; which maintains that sex need not have romantic significance to be morally permissible. According to this view, sexual pleasure is not morally different from other forms of pleasure, such as gastronomic or aesthetic pleasure. This does not mean that casual sex is always permissible; sex that is casual yet deemed immoral by another moral principle remains wrong. It simply means that the casual nature of sex, in itself, does not make it impermissible.&lt;/p&gt;
+&lt;p&gt;It is easy to see that the significance view has no difficulty explaining the wrongness of pedophilia or the particular wrongness of rape. Plausibly, children cannot comprehend the full romantic significance that sex should entail, and therefore, engaging in sex with a child treats the child merely as a means to sexual pleasure, disregarding the romantic love sex ought to signify. The case for rape is even more straightforward: rape is unlike other acts of force because it compels someone to engage in an activity meant to express deep romantic love. In this sense, it is uniquely harmful.&lt;/p&gt;
+&lt;p&gt;It is less clear how one might explain the unique wrongness of rape or the wrongness of adult-child sex if one adopts the casual view. If sex is not morally distinct from other activities done for pleasure and holds no special significance, then why couldn’t children partake in it? One would need to appeal to an additional moral principle to constrain sexual actions. There are some possible responses, but, as we shall see, they appear unmotivated and implausible within the casual view of sex.&lt;/p&gt;
+&lt;p&gt;The first argument is that sex is physically harmful to a child. The issue with this is that not all sexual acts necessarily cause physical harm to a child. A more plausible argument is that sex is psychologically harmful to a child. However, this view also encounters challenges. Some research suggests that it is unclear to what extent the psychological harm is a result of the sexual act itself, rather than of social taboos surrounding the topic. I do not hold a particularly strong stance on this matter, as it is largely an empirical question, but it is conceivable that this might be true. In such a case, a defender of the casual view could not cite psychological harm as a principled objection to all pedophilia. In a society without taboos against child-adult sex, where harm arises primarily from the social taboo, child-adult sex might cause no psychological harm to the child, a deeply problematic conclusion. By my lights, adult-child sex would still be wrong in such a society.&lt;/p&gt;
+&lt;p&gt;Another possible response is that a child cannot consent to sexual activity, making it inherently wrong to engage in sexual relations with a child. This principle seems plausible, and the significance view can account for it; however, it is unclear how this principle could hold under the casual view. If sex holds no special significance, then what about it renders a child unable to consent? One suggestion is that children may lack an understanding of the potential health risks associated with casual sex, thus disqualifying them from permissibly entering a sexual encounter. However, this response falls short. First, not all sexual activity entails significant health risks. Moreover, it is common practice for parents or guardians to make decisions for children when they are not competent enough to assess an activity’s risks. For instance, a parent may allow their child to participate in a contact sport despite the risks, valuing the child’s enjoyment of the activity. On the casual view, where sex is seen as no more significant than other activities, it is difficult to explain why sexual risks, and not those of other activities, warrant excluding children and disregarding the consent they or their guardians might give.&lt;/p&gt;
+&lt;p&gt;Perhaps the principle is not that children cannot consent to sex, but rather that, given the differences between adults and children, it is impossible for both parties to fully understand each other’s motives for engaging in sex. This lack of mutual understanding makes it impossible for each to know what the encounter means to the other, and this absence of information undermines the validity of consent. This objection is also plausible within the significance view, but it is unclear why it would hold under the casual view. After all, this inability to fully grasp each other&amp;rsquo;s intentions exists in other activities with children, such as playing a game, which do not carry the unique significance that proponents of the significance view ascribe to sex.&lt;/p&gt;
+&lt;p&gt;There is a more general issue with arguments based on consent: adults regularly interfere with a child&amp;rsquo;s freedom. For instance, a parent may compel their child to attend an opera to help them appreciate certain aesthetic pleasures. If there is no meaningful distinction between sexual pleasures and aesthetic pleasures, on what principled basis can a parent coerce their child to attend the opera but not to engage in sexual activity?&lt;/p&gt;
+&lt;p&gt;Thus, the casual view struggles to account for the wrongness of adult-child sex, but what about the unique wrongness of rape? The wrongness of rape is evident, as most would agree that, prima facie, we should not force others to do things against their will. However, it is difficult to explain why rape is especially wrong compared to other coercive actions, such as forcing someone to eat something they do not wish to eat. At best, proponents of the casual view could argue that rape is especially wrong only for those who reject the casual view. Yet, this is a challenging position to defend.&lt;/p&gt;
+&lt;p&gt;Consider a hypothetical scenario: a promiscuous woman who holds the casual view and frequently engages in casual sex is raped and brings her rapist to trial. In this trial, her sexual history could be cited as evidence of her stance on sexual ethics, implying that her experience of rape did not constitute a unique harm, perhaps equivalent to the coercion of forcing her to eat something unpleasant. This strikes me as deeply flawed. Raping someone for whom sex holds little significance does not reduce the wrongness of the act to that of forcing them to do something trivial. Nor is it justifiable to invoke a woman’s past sexual history to argue that her rape was somehow less morally harmful. Yet, the casual view of sex seems to permit such reasoning.&lt;/p&gt;
+&lt;p&gt;The general challenge the casual view encounters in attempting to account for the wrongness of pedophilia or the special wrongness of rape is its failure to attribute any special significance to sex, while the significance view does grant it such importance, particularly in terms of romantic significance. One might wonder whether a hybrid view could bridge the gap between the casual view and the significance view. To uphold the permissibility of casual sex, this hybrid perspective would need to argue that sex is not like other pleasures and possesses some form of significance, yet it need not necessarily be an expression of romantic affection. It‘s hard to see what other significant normative features of sex could distinguish sexual pleasure from other forms of pleasure, aside from romantic significance. While one might consider factors such as intimacy or privacy it’s hard to see how they don’t either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reduce back into the significance view.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fail to properly condemn rape and pedophilia without condemning promiscuity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From where I stand, this seems plausible. I can’t really think of any normative feature of sex that is absent in other forms of pleasure which would promiscuity and casual sex while not permitting certain acts of pedophilia or entailing that rape is especially wrong. I also take it as given that a moral theory of sex being unable to account for the special wrongness of rape or the wrongness of pedophilia constitutes an inadequate normative model of sex. In light of this, I think it’s plausible we should give up the view that casual sex is permissible. Minimally, I think these considerations should make us more carefully consider the moral status of casual sex and promiscuity, which has become more prominent in the modern day. That being said, I’m not completely sold on this. So, if anyone has an argument that they think establishes the permissibility of casual sex, I’d be happy to hear it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S4 is Inadequate as a Logic of Formal Provability</title>
+      <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
+      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;
+&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(K) □(φ → ψ) → (□φ → □ψ)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(M) □φ → φ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(4) □□φ → □φ&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Modus Ponens: From ⊢ φ and ⊢ φ → ψ, infer ⊢ ψ&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Necessitation: If ⊢ φ, then ⊢ □φ&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The interpretation that modal connectives take within modal logic depends on the modal system we’re attempting to analyze. ‘□’ can be interpreted as logical necessity, nomic necessity, moral obligation, and more. The interpretation we’re interested in is ‘□φ’ as ‘It is provable that φ.’&lt;/p&gt;
+&lt;p&gt;On its face, S4 might seem like a decent candidate for a modal logic that correctly analyzes provability. (K) holds because if a conditional is provable, then if the antecedent of the conditional is provable, the consequent of the conditional is obviously provable as well. (M) holds because if something is provable, it’s true. (4) holds because if you can prove there’s a proof, then there is a proof.&lt;/p&gt;
+&lt;p&gt;This intuitive work is valuable, but more needs to be done. We need to ensure that there are no principles that hold for provability but are not provable in S4. To determine this, we require a precise explication of the notion of provability, and we must check whether the principles of S4 hold up in light of this explication.&lt;/p&gt;
+&lt;p&gt;Let’s provide an explication of provability. A natural candidate for the interpretation of □ is a formal provability predicate within a standard axiomatized mathematical theory. In fact, formal provability predicates are typically developed in the context of arithmetic. This is for a few reasons. For one, via Gödel coding, we can discuss numbers instead of expressions. Conveniently, arithmetic has many established results that can be borrowed and applied to syntax.&lt;/p&gt;
+&lt;p&gt;We’ll use Peano Arithmetic (PA). The language of PA, denoted 𝓛PA, is a first-order language with identity and the symbols 0, S, +, and *. Each natural number &lt;em&gt;n&lt;/em&gt; has a corresponding numeral, ⟨ &lt;em&gt;n&lt;/em&gt; ⟩, in PA with the form S(…S(0)) with &lt;em&gt;n&lt;/em&gt; occurrences of &lt;em&gt;S&lt;/em&gt;. Formulas in 𝓛PA can be classified by their complexity. Consider the formulas ∀x &amp;lt; t φ(x) and ∃x &amp;lt; t φ(x), the quantifiers in such formulas are are called &lt;em&gt;bounded&lt;/em&gt;. Formulas with only bounded quantifiers are called Δ0​-formulas. The complexity hierarchy is as follows: Π0 = Σ0 =Δ0. Σn+1-formulas have the form ∃x1…∃xk(φ(x1, …, xk)), where φ(x1,…,xk) is Πn​. Πn+1​-formulas have the form ∀x1…∀xk(φ(x1, …, xk)), where φ(x1,…,xk) is Σn​.&lt;/p&gt;
+&lt;p&gt;All sentences in 𝓛PA are logically equivalent to, for some &lt;em&gt;n&lt;/em&gt; and &lt;em&gt;m&lt;/em&gt; , a Σn​ or Πm​ formula. However, the class of Σ1-formulas is particularly interesting, as a function is Turing-recognizable if it is Σ1​-definable. This means an axiomatic arithmetic that can handle Σ1​ sentences is expressive enough to prove statements concerning the syntax of a formal language within it.&lt;/p&gt;
+&lt;p&gt;We say a theory of arithmetic, T, is Σ1-sound if, for any Σ1-formula, T ⊢ φ implies that φ is true in the standard model of arithmetic. Correspondingly, T is Σ1-complete if, for any sentence φ ∈ Σ1, φ is true in the standard model of arithmetic, then T ⊢ φ. Peano Arithmetic is Σ1-complete.&lt;/p&gt;
+&lt;p&gt;We also map syntactic objects to natural numbers so that each syntactic object τ of 𝓛PA is represented by a Gödel code ⌜τ⌝. Now, consider an arbitrary theory T of 𝓛PA that extends Peano Arithmetic. We call such a theory elementary presented if there’s an arithmetic ∆0-formula, 𝙰𝚡T(x), which is true of a natural number if it codes an axiom of T. We can use 𝙰𝚡T(x) to construct a ∆0-formula 𝙿𝚛𝚏T(y, x), a binary proof predicate of T that is true of natural numbers &lt;em&gt;m&lt;/em&gt; and &lt;em&gt;n&lt;/em&gt; if &lt;em&gt;m&lt;/em&gt; is the code of a sequence of formulas that constitute a proof of the formula whose code is &lt;em&gt;n&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Now consider Binumeration, which consists of two propositions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If in the standard model 𝙿𝚛𝚏T( &lt;em&gt;m&lt;/em&gt; , &lt;em&gt;n&lt;/em&gt; ), then PA ⊢ 𝙿𝚛𝚏T(⟨ &lt;em&gt;m&lt;/em&gt; ⟩, ⟨ &lt;em&gt;n&lt;/em&gt; ⟩)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If in the standard model ¬𝙿𝚛𝚏T( &lt;em&gt;m&lt;/em&gt; , &lt;em&gt;n&lt;/em&gt; ), then PA ⊢ ¬𝙿𝚛𝚏T(⟨ &lt;em&gt;m&lt;/em&gt; ⟩, ⟨ &lt;em&gt;n&lt;/em&gt; ⟩).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We can obtain a monadic standard provability predicate, 𝙿𝚛𝚘𝚟T(x) := ∃y 𝙿𝚛𝚏T(y, x), and a consistency statement, 𝙲𝚘𝚗(x) := ¬𝙿𝚛𝚘𝚟T(⌜⊥⌝).&lt;/p&gt;
+&lt;p&gt;Since 𝙿𝚛𝚘𝚟T(x) is obtained by appending an existential quantifier to a ∆0-formula, it’s a ΣI-formula. It follows from Σ1-completeness that the first conjunct of Binumeration is true. The second conjunct of Binumeration fails, but this is no problem. 𝙿𝚛𝚘𝚟T(x) still succeeds in defining provability since 𝙿𝚛𝚘𝚟T(⟨⌜φ⌝⟩) is true in the standard model just in case T ⊢ φ.&lt;/p&gt;
+&lt;p&gt;In fact, our 𝙿𝚛𝚘𝚟T(x) formula satisfies what our known as the Hilbert-Bernays conditions for formal provability predicates, this is of future relevance.&lt;/p&gt;
+&lt;p&gt;Now that we have provided a precise explication of the notion of formal provability as the formal provability predicate 𝙿𝚛𝚘𝚟T(⟨⌜φ⌝⟩), we can finally ask whether we can interpret □ in S4 as this predicate.&lt;/p&gt;
+&lt;p&gt;To answer this, consider the Diagonal Lemma. For any formula φ(x) ∈ 𝓛PA, there is a sentence λ ∈ 𝓛PA such that PA ⊢ λ ≡ φ(⌜λ⌝). If we take φ(x) to be ¬𝙿𝚛𝚘𝚟PA( &lt;em&gt;x&lt;/em&gt; ), the diagonal lemma entails the existence of a sentence that provably satisfies the condition G ≡ ¬𝙿𝚛𝚘𝚟PA(⌜G⌝). G is thus independent of PA. You may recognize this is Gödel’s incompleteness theorem: if an elementary presented theory T extends PA and is consistent, then there is a sentence G ∈ 𝓛PA such that T ⊬ G and T ⊬ ¬G. Moreover, T ⊬ 𝙲𝚘𝚗(T).&lt;/p&gt;
+&lt;p&gt;Years later, Henkin would ask what would happen with sentences such as H ≡ 𝙿𝚛𝚘𝚟T(⌜H⌝). Löb answered this question with Löb’s theorem: if the Diagonal Lemma applies to T and the provability predicate of a theory T satisfies the Hilbert-Bernays provability conditions , T ⊢ 𝙿𝚛𝚘𝚟T(⌜φ⌝) → φ. For any given sentence φ, we call the formula 𝙿𝚛𝚘𝚟T(⌜φ⌝) → φ reflection for φ (over T), and Löb’s theorem asserts that reflection is provable in T but only for all theorems of T. The theorem follows from an application of 𝙿𝚛𝚘𝚟T(⌜x⌝) → φ to the Diagonal Lemma. Since, if the Diagonal Lemma applies to T, the lemma entails a ψ such that T ⊢ ψ ≡ (𝙿𝚛𝚘𝚟T(⌜ψ⌝) → φ).&lt;/p&gt;
+&lt;p&gt;Now, with background laid down, can □ of S4 be reasonably interpreted as the formal provability predicate? Let us take T = PA. From here, there are a few ways to show the inadequacy of S4 with respect to formal provability. One such approach is to note that, since S4 ⊢ □φ → φ for any φ, interpreting □φ as 𝙿𝚛𝚘𝚟T(⌜φ⌝) would require that for all φ ∈ 𝓛PA, PA ⊢ 𝙿𝚛𝚘𝚟T(⌜φ⌝) → φ. This in conjunction with Löb’s theorem entails that for all φ ∈ 𝓛PA, PA ⊢ φ. So, if PA is consistent, S4 cannot be the logic of the formal provability predicate of PA.&lt;/p&gt;
+&lt;p&gt;Another approach is to recall that 𝙲𝚘𝚗(x) is ¬𝙿𝚛𝚘𝚟T(⌜⊥⌝), which is logically equivalent to 𝙿𝚛𝚘𝚟T(⌜⊥⌝) → ⊥. This is an axiom of S4 since □⊥ → ⊥ is an instance of (M). Therefore, if S4 is adequate, it follows that PA ⊢ 𝙲𝚘𝚗(PA). This contradicts Gödel’s second incompleteness theorem. Moreover, necessitation yields □(□⊥ → ⊥), allowing us, in S4, to derive the claim that the consistency statement is derivable, which again contradicts Gödel’s second incompleteness theorem.&lt;/p&gt;
+&lt;p&gt;This argument assumes that T = PA, but the point generalizes to any consistent, recursively axiomatizable extension of PA. Given this, it’s clear that S4 is inadequate as a modal logic of formal provability.&lt;/p&gt;
+&lt;p&gt;Here’s one ramification of this. S4 was initially proposed as a logic of provability in light of Brouwer’s intuitionistic logic, which was formalized by Heyting as Intuitionistic Propositional Calculus (IPC). On this approach we say a mathematical claim is true if it has a proof and false if there is a proof that it leads to contradiction. This idea inspired Brouwer-Heyting-Kolmogorov semantics, which identifies true with provability. A proof of φ ∧ ψ is a proof of φ and a proof of ψ; a proof of φ ∨ ψ is a proof of φ or a proof of ψ; a proof of φ → ψ is a construction of proofs of ψ from proofs of φ; and since contradictions have no proof, a proof ¬φ is a proof of φ → ⊥, where ⊥ is a contradiction. Gödel would later provide a translation function, &lt;em&gt;t&lt;/em&gt; , that converts formulas in IPC into modal formulas and would prove that if IPC ⊢ φ, then S4 ⊢ t(φ). McKinsey and Tarski subsequently proved that if S4 ⊢ t(φ), then IPC ⊢ φ. Thus, IPC can be interpreted to be about classical provability if and only if S4 is the logic of classical provability. We’ve shown that S4 cannot be the logic of classical provability, and so IPC cannot be taken to be about classical provability.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Trusting Our Future Selves</title>
@@ -135,11 +350,11 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://lambdacontinuum.github.io/about/</link>
+      <title>Other</title>
+      <link>https://lambdacontinuum.github.io/other/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/about/</guid>
+      <guid>https://lambdacontinuum.github.io/other/</guid>
       <description>&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/w0arna&#34;&gt;@w0arna&lt;/a&gt;&lt;/li&gt;
