@@ -301,9 +301,8 @@
       <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
       
       <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
-      <description>&lt;p&gt;Since I’ve started publishing again, I decided to begin with a re-write of an old article titled something alon&lt;/p&gt;
-&lt;p&gt;Bengt Hansson introduced the term &lt;em&gt;Standard Deontic Logic&lt;/em&gt; (referred to as SDL from here on) to denote deontic&lt;/p&gt;
-&lt;p&gt;ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences&lt;/p&gt;
+      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset ℐ of the set 𝒲 of possible worlds, such that for all p, Op holds if and only if p ∈ w for all w∈ℐ.&lt;/p&gt;
+&lt;p&gt;ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Op → ~O~p,&lt;/p&gt;
@@ -324,9 +323,9 @@
 &lt;p&gt;If Op and p logically implies q, then Oq, i.e. necessitation.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Now that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following&lt;/p&gt;
-&lt;p&gt;First is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him&lt;/p&gt;
-&lt;p&gt;Such a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of S&lt;/p&gt;
+&lt;p&gt;Now that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following issues.&lt;/p&gt;
+&lt;p&gt;First is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him your crowbars and said, &amp;ldquo;You may borrow either the big or the small crowbar.&amp;rdquo; You offer him a choice between two tools. Now imagine the tools belonged to someone else who authorized you to lend one of them, but you had forgotten which of the two could be lent. You might say, &amp;ldquo;You may borrow either the big or the small crowbar, but I do not know which.&amp;rdquo; In this latter case, only one of the crowbars is permitted to be borrowed. However, the former case illustrates an instance of free choice permission: you are permitted to take the small crowbar, and you are permitted to take the large crowbar (but not both). To represent this in SDL, we want a permission operator that satisfies the postulate P(a∨b) → Pa∧Pb.&lt;/p&gt;
+&lt;p&gt;Such a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of SDL axioms. However, this leads to implausible results. Consider the following inference:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;O(~a ∧ ~b) → O~a, Holds in SDL.&lt;/p&gt;
