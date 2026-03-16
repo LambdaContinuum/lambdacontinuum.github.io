@@ -6,10 +6,43 @@
     <description>Recent content in Home on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://lambdacontinuum.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Error Theory in Tension With Deontic Logic?</title>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
+      <description>&lt;p&gt;I recently came across an interesting paper on formal objections to error theory, this was the gist of it.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
+&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;|= φ ∨ ¬φ, for any φ&lt;/li&gt;
+&lt;li&gt;Pψ ∨ ¬Pψ, from 1&lt;/li&gt;
+&lt;li&gt;Pψ ∨ Iψ, from 2, Pψ = Iψ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From hereon out we’ll call (3) the Dual Schema (DS). The issue should be clear, the error theorist wants to say a moral judgement like “It is impermissible to steal candy from a baby” is false because the sort of property needed to render the judgement true, moral properties, do not obtain anywhere. But the falsity of that judgement alongside (DS) entails “It’s permissible to steal candy from a baby”, a judgement that seemingly instantiates the moral property of permissibility. So, error theory seems to contradict (DS), a logical truth of SDL.&lt;/p&gt;
+&lt;p&gt;The error theorist has a couple of moves here. A plausible one is just rejecting SDL, there are antecedent reasons to do so and I defend such a view on this blog but it’s not clear to me that that’s necessary. The author of the paper argues the objection is only superficially formal.&lt;/p&gt;
+&lt;p&gt;That might need a little more elaboration, what is the error theorist saying when they deny “It is impermissible to steal candy from a baby”? I’d say something like such a judgement is false because for it to be true there needs to be (stance-independent) &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby, but no such reasons of that kind exist. Given the (DS) the error theorist must then be committed to the truth of “It is permissible to steal candy from the baby” and the proponent of this objection thinks that’s an issue for the error theorist. But why? They’ll say “the truth of that judgement requires the moral property of permissibility and the error theorist rejects such properties” but note that the error theorist is objecting to something like the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt;. It’s only an issue for the error theorist to endorse “It is permissible to steal candy from a baby” if the judgement means something like there’s a &lt;em&gt;reason in favor&lt;/em&gt; of the act being permissible but the (DS) doesn’t suppose any such analysis. Suppose instead that to say “It is permissible to steal candy from a baby” is just to say that there are no &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby.&lt;/p&gt;
+&lt;p&gt;So we have two analyses of what it means to say “It’s permissible to steal candy from the baby”, call the one that supposes the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P+) variant and the one that supposes there are no
+&lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P-) variant. The error theorist is clearly committed to a contradiction in affirming (P+) given they think all such judgements are false in virtue of supposing the existence of &lt;em&gt;reasons&lt;/em&gt; that don’t obtain, but there’s no issue for the error theorist in affirming (P-) since the claim doesn’t suppose such &lt;em&gt;reasons&lt;/em&gt;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; And so there’s only a contradiction for the error theorist if (DS) entails (P+) instead of (P-) but why think that? The objection being raised isn’t purely formal, it implicitly supposes the dual schema involves a certain analysis of permissibility that supposes the sort of properties the error theorist wishes to reject, but the error theorist can just reject that.&lt;/p&gt;
+&lt;p&gt;So say we have two (DS) variants, (DS+) supposes permission is analyzed in line with (P+) while (DS-) supposes permission is analyzed in line with (PS-). SDL says nothing about what variant (DS) is supposed to endorse, but for SDL to show a contradiction in error theory (DS) has to be (DS+). Either way, there isn’t a clear formal contradiction for the error theorist in adopting SDL, they just need to deny their opponents framing of judgements about permission involving the existence reasons.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;https://link.springer.com/article/10.1007/s10790-025-10076-3&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;In fact, the judgement supposes that such reasons don’t exist. A corollary of this is all judgements about the permission of acts come out true but I don’t see why that would be an issue.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Contra Contextualism Refuting Skepticism</title>
@@ -217,6 +250,50 @@
 &lt;p&gt;Now when it comes to our choice of a permanent quasi-extension, we can start with the simplest case. What we take to be the minimal fixed point. Let X0 be the empty set. Let X1 be the set of sentences that are true relative to the quasi-extension X0. For any ordinal α, let Xα+1 be the set of sentences that are true relative to the quasi-extension Xα. For a limit ordinal λ, let Xλ be the set of sentences that are true relative to some Xβ where β &amp;lt; λ. Now as it turns out, if a sentence is in Xα, it must also be in Xβ for any β &amp;gt; α. This is clear to see once you note our construction has the Monotonicity property. If X is a subset of Y, then every sentence with value 1 relative to X has value 1 relative to Y, and every sentence with value 0 relative to X has value 0 relative to Y. It follows that if Xα is a subset of Xα+1 then Xα+1 must be a subset of Xα+2 and by induction it follows that if Xα is a subset of Xα+1 then for all γ &amp;gt; β ≥ α, Xβ is a subset of Xγ. Since X0 is the empty set, X0 is a subset of X1, so whenever γ &amp;gt; β, Xβ is a subset of Xγ. Since Xα cannot grow indefinitely because of the fixed cardinality of sentences in the language, there must be an ordinal β for which Xβ = Xβ+1. This is the minimal fixed point.&lt;/p&gt;
 &lt;p&gt;We can say a sentence is true &lt;em&gt;tout court&lt;/em&gt; if it’s true in the minimal fixed point, false &lt;em&gt;tout court&lt;/em&gt; if it’s false in the minimal fixed point, or neither true nor false if it’s neither true nor false in the minimal fixed point.&lt;/p&gt;
 &lt;p&gt;As it turns out, on this construction, any Liar sentence will be assigned neither true nor false and we&amp;rsquo;re given a single non-indexical truth predicate allowing us to avoid the woes of competing for higher subscripts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Logic Behind a Theory Of Concepts</title>
+      <link>https://lambdacontinuum.github.io/posts/logic-concepts/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/logic-concepts/</guid>
+      <description>&lt;p&gt;“Concept” is a polysemous term. Some use it in a way that simply equates it with ‘property,’ but it can take on various specific senses, such as Fregean senses, abstract entities, unsaturated entities whose extensions are sets and classes, and more. But regardless of how one defines concepts, a number of formal issues arise when dealing with them.&lt;/p&gt;
+&lt;p&gt;The connection between concepts and logic should be clear, since many well-known arguments rely on this connection. For example, consider an argument for the theory-laden nature of perception: Perception involves judgments of the form “x is red.” If we perceive that an apple is red, this involves the judgment “the apple is red.” Such judgments involves predication, to predicate “red” one must have the concept of red. These concepts exist within frameworks of interconnected concepts, that is, a theory. The core of this argument depends on the deep connection between concepts and predication.&lt;/p&gt;
+&lt;p&gt;A theory (of the metaphysics) of concepts must necessarily quantify over concepts or their corresponding abstract entities. Unless we adopt a strict nominalism based on First-Order Logic, this will require the use of Second-Order Logic. Consequently, any theory of concepts must take into account the various results and constraints from mathematical logic.&lt;/p&gt;
+&lt;p&gt;There are two types of models for higher-order logic. In a standard model, first-order variables range over a domain 𝒟, second-order variables range over 𝒫(𝒟) for predicates and 𝒫(𝒟_1 × … × 𝒟_n) for n-ary relations, and third-order variables range over 𝒫(𝒫(𝒟)), and so on. This contrasts with Henkin models, where a fixed subset of the powerset is chosen instead. For example, in Henkin semantics, the quantifier in ∀P[P(a)] ranges over a fixed subset of 𝒫(𝒟).&lt;/p&gt;
+&lt;p&gt;Higher-order logics with Henkin models can be viewed as a variant of many-sorted first-order logic. These logics are semantically complete, and the properties of compactness and Löwenheim–Skolem hold. However, they do not allow certain mathematical structures to be defined in their intended way. In contrast, higher-order logic with standard models is neither complete nor compact, and Löwenheim–Skolem does not hold. (By Lindström&amp;rsquo;s theorem, out of all logics that satisfy certain regularity conditions, the compactness theorem and the downward Löwenheim–Skolem theorem first-order logic as the strongest logic. Thus, to achieve greater expressive power, such as the ability to quantify over predicates, we must sacrifice at least one of these properties.)&lt;/p&gt;
+&lt;p&gt;While higher-order logics with standard models lack a full-fledged proof theory, they compensate by enabling the categorical definition of important concepts, such as well-foundedness conditions and distinctions between countable and uncountable domains.&lt;/p&gt;
+&lt;p&gt;Now we can ask: what concepts are there? This question can be answered by specifying a comprehension scheme. Unrestricted comprehension asserts that for any condition φ that can be formulated in the formal language, there is a corresponding concept. However, this leads to problems such as Russell’s paradox of predication.&lt;/p&gt;
+&lt;p&gt;Consider the predicate P(x), defined as ¬x(x), i.e., P(x) is not predicable of itself. Letting ϕ = ¬x(x), unrestricted comprehension gives us ∀x[P(x) ↔ ¬x(x)]. This allows us to derive the contradiction P(P) ↔ ¬P(P).&lt;/p&gt;
+&lt;p&gt;A definition is called impredicative if and only if it quantifies over a collection of objects to which the defined object itself belongs. Otherwise, it is predicative. Russell argued that paradoxes like these arise in systems of logic that allow unrestricted comprehension, as such systems permit impredicative definitions. The proposed solution is to restrict the logic to be predicative, thereby avoiding these paradoxes.&lt;/p&gt;
+&lt;p&gt;One way to avoid paradoxes is to assign an order to all variables and prescribe that, in any atomic formula P(x_1, …, x_n) within a condition φ formulated in the language, the order of all x must be lower than the order of P. This restriction renders ¬x(x) not well-formed.&lt;/p&gt;
+&lt;p&gt;Another approach is to adopt Church’s Simple Type Theory to define a higher-order logic with predicates. In this framework, every term has a type corresponding to a domain. Starting with a finite set of base types, compound types are built recursively. If α and β are types, then (αβ) represents the type of a function that takes an object of type β and yields an object of type α. For example, a unary predicate P has type (σι), representing a function that takes a term of type ι and yields a truth value of type σ. A second-order predicate has type (σ(σι)), and so on.&lt;/p&gt;
+&lt;p&gt;However, we need not completely abandon impredicativity, since it does not essentially lead to contradiction. In fact, many essential concepts, such as induction principles used to define the natural numbers, are impredicative. Because of this, many conceptual realists favor impredicative second-order logics. These logics restrict comprehension less strictly than predicative ones, or they combine full comprehension with a limited substitution principle to gain expressiveness while avoiding paradoxes. The main challenge with this approach is ensuring consistency, which becomes significantly more difficult in impredicative systems.&lt;/p&gt;
+&lt;p&gt;We can express these various views as combinations of different schemas and conditions. A formula φ is homogeneously stratified if and only if there exists a function f(.) that maps terms and formulas of the language to natural numbers, such that for any atomic formula P(x_1, …, x_n) in φ, the following conditions hold:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;f(P) = max[f(x_i)] + 1&lt;/li&gt;
+&lt;li&gt;f(x_i) = f(x_j) for 1 ≤ i, j ≤ n.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We have the following schema:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;∃F∀x_1, …, x_n[F(x_1, …, x_n) ↔ φ(x_1, …, x_n)] (Scheme A)&lt;/li&gt;
+&lt;li&gt;∃F∀x_1, …, x_n[F(x_1, …, x_n) ↔ G(x_1, …, x_n) &amp;amp; φ(x_1, …, x_n)] (Scheme B)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And the following conditions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;x_1, …, x_n are free in φ.&lt;/li&gt;
+&lt;li&gt;F is not free in φ.&lt;/li&gt;
+&lt;li&gt;φ is homogeneously stratified.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The following views as combinations of these features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unrestricted comprehension is a combination of scheme A and condition (1).&lt;/li&gt;
+&lt;li&gt;Predicative comprehension is a combination of scheme A and conditions (1), (2), and (3).&lt;/li&gt;
+&lt;li&gt;Views where comprehension is less restricted than in predicative ones are a combination of scheme B and conditions (1) and (2).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The logic one adopts is deeply connected to one’s metaphysical stance towards concepts. First-order logic and predicative higher-order logic with Henkin models reflect a strict nominalist perspective. Predicative higher-order logic with standard models can also be viewed as nominalist, as predicative comprehension reduces the existence of general concepts to conditions explicitly stated in the formal language. Impredicative higher-order logics with standard models, by contrast, embody a hardline realist stance. Efforts to avoid inconsistencies arising from impredicative logics result in higher-order logics with varying degrees of expressive power. And so it’s easy to see how the logic one adopts reflects different metaphysical stances regarding nominalism, cognitivism, and realism.&lt;/p&gt;
 </description>
     </item>
     
@@ -479,7 +556,9 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lambdacontinuum.github.io/other/</guid>
-      <description>&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me:&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m a recent CS graduate from Boston University. Growing up, I&amp;rsquo;d spend a lot of time reading what was mostly fiction. I was a big fan of Paolini&amp;rsquo;s Inheritance Cycle, The Hobbit, and the Lord of the Rings, etc. I wasn&amp;rsquo;t too big a fan of science fiction, I always preferred reading fantasy. Fiction took up most of what I read until high school, when I came across Plato&amp;rsquo;s dialogues. If I&amp;rsquo;m recalling correctly, it was Ion that instilled an interest in philosophy in me (unironically so, since by my lights it&amp;rsquo;s one of Plato&amp;rsquo;s worst arguments). From then on, most of my reading was non-fiction, though I still read some fiction, typically wuxia and xianxia novels. I also enjoy reading manga (though I don&amp;rsquo;t really watch anime). I don&amp;rsquo;t enjoy playing video games much, with the exceptions of Old School RuneScape, FromSoftware games, Fallout, and the Elder Scrolls Series. To kill time I&amp;rsquo;ll occasionally solve problems on Project Euler for fun, or tinker with various Linux systems. There was a time when I enjoyed constantly tinkering and recompiling the Linux kernel, though I haven&amp;rsquo;t done that in a while. Outside of that I enjoy UFC/MMA and weightlifting, the latter I do frequently while the former is something I just watch, really.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/woarna_is_right&#34;&gt;@woarna_is_right&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Substack:&lt;/strong&gt; &lt;a href=&#34;https://lambdacontinuum.substack.com/&#34;&gt;Lambda Continuum&lt;/a&gt;&lt;/li&gt;

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>The Logic Behind a Theory Of Concepts | Lambda Continuum</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <h1>Lambda Continuum</h1>
+        <link rel="canonical" type="text/html" href="https://lambdacontinuum.github.io/" title="Lambda Continuum" />
+        <link rel="alternate" type="application/rss+xml" href="https://lambdacontinuum.github.io/index.xml" title="Lambda Continuum" />
+
+  </head>
+
+<hr/>
+
+<div class="article-meta">
+<h1><span class="title">The Logic Behind a Theory Of Concepts</span></h1>
+
+<h2 class="date">2025/06/14</h2>
+</div>
+
+<main>
+<p>“Concept” is a polysemous term. Some use it in a way that simply equates it with ‘property,’ but it can take on various specific senses, such as Fregean senses, abstract entities, unsaturated entities whose extensions are sets and classes, and more. But regardless of how one defines concepts, a number of formal issues arise when dealing with them.</p>
+<p>The connection between concepts and logic should be clear, since many well-known arguments rely on this connection. For example, consider an argument for the theory-laden nature of perception: Perception involves judgments of the form “x is red.” If we perceive that an apple is red, this involves the judgment “the apple is red.” Such judgments involves predication, to predicate “red” one must have the concept of red. These concepts exist within frameworks of interconnected concepts, that is, a theory. The core of this argument depends on the deep connection between concepts and predication.</p>
+<p>A theory (of the metaphysics) of concepts must necessarily quantify over concepts or their corresponding abstract entities. Unless we adopt a strict nominalism based on First-Order Logic, this will require the use of Second-Order Logic. Consequently, any theory of concepts must take into account the various results and constraints from mathematical logic.</p>
+<p>There are two types of models for higher-order logic. In a standard model, first-order variables range over a domain 𝒟, second-order variables range over 𝒫(𝒟) for predicates and 𝒫(𝒟_1 × … × 𝒟_n) for n-ary relations, and third-order variables range over 𝒫(𝒫(𝒟)), and so on. This contrasts with Henkin models, where a fixed subset of the powerset is chosen instead. For example, in Henkin semantics, the quantifier in ∀P[P(a)] ranges over a fixed subset of 𝒫(𝒟).</p>
+<p>Higher-order logics with Henkin models can be viewed as a variant of many-sorted first-order logic. These logics are semantically complete, and the properties of compactness and Löwenheim–Skolem hold. However, they do not allow certain mathematical structures to be defined in their intended way. In contrast, higher-order logic with standard models is neither complete nor compact, and Löwenheim–Skolem does not hold. (By Lindström&rsquo;s theorem, out of all logics that satisfy certain regularity conditions, the compactness theorem and the downward Löwenheim–Skolem theorem first-order logic as the strongest logic. Thus, to achieve greater expressive power, such as the ability to quantify over predicates, we must sacrifice at least one of these properties.)</p>
+<p>While higher-order logics with standard models lack a full-fledged proof theory, they compensate by enabling the categorical definition of important concepts, such as well-foundedness conditions and distinctions between countable and uncountable domains.</p>
+<p>Now we can ask: what concepts are there? This question can be answered by specifying a comprehension scheme. Unrestricted comprehension asserts that for any condition φ that can be formulated in the formal language, there is a corresponding concept. However, this leads to problems such as Russell’s paradox of predication.</p>
+<p>Consider the predicate P(x), defined as ¬x(x), i.e., P(x) is not predicable of itself. Letting ϕ = ¬x(x), unrestricted comprehension gives us ∀x[P(x) ↔ ¬x(x)]. This allows us to derive the contradiction P(P) ↔ ¬P(P).</p>
+<p>A definition is called impredicative if and only if it quantifies over a collection of objects to which the defined object itself belongs. Otherwise, it is predicative. Russell argued that paradoxes like these arise in systems of logic that allow unrestricted comprehension, as such systems permit impredicative definitions. The proposed solution is to restrict the logic to be predicative, thereby avoiding these paradoxes.</p>
+<p>One way to avoid paradoxes is to assign an order to all variables and prescribe that, in any atomic formula P(x_1, …, x_n) within a condition φ formulated in the language, the order of all x must be lower than the order of P. This restriction renders ¬x(x) not well-formed.</p>
+<p>Another approach is to adopt Church’s Simple Type Theory to define a higher-order logic with predicates. In this framework, every term has a type corresponding to a domain. Starting with a finite set of base types, compound types are built recursively. If α and β are types, then (αβ) represents the type of a function that takes an object of type β and yields an object of type α. For example, a unary predicate P has type (σι), representing a function that takes a term of type ι and yields a truth value of type σ. A second-order predicate has type (σ(σι)), and so on.</p>
+<p>However, we need not completely abandon impredicativity, since it does not essentially lead to contradiction. In fact, many essential concepts, such as induction principles used to define the natural numbers, are impredicative. Because of this, many conceptual realists favor impredicative second-order logics. These logics restrict comprehension less strictly than predicative ones, or they combine full comprehension with a limited substitution principle to gain expressiveness while avoiding paradoxes. The main challenge with this approach is ensuring consistency, which becomes significantly more difficult in impredicative systems.</p>
+<p>We can express these various views as combinations of different schemas and conditions. A formula φ is homogeneously stratified if and only if there exists a function f(.) that maps terms and formulas of the language to natural numbers, such that for any atomic formula P(x_1, …, x_n) in φ, the following conditions hold:</p>
+<ul>
+<li>f(P) = max[f(x_i)] + 1</li>
+<li>f(x_i) = f(x_j) for 1 ≤ i, j ≤ n.</li>
+</ul>
+<p>We have the following schema:</p>
+<ul>
+<li>∃F∀x_1, …, x_n[F(x_1, …, x_n) ↔ φ(x_1, …, x_n)] (Scheme A)</li>
+<li>∃F∀x_1, …, x_n[F(x_1, …, x_n) ↔ G(x_1, …, x_n) &amp; φ(x_1, …, x_n)] (Scheme B)</li>
+</ul>
+<p>And the following conditions:</p>
+<ol>
+<li>x_1, …, x_n are free in φ.</li>
+<li>F is not free in φ.</li>
+<li>φ is homogeneously stratified.</li>
+</ol>
+<p>The following views as combinations of these features:</p>
+<ul>
+<li>Unrestricted comprehension is a combination of scheme A and condition (1).</li>
+<li>Predicative comprehension is a combination of scheme A and conditions (1), (2), and (3).</li>
+<li>Views where comprehension is less restricted than in predicative ones are a combination of scheme B and conditions (1) and (2).</li>
+</ul>
+<p>The logic one adopts is deeply connected to one’s metaphysical stance towards concepts. First-order logic and predicative higher-order logic with Henkin models reflect a strict nominalist perspective. Predicative higher-order logic with standard models can also be viewed as nominalist, as predicative comprehension reduces the existence of general concepts to conditions explicitly stated in the formal language. Impredicative higher-order logics with standard models, by contrast, embody a hardline realist stance. Efforts to avoid inconsistencies arising from impredicative logics result in higher-order logics with varying degrees of expressive power. And so it’s easy to see how the logic one adopts reflects different metaphysical stances regarding nominalism, cognitivism, and realism.</p>
+
+</main>
+
+  <footer>
+  <hr/>
+  <a href="/"> home</a> | <a href="/other">other</a> | <a href="/posts">posts</a> | <a rel="rss" href="/index.xml">rss</a>
+
+
+  
+  </footer>
+  </body>
+</html>
+
