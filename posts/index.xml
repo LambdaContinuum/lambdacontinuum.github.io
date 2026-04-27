@@ -4,11 +4,114 @@
     <title>Posts on Lambda Continuum</title>
     <link>https://lambdacontinuum.github.io/posts/</link>
     <description>Recent content in Posts on Lambda Continuum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-        <atom:link href="https://lambdacontinuum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lambdacontinuum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rule-Following Is Not Physicalism&#39;s Problem Alone</title>
+      <link>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</guid>
+      <description>&lt;p&gt;Philip Goff recently wrote an &lt;a href=&#34;https://philipgoff.substack.com/p/can-calculators-add-can-brains-add&#34;&gt;article&lt;/a&gt; arguing against physicalism from rule-following.&lt;/p&gt;&#xA;&lt;p&gt;His argument was as follows:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;If my mathematical thought was reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I performed the plus function or the quus function when I do maths.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;There is a fact of the matter as to whether or not I perform the plus function or the quus function when I do maths.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Error Theory in Tension With Deontic Logic?</title>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
+      <description>&lt;p&gt;I recently came across an interesting paper on formal objections to error theory, this was the gist of it.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;&#xA;&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contra Contextualism Refuting Skepticism</title>
+      <link>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</guid>
+      <description>&lt;p&gt;Radical skepticism can derive from multiple sources. One such source is the apparent paradox between one’s widespread everyday knowledge and the rational support provided by our perceptual experiences not seeming to favor the truth of our quotidian perceptual beliefs over radical skeptical scenarios such as being a brain in a vat, since the experiences a subject has under the radical skeptical scenarios are indistinguishable from everyday experiences &lt;em&gt;ex hypothesi&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A well known response to this skeptical paradox is attributivist contextualism. The contextualist takes it that the word “knows” is context-sensitive and so the truth of various attributions of knowledge depends on the conversational context the word is uttered in. In the case of radical skepticism “know” is thought to pick out different epistemic standards in different contexts of attribution. Conversational contexts that have more demanding epistemic standards can render some knowledge attributions false even if they would be true in more lax contexts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Must God be Unique?</title>
+      <link>https://lambdacontinuum.github.io/posts/must-god-be-unique/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/must-god-be-unique/</guid>
+      <description>&lt;p&gt;Arguments in the Kalam tradition usually proceeded with the following three steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;An argument to establish the existence of a necessary being.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;An argument to establish that the necessary being in question is a personal agent that is omnipotence, omniscience, etc.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;An argument to establish the uniqueness of this necessary being.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;These three steps, taken collectively, were understood to constitute an argument for the existence of God. Most people are relatively familiar with the arguments for (1) and (2), but I don’t see many people talk about the arguments for (3). So here I’ll present Al-Taftazani’s argument for the third premise, from the mutual hindrance among gods.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
+      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;&#xA;&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt; , then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given OP ⊨ ◊P; since contraposition preserves validity, ¬◊P ⊨ ¬OP. This would be a violation of the gap.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>God Ordains You to Two-Box</title>
+      <link>https://lambdacontinuum.github.io/posts/god-two-box/</link>
+      <pubDate>Sun, 21 Sep 2025 21:15:13 -0400</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/god-two-box/</guid>
+      <description>&lt;p&gt;Consider the following argument:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;If God exists then God would tell you to two-box.&lt;/li&gt;&#xA;&lt;li&gt;If God exists then everything God recommends to do is rational to do.&lt;/li&gt;&#xA;&lt;li&gt;Therefore, If God exists then God would tell you to two-box and everything God recommends to do is rational to do. (From 1 and 2),&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;(2) is surely uncontroversial, an all good, all powerful, and all knowing being tells me that that some action is rational I&amp;rsquo;m almost certain that it is. (1) seems to just be a variant of the well wishing friend argument George Schlesinger provides. If you have a friend that wants the best for you, knows the content of the opaque box, and they&amp;rsquo;re given the option to recommend what you should do, they&amp;rsquo;re always going to recommend you take both boxes. Now presumably God both wants the best for you and knows the content of the opaque box. So God would recommend two-boxing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Is existence a predicate?</title>
+      <link>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</guid>
+      <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;&#xA;&lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kripke and Liars</title>
+      <link>https://lambdacontinuum.github.io/posts/kripke-and-liars/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/kripke-and-liars/</guid>
+      <description>&lt;p&gt;The Liar paradox is a paradox that arises when one is able to construct sentences that assert their own untruth. Consider the sentence &amp;ldquo;This sentence is not true.&amp;rdquo; Abbreviating this sentence as &amp;lsquo;L&amp;rsquo;, one can see that &amp;lsquo;L&amp;rsquo; is equivalent to ~True(L), that is: L ↔ ~True(L). Assuming that a truth predicate abides by the Tarski schema, True(A) ↔ A, it follows that True(L) ↔ ~True(L). This is a contradiction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Logic Behind a Theory Of Concepts</title>
+      <link>https://lambdacontinuum.github.io/posts/logic-concepts/</link>
+      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/logic-concepts/</guid>
+      <description>&lt;p&gt;“Concept” is a polysemous term. Some use it in a way that simply equates it with ‘property,’ but it can take on various specific senses, such as Fregean senses, abstract entities, unsaturated entities whose extensions are sets and classes, and more. But regardless of how one defines concepts, a number of formal issues arise when dealing with them.&lt;/p&gt;&#xA;&lt;p&gt;The connection between concepts and logic should be clear, since many well-known arguments rely on this connection. For example, consider an argument for the theory-laden nature of perception: Perception involves judgments of the form “x is red.” If we perceive that an apple is red, this involves the judgment “the apple is red.” Such judgments involves predication, to predicate “red” one must have the concept of red. These concepts exist within frameworks of interconnected concepts, that is, a theory. The core of this argument depends on the deep connection between concepts and predication.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Quick Argument Contra Positivism</title>
+      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
+      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;&#xA;&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;K(P ∧ ¬KP)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Casual Sex is Wrong</title>
+      <link>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</guid>
+      <description>&lt;p&gt;As the world becomes more socially progressive, many people believe there is nothing wrong with casual sex. The approach to sexual ethics taken by many socially progressive individuals is that as long as sex is consensual, it is permissible. I can see why this view is popular as it presents a straightforward model of sexual relations and appears to restrict a lot of impermissible behavior. The idea that sex is permissible if and only if it is consensual allows casual sex to be permissible, since sex can indeed be both casual and consensual.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>S4 is Inadequate as a Logic of Formal Provability</title>
+      <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
+      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;&#xA;&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(K) □(φ → ψ) → (□φ → □ψ)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(M) □φ → φ&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(4) □φ → □□φ&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Modus Ponens: From ⊢ φ and ⊢ φ → ψ, infer ⊢ ψ&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trusting Our Future Selves</title>
+      <link>https://lambdacontinuum.github.io/posts/trusting-future-selves/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/trusting-future-selves/</guid>
+      <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting Ct1 be their credence at time t1 and Ct2 be their credence at time t2, Ct1(H|Ct2(H) = x) = x.&lt;/p&gt;&#xA;&lt;p&gt;This is to say that if an agent is rational, then given that they know their later credence in some hypothesis H is x, the agent&amp;rsquo;s earlier credence in H should be x. One may understand this principle as expressing one&amp;rsquo;s trust in one&amp;rsquo;s future self such that they should defer to them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Divine Agency Without Failure</title>
+      <link>https://lambdacontinuum.github.io/posts/divine-agency/</link>
+      <pubDate>Mon, 27 Jan 2025 17:59:14 -0500</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/divine-agency/</guid>
+      <description>&lt;p&gt;Philosophy of Religion has recently seen a surge of popularity in philosophy circles online, so I’ve decided to throw my hat in the ring. Here’s an argument against God being an agent.&lt;/p&gt;&#xA;&lt;p&gt;Wittgenstein makes an interesting distinction. He distinguishes viewing intentions as mere mental processes from viewing intentions in terms of their fulfillment. For the latter, the idea here is that elements in the world can be taken to be in accord with such intentional states. Fulfillment conveys something that is normative in some minimal sense, leading us to think the very idea of intention is a normative idea. The general gist is that intentional states seem like the types of states that have standards by which one could be in accord or out of accord with them. Consider the cases of belief and desire. Suppose an agent believes that it’s raining outside, believes that an umbrella will protect them from the rain, and desires not to be wet. If such an agent were to walk outside without taking their umbrella, they’d be out of accord with their very own intentional states. The observation here is that intentional states seem to generate ideals of norm or correctness, and these norms are such that one could be in accord with or fail to accord with them. We can assess an agent’s actions as correct or incorrect by the light of the norms generated by their intentions. Thus, normativity is constitutive of intentional states.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contra Standard Deontic Logic</title>
+      <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
+      <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
+      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset ℐ of the set 𝒲 of possible worlds, such that for all p, Op holds if and only if p ∈ w for all w∈ℐ.&lt;/p&gt;&#xA;&lt;p&gt;ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

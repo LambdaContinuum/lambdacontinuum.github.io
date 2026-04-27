@@ -1,643 +1,124 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Lambda Continuum</title>
+    <title>Index on Lambda Continuum</title>
     <link>https://lambdacontinuum.github.io/</link>
-    <description>Recent content in Home on Lambda Continuum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Index on Lambda Continuum</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate>
-    
-        <atom:link href="https://lambdacontinuum.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://lambdacontinuum.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rule-Following Is Not Physicalism&#39;s Problem Alone</title>
       <link>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</guid>
-      <description>&lt;p&gt;Philip Goff recently wrote an &lt;a href=&#34;https://philipgoff.substack.com/p/can-calculators-add-can-brains-add&#34;&gt;article&lt;/a&gt; arguing against physicalism from rule-following.&lt;/p&gt;
-&lt;p&gt;His argument was as follows:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;If my mathematical thought was reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I performed the plus function or the quus function when I do maths.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;There is a fact of the matter as to whether or not I perform the plus function or the quus function when I do maths.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Therefore, my mathematical functioning is not reducible to the physical functioning of my brain.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I took issue with this argument so I decided to write up a quick response. Before we continue, I just want to run you all through Kripke’s argument so we’re all on the same page. Any competent speaker of the English language knows that ‘Plus’ denotes the addition function. This function is defined for all integers, and most have grasped the rules of its application. Notably, we’ve grasped the rule for addition without computing every possible sum. Also consider the function denoted by ‘Quus’ &lt;strong&gt;.&lt;/strong&gt; &lt;strong&gt;T&lt;/strong&gt; his function abides by the same rules as addition except when one of the numbers being summed is greater than 57, in which case the function will return 5.&lt;/p&gt;
-&lt;p&gt;Now, imagine an insane man comes up to you and asks what ‘68 plus 57’ is, to which you respond ‘125’. He scoffs and asks ‘How do you know the answer is 125? For all you know, the way you used “plus” in the past indicates the answer should have been 5’. Going through your memories of your past usages of ‘plus’ &lt;strong&gt;,&lt;/strong&gt; you find that every single feat of addition you’ve performed has involved numbers less than 57. That is, all past usages of ‘plus’ underdetermine whether what was meant was plus or quus. The insane man then asks you what facts about your history establish that what you meant by ‘plus’ in the past was plus and not quus.&lt;/p&gt;
-&lt;p&gt;From here on out, Kripke goes through a list of possible candidates and purports to explain why they fail as an answer to the insane man’s question (I won’t go through them, as it would make this article a bit too long). After concluding that these solutions fail, the insane man will conclude that there is no fact that determines past usage, and if there’s no fact that determines what you meant in the past, there can be no fact about which function you mean in the present. This is the rule-following paradox.&lt;/p&gt;
-&lt;p&gt;A few things to note here. There’s nothing unique about our choice of ‘plus’ and ‘quus’; rules are always learned through a finite number of observations and those finite number of observations will always underdetermine the rule being followed.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The result of the rule-following paradox is not merely that there’s no fact as to whether we’ve performed addition or quaddition; rather, it’s a more general skepticism. There is no fact about what we mean ever.&lt;/p&gt;
-&lt;p&gt;This is a radical result: meaning, on the classical picture, has been rendered meaningless.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; It makes no sense to talk of the meaning of declaratives as consisting in truth-conditions or facts. This is incredibly destructive to classical philosophical inquiry. It entails a bunch of bonkers conclusions, such as, that there are no facts about the contents of people’s mental states, that there are no facts about people’s intentions, etc.&lt;/p&gt;
-&lt;p&gt;Now, back to Goff’s argument contra physicalism from rule-following. Now, (2) says there is a fact about whether one performs the plus function or the quus function. This is to say that the rule-following paradox fails in establishing its conclusion. (1) is the claim that if physicalism is true, there is no fact about whether one performs the plus function or the quus function. This is justified by an appeal to rule-following in the case of physical computation. Naturally, for this argument to go through, it must be the case that rule-following is uniquely a problem for physicalism. Otherwise, the non-physicalist will have a problem in asserting (2) while justifying (1) via rule-following.&lt;/p&gt;
-&lt;p&gt;Is rule-following a paradox unique to physicalism? It’s hard to see how. What drives the paradox isn’t unique to physicalism; underdetermination doesn’t disappear once we assume non-physicalism of the mind. Furthermore, the construction of the paradox makes no reference to physicalism. There is no limit to non-physicalist solutions, unlike say radical translation, which assumes something like behaviorist premises from the outset.&lt;/p&gt;
-&lt;p&gt;So it cannot be the construction that makes this a problem unique to physicalism. Rather, it must be that the non-physicalist has an exceptional solution to rule-following that the physicalist doesn’t. Now, this obviously has to be justified via an argument. It’s not something that’s immediately clear. And so, without such an argument, it’s hard to accept Goff’s argument.&lt;/p&gt;
-&lt;p&gt;Anyway &lt;strong&gt;,&lt;/strong&gt; the best candidate for this is probably going to be a non-reductionist answer to the paradox. These are a family of views that take it that the facts that constitute whether we mean something cannot be described in non-semantic terms. If we take it that meaning facts are &lt;em&gt;sui generis&lt;/em&gt; , we seem to be in tension with physicalism. But this sort of solution is not ideal. By its very nature, it’s uninformative. The facts that constitute whether we follow a rule cannot be explained without invoking the notion of rule-following. This leaves the nature of rule-following and meaning totally mysterious, a point originally raised by Kripke. It also seems to just beg the question against the skeptic, since by taking meaning as primitive we mean to say we cannot reduce meaning facts to non-meaning facts, but the skeptic is asking what facts about you constitute that you mean plus over quus.&lt;/p&gt;
-&lt;p&gt;And look, it’s not like that’s a decisive critique of non-reductionism. I’m sure there’s some sophisticated construction that addresses this worry (my philosophical journey of constantly criticizing a view as foolish only to be smacked by some sophisticated variant that defuses my critique lends credence to this). But the point is merely that there’s doubt that there’s a successful solution compatible with non-physicalism, and there are a bunch of purported solutions that are compatible with physicalism. Given that, it’s hard to see how one could accept Goff’s argument without a survey of the solutions compatible with physicalism and how they fail, as well as a non-physicalist solution that succeeds in defusing rule-following. The person providing the argument has that burden.&lt;/p&gt;
-&lt;p&gt;Without those conditions met, it stands that rule-following isn’t a unique issue for physicalism, in which case Goff’s argument is analogous to a non-physicalist arguing the following:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;If perceptual experience is reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I’m a BIV.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;There is a fact of the matter as to whether I’m a BIV, namely, that I’m not.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Therefore, my perceptual experience is not reducible to the physical functioning of my brain.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;and then defending (1) on the basis of the underdetermination of one’s rational support for a perceptual belief. It’s absurd! There’s no reason to believe this is a unique problem for the physicalist; the construction of the skeptical paradox doesn’t depend on physicalism at all, and so the argument for (1) just obviously cuts against (2).&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;Say we grant rule-following succeeds in showing physicalism is untenable. Given it functions largely as an application of underdetermination, it’s hard to see how taking this argument to its logical conclusion doesn’t show that induction gives us no knowledge of physical laws. Kripke notes the similarity by pointing to the important analogies between rule-following and Hume’s questioning of “the causal nexus whereby a past event necessitates a future one, and the inductive inferential nexus from the past to the future,” as well as by titling his skeptical solution after Hume’s. Now, is Goff willing to accept this and throw out the deliverances of the natural sciences? I’m skeptical.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;This is to accept the radical skeptical paradox, but this is not popular even among those who think responses to the paradox fail. Those who reject this but think the rule-following paradox has no good solution will endorse the skeptical solution. They do so by rejecting the classical picture of meaning and instead focusing on assertability conditions and utility. Kripke’s Wittgenstein argues that this only makes sense within a community. When you’re born, you’re given the correct answer to a finite number of cases that the community generally agrees on, and as long as you’re able to give the correct answer, where the correct answer here is just the answer people in the community would tend to give, in a bunch of cases you’re accepted into the linguistic community as a competent rule-follower. This is, in part, why private language is impossible.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <description>&lt;p&gt;Philip Goff recently wrote an &lt;a href=&#34;https://philipgoff.substack.com/p/can-calculators-add-can-brains-add&#34;&gt;article&lt;/a&gt; arguing against physicalism from rule-following.&lt;/p&gt;&#xA;&lt;p&gt;His argument was as follows:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;If my mathematical thought was reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I performed the plus function or the quus function when I do maths.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;There is a fact of the matter as to whether or not I perform the plus function or the quus function when I do maths.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Error Theory in Tension With Deontic Logic?</title>
       <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
-      <description>&lt;p&gt;I recently came across an interesting paper on formal objections to error theory, this was the gist of it.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
-&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;|= φ ∨ ¬φ, for any φ&lt;/li&gt;
-&lt;li&gt;Pψ ∨ ¬Pψ, from 1&lt;/li&gt;
-&lt;li&gt;Pψ ∨ Iψ, from 2, ¬Pψ = Iψ&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;From hereon out we’ll call (3) the Dual Schema (DS). The issue should be clear, the error theorist wants to say a moral judgement like “It is impermissible to steal candy from a baby” is false because the sort of property needed to render the judgement true, moral properties, do not obtain anywhere. But the falsity of that judgement alongside (DS) entails “It’s permissible to steal candy from a baby”, a judgement that seemingly instantiates the moral property of permissibility. So, error theory seems to contradict (DS), a logical truth of SDL.&lt;/p&gt;
-&lt;p&gt;The error theorist has a couple of moves here. A plausible one is just rejecting SDL, there are antecedent reasons to do so and I defend such a view on this blog but it’s not clear to me that that’s necessary. The author of the paper argues the objection is only superficially formal.&lt;/p&gt;
-&lt;p&gt;That might need a little more elaboration, what is the error theorist saying when they deny “It is impermissible to steal candy from a baby”? I’d say something like such a judgement is false because for it to be true there needs to be (stance-independent) &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby, but no such reasons of that kind exist. Given the (DS) the error theorist must then be committed to the truth of “It is permissible to steal candy from the baby” and the proponent of this objection thinks that’s an issue for the error theorist. But why? They’ll say “the truth of that judgement requires the moral property of permissibility and the error theorist rejects such properties” but note that the error theorist is objecting to something like the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt;. It’s only an issue for the error theorist to endorse “It is permissible to steal candy from a baby” if the judgement means something like there’s a &lt;em&gt;reason in favor&lt;/em&gt; of the act being permissible but the (DS) doesn’t suppose any such analysis. Suppose instead that to say “It is permissible to steal candy from a baby” is just to say that there are no &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby.&lt;/p&gt;
-&lt;p&gt;So we have two analyses of what it means to say “It’s permissible to steal candy from the baby”, call the one that supposes the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P+) variant and the one that supposes there are no
-&lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P-) variant. The error theorist is clearly committed to a contradiction in affirming (P+) given they think all such judgements are false in virtue of supposing the existence of &lt;em&gt;reasons&lt;/em&gt; that don’t obtain, but there’s no issue for the error theorist in affirming (P-) since the claim doesn’t suppose such &lt;em&gt;reasons&lt;/em&gt;.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; And so there’s only a contradiction for the error theorist if (DS) entails (P+) instead of (P-) but why think that? The objection being raised isn’t purely formal, it implicitly supposes the dual schema involves a certain analysis of permissibility that supposes the sort of properties the error theorist wishes to reject, but the error theorist can just reject that.&lt;/p&gt;
-&lt;p&gt;So say we have two (DS) variants, (DS+) supposes permission is analyzed in line with (P+) while (DS-) supposes permission is analyzed in line with (PS-). SDL says nothing about what variant (DS) is supposed to endorse, but for SDL to show a contradiction in error theory (DS) has to be (DS+). Either way, there isn’t a clear formal contradiction for the error theorist in adopting SDL, they just need to deny their opponents framing of judgements about permission involving the existence reasons.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;https://link.springer.com/article/10.1007/s10790-025-10076-3&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;In fact, the judgement supposes that such reasons don’t exist. A corollary of this is all judgements about the permission of acts come out true but I don’t see why that would be an issue.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <description>&lt;p&gt;I recently came across an interesting paper on formal objections to error theory, this was the gist of it.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;&#xA;&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contra Contextualism Refuting Skepticism</title>
       <link>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</guid>
-      <description>&lt;p&gt;Radical skepticism can derive from multiple sources. One such source is the apparent paradox between one’s widespread everyday knowledge and the rational support provided by our perceptual experiences not seeming to favor the truth of our quotidian perceptual beliefs over radical skeptical scenarios such as being a brain in a vat, since the experiences a subject has under the radical skeptical scenarios are indistinguishable from everyday experiences &lt;em&gt;ex hypothesi&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;A well known response to this skeptical paradox is attributivist contextualism. The contextualist takes it that the word “knows” is context-sensitive and so the truth of various attributions of knowledge depends on the conversational context the word is uttered in. In the case of radical skepticism “know” is thought to pick out different epistemic standards in different contexts of attribution. Conversational contexts that have more demanding epistemic standards can render some knowledge attributions false even if they would be true in more lax contexts.&lt;/p&gt;
-&lt;p&gt;And so the skeptic is correct, but only because the assertions they’re making is made relative to a context with incredibly demanding epistemic standards. When we come back to normal contexts, everyday knowledge ascriptions are true. What contextualism is doing here is giving us sort of diagnostic story that shows us radical skepticism only seems like a paradox because we’ve not properly grasped the context-sensitive nature of the term “knows”.&lt;/p&gt;
-&lt;p&gt;A few things seem odd about this approach. Say it’s true that whenever we consider radical skepticism we are put into an epistemic context in which knowledge ascriptions are false. Note that this sort of answer is conceding to the skeptic, since their thesis is correct in the context of epistemic appraisal in which it is posed. This is intentional: the contextualist wants to claim that in the incredibly strict epistemic context the radical skeptic is correct, but once we return to everyday epistemic standards our knowledge assertions will go back to expressing truths. It’s problematic, though, given we’re conceding to the skeptic that their epistemic standards are stricter than ours and that the paradox disappears only because the radical skeptic is correct. Our only recourse is to return to quotidian epistemic standards and bar ourselves from entering the skeptic’s epistemic context. This sort of solution seems like it should only be a last resort. Here is something that strikes me as an obvious desideratum for a solution to radical skepticism, the skeptic is incorrect.&lt;/p&gt;
-&lt;p&gt;The contextualist’s solution also supposes the difficulty people have with dealing with the skeptic is the result of some mass semantic confusion. This is odd as philosophers don’t have similar difficulty understanding the context-sensitive nature of other supposedly analogous terms like “tall” and “fast.” No one is confused when you say a bike is fast in the context of men running but not fast in the context of cars racing. Contextualism attributes a widespread blindness to the meaning of terms to the subjects that use them. This isn’t a deal breaker but it should leave us a little suspicious.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Most importantly it’s not clear how contextualism, as a semantic thesis, deals with what is fundamentally an issue of rational justification. Remember, the purported paradox arises when we grant that we have widespread everyday knowledge but that the rational support we have access to doesn’t privilege our ordinary knowledge over the radical skeptical scenarios. What claim does the contextualist deny? They don’t deny that we have widespread everyday knowledge, they’ll say we do in quotidian epistemic contexts. The contextualist, at best, will argue that the latter claim is problematic, because it explicitly makes reference to the skeptical scenario and brings us into a more demanding epistemic context. But to the contextualist the claim is inevitably true when one considers it. One needs to adds a further thesis about the rational support one has in quotidian contexts to address the skeptic since that’s what we’re concerned about, our rational grounding in the everyday context. The contextualist can’t say much about this on the basis of contextualism alone. This isn’t surprising though, like I said previously, contextualism is a semantic thesis and doesn’t say much about these fundamentally epistemic issues. But without saying anything about this, the radical skeptical paradox still needs to be addressed.&lt;/p&gt;
-&lt;p&gt;And so the crux of the issue is the skeptical paradox being raised doesn’t actually make reference to epistemic standards, what’s in play is a more general appeal to the inadequacy of the rational support available to our quotidian beliefs. It’s not a question about what “know” means, rather what’s being asked is a question about the nature of rational support. The contextualist can’t say much about this with contextualism alone. Say the contextualist does provide a further posit about the rational grounding one has in the ordinary context, for example, by dogmatically supposing there just are things we take to be true in the quotidian epistemic context that rationally ground everyday beliefs. Then what was the point of appealing to contextualism? It was totally superfluous. Once one starts to supplement contextualism to deal with the fundamentally epistemic issue at play, those supplemental posits are what do the anti-skeptic work, and contextualism becomes a superfluous element of the strategy.&lt;/p&gt;
-&lt;p&gt;So, it’s hard for me to see why radical skepticism should motivate us to adopt contextualism. This doesn’t mean there can’t be other considerations for adopting such a view, just that skepticism itself doesn’t do much to convince me.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;I think it’s a suspicious claim on its own but I was playing around with a more explicit argument about why it’s not the case. I decided to put it in the footnotes because I’m not entirely confident about it. Consider the thesis that one cannot fail to know the meanings of the signs one intends to utter, that is, meaning is transparent. I won’t argue for such a thesis here, but I’ve defended it as a natural result of taking certain Fregean datum seriously elsewhere. Now, granting that one cannot fail to know the meaning of the signs one intends to utter, and that analogous signs don’t have widespread confusion around such an integral part of their meaning, it’s unlikely that there would be widespread blindness to a crucial component of the meaning of “know,” namely its context sensitivity. A few things to note about this sort of inductive inference. It isn’t to argue that there aren’t some people who do in fact fail to know such a crucial component of the meaning of “know.” This is important to acknowledge because a &lt;em&gt;prima facie&lt;/em&gt; response to such an argument might look like denying the transparency of meaning, since we do in fact observe actual agents who fail to know the meanings of signs they intend to utter. This misses the point of such a thesis (and the overall inductive inference being made), namely that failure to know the meaning of signs that one intends to utter is never on the basis of the constitution of meaning (which, as Bilgrami points out, one may observe in “secularized Platonic” accounts of the constitution of meaning within a linguistic community), and so failures are more akin to psychological failures. Think of it as the difference between the failure of an agent in an unideal epistemic environment versus the failure of an irrational agent. Thus, if meaning is transparent, we’ve reduced one such possibility of failure and have increased the likelihood that there isn’t widespread failure by removing a likely candidate for widespread failure. Now the major problem with this kind of inference, and why I’m hesitant about it, is it supposes a relatively strong thesis but only weakly probabilifies the conclusion. I don’t think the conclusion is made that much likelier in part due to my intuition that most failures of the kind are the result of psychology and not on the basis of the constitution of meaning. I’m not sure what to think either way.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <description>&lt;p&gt;Radical skepticism can derive from multiple sources. One such source is the apparent paradox between one’s widespread everyday knowledge and the rational support provided by our perceptual experiences not seeming to favor the truth of our quotidian perceptual beliefs over radical skeptical scenarios such as being a brain in a vat, since the experiences a subject has under the radical skeptical scenarios are indistinguishable from everyday experiences &lt;em&gt;ex hypothesi&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A well known response to this skeptical paradox is attributivist contextualism. The contextualist takes it that the word “knows” is context-sensitive and so the truth of various attributions of knowledge depends on the conversational context the word is uttered in. In the case of radical skepticism “know” is thought to pick out different epistemic standards in different contexts of attribution. Conversational contexts that have more demanding epistemic standards can render some knowledge attributions false even if they would be true in more lax contexts.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Must God be Unique?</title>
       <link>https://lambdacontinuum.github.io/posts/must-god-be-unique/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/must-god-be-unique/</guid>
-      <description>&lt;p&gt;Arguments in the Kalam tradition usually proceeded with the following three steps:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;An argument to establish the existence of a necessary being.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;An argument to establish that the necessary being in question is a personal agent that is omnipotence, omniscience, etc.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;An argument to establish the uniqueness of this necessary being.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;These three steps, taken collectively, were understood to constitute an argument for the existence of God. Most people are relatively familiar with the arguments for (1) and (2), but I don’t see many people talk about the arguments for (3). So here I’ll present Al-Taftazani’s argument for the third premise, from the mutual hindrance among gods.&lt;/p&gt;
-&lt;p&gt;Assume we have two omnipotent beings, O1 and O2. In virtue of their omnipotence, when O1 or O2 wills a possible situation to take place, it must take place. Now assume we have some contingent state of affairs, let’s say whether some person moves. Since whether they move is contingent, it’s both possible that the person moves and that they don’t. That the person moves falls under the scope of O1’s power, which is to say O1 could wish that they move and have it obtain in all possible worlds. In a similar vein, that they don’t move falls under the scope of O2’s power; if O2 wishes it, the person not moving could obtain in all possible worlds.&lt;/p&gt;
-&lt;p&gt;Let there be a possible world in which O1 wishes for the person to move and could realize it, but O2 wishes for the person not to move and could realize it. There are three distinct outcomes here. First, the person both moves and doesn’t move. This is obviously a contradiction and is therefore ruled out. Second, the person does move. If this were to occur, the will of O1 would obtain at the expense of the will of O2. But if O2 were to will something, it must happen in virtue of their omnipotence, and so O2 must not be omnipotent. Similarly, if the person were not to move, the will of O2 would obtain at the expense of the will of O1 not obtaining, and so O1 must not be omnipotent.&lt;/p&gt;
-&lt;p&gt;In any case, there can be only one omnipotent being. Since there can be only one, assuming there is at least one personal omnipotent being, there is only one. God is unique.&lt;/p&gt;
-&lt;p&gt;A few issues could be raised with this argument. First, one could point to the general observation that impossible tasks do not fall under the scope of divine power. We wouldn’t say God fails to be omnipotent because He cannot instantiate a square circle, since it would be impossible to do. Similarly, if two omnipotent beings disagreed, they would simply block each other’s powers. The task in which their volitions contradict becomes impossible for them to realize either way. Since impossibilities do not threaten omnipotence, the tasks in which they disagree do not threaten their omnipotence.&lt;/p&gt;
-&lt;p&gt;You may say, well, in the case illustrated above, the person will either move or not move, and when they do, they will be in accord with the will of one of the omnipotent beings and not the other, and so the other mustn’t be omnipotent. Note, however, that under the objection being provided here, the state of affairs is consistent with the will of either O1 or O2, but not due to the volition of O1 or O2.&lt;/p&gt;
-&lt;p&gt;Say that the above objection fails. One may still ask, “Doesn’t Al-Taftazani’s argument just show that if there were multiple omnipotent beings, they must necessarily have compatible wills?” If they necessarily have compatible wills, it would be impossible for them to disagree on what contingent states of affairs obtain, and we would avoid having to pick which one’s will is violated in order for the other’s will to obtain. This seems like a plausible route.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;God’s omnipotence is grounded in His absolute perfection, and from His absolute perfection would arise the will (and in turn the act) to instantiate the perfect order; this would similarly hold for our second omnipotent being. Divine nature seems to delimit divine will. So, for there to be disagreement over some contingent state of affairs, there must be two distinct perfect orders of things. This could only be the case if there are arbitrary features of reality that are irrelevant to its perfection, allowing the perfect orders to differ. Can this be the case? There do seem to be arbitrary features of our reality. Is it seriously important to the perfection of reality that I sit an inch away from my desk rather than two? I’m skeptical that it is, to say the least. If so, you can’t ground the necessity of the compatibility of will between omnipotent beings in their divine nature. In that case, it’s hard to see what could ground the necessity of compatibility of volitions. This objection fails in that case.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;An objection one may raise is that if wills necessarily share the same desires and volitions, it’s not clear they’re even distinct. I don’t mention this, in part because I don’t know how I feel about it. If it’s a condition that, for wills to be distinct, it’s possible for them to differ, then one cannot respond to Al-Taftazani’s argument by saying the omnipotent beings necessarily share all volitions, but I don’t really have an argument for such a thesis, though it doesn’t sound like a totally implausible principle.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <description>&lt;p&gt;Arguments in the Kalam tradition usually proceeded with the following three steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;An argument to establish the existence of a necessary being.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;An argument to establish that the necessary being in question is a personal agent that is omnipotence, omniscience, etc.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;An argument to establish the uniqueness of this necessary being.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;These three steps, taken collectively, were understood to constitute an argument for the existence of God. Most people are relatively familiar with the arguments for (1) and (2), but I don’t see many people talk about the arguments for (3). So here I’ll present Al-Taftazani’s argument for the third premise, from the mutual hindrance among gods.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
       <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
-      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
-&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt; , then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given OP ⊨ ◊P; since contraposition preserves validity, ¬◊P ⊨ ¬OP. This would be a violation of the gap.&lt;/p&gt;
-&lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Tea Drinking is common in England.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Therefore, Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;This inference is valid via disjunctive introduction. Now consider the following dilemma. Either (2) is normative or descriptive. If it’s normative this inference is a violation of the gap. If it’s descriptive consider the following deduction:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Tea Drinking is not common in England&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Therefore, all New-Zealanders ought be shot.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;This would be a violation of the gap.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;Third, consider the trivial case of explosion. From contradictions, everything validly follows. The counter-example is clear, assume a descriptive contradiction and you can validly infer a normative conclusion. This would be a violation of the gap. Recall the is-ought gap is explicated in terms of valid inference not sound inference.&lt;/p&gt;
-&lt;p&gt;Fourth, consider a Standard Deontic Logic and recall the Obligatory operator is closed under Logical consequence.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This is to say that if OA is true and that A entails B, that OB is true. Given that logical truths are logically entailed by everything, it follow that all logical truths are obligatory. Consider the following: q ⊨ Op ∨ ¬Op. This would be a violation of the gap.&lt;/p&gt;
-&lt;p&gt;Don’t take this as me claiming there is no gap. There is, its construction is just going to be more sophisticated than a mere reference to logical validity.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;This supposed violation of the gap relies on the distinction between normative and descriptive exhausting all possible choices. It may fall apart if you think a proposition could be neither normative nor descriptive.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;I think such a logic fails at properly capturing normative considerations; see my article on it if you’re curious. Knowing that, you might wonder why I give this as a counterexample. It illustrates the general point that by indexing the is–ought gap to mere logical validity, the truth of the is–ought gap relies on whichever logic you think “holds.” If someone were to adopt SDL as correctly modeling normative considerations, then the is–ought gap is trivially false. If the logic we’re considering is some basic propositional logic, then the explosion counterexample demonstrates that the is–ought gap is false, etc., etc.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
-</description>
+      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;&#xA;&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt; , then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given OP ⊨ ◊P; since contraposition preserves validity, ¬◊P ⊨ ¬OP. This would be a violation of the gap.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>God Ordains You to Two-Box</title>
       <link>https://lambdacontinuum.github.io/posts/god-two-box/</link>
       <pubDate>Sun, 21 Sep 2025 21:15:13 -0400</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/god-two-box/</guid>
-      <description>&lt;p&gt;Consider the following argument:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;If God exists then God would tell you to two-box.&lt;/li&gt;
-&lt;li&gt;If God exists then everything God recommends to do is rational to do.&lt;/li&gt;
-&lt;li&gt;Therefore, If God exists then God would tell you to two-box and everything God recommends to do is rational to do. (From 1 and 2),&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;(2) is surely uncontroversial, an all good, all powerful, and all knowing being tells me that that some action is rational I&amp;rsquo;m almost certain that it is. (1) seems to just be a variant of the well wishing friend argument George Schlesinger provides. If you have a friend that wants the best for you, knows the content of the opaque box, and they&amp;rsquo;re given the option to recommend what you should do, they&amp;rsquo;re always going to recommend you take both boxes. Now presumably God both wants the best for you and knows the content of the opaque box. So God would recommend two-boxing.&lt;/p&gt;
-&lt;p&gt;So either two-boxing is rational in Newcomb&amp;rsquo;s problem or God doesn&amp;rsquo;t exist. A corollary of this is that the various arguments for God (Modal ontological arguments, contingency arguments, fine-tuning arguments) are arguments for two-boxing and the various arguments for one-boxing (Why Aincha&amp;rsquo; Rich?) are arguments for the non-existence of God.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Consider the following argument:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;If God exists then God would tell you to two-box.&lt;/li&gt;&#xA;&lt;li&gt;If God exists then everything God recommends to do is rational to do.&lt;/li&gt;&#xA;&lt;li&gt;Therefore, If God exists then God would tell you to two-box and everything God recommends to do is rational to do. (From 1 and 2),&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;(2) is surely uncontroversial, an all good, all powerful, and all knowing being tells me that that some action is rational I&amp;rsquo;m almost certain that it is. (1) seems to just be a variant of the well wishing friend argument George Schlesinger provides. If you have a friend that wants the best for you, knows the content of the opaque box, and they&amp;rsquo;re given the option to recommend what you should do, they&amp;rsquo;re always going to recommend you take both boxes. Now presumably God both wants the best for you and knows the content of the opaque box. So God would recommend two-boxing.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Is existence a predicate?</title>
       <link>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</guid>
-      <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;
-&lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;
-&lt;p&gt;It is trivial to construct a first-order monadic predicate, termed ‘exists,’ such that exists := λx (∃y y = x). This ‘exists’ predicate is true of and only of things that exist and will abide by the syntactic rules of a predicate in first-order logic. So, why would it be incorrect to say that existence is a predicate?&lt;/p&gt;
-&lt;p&gt;Well, the dictum that existence isn’t a predicate originates with Kant, and he was writing before the progress in a logic of quantification that Frege, Russell, Quine, and others contributed to. It’s reasonable to assume that when Kant claimed existence isn’t a predicate, he meant something different.&lt;/p&gt;
-&lt;p&gt;There are a few possible things Kant may have had in mind when he said that existence isn&amp;rsquo;t a predicate.&lt;/p&gt;
-&lt;p&gt;At the time, traditional formal logic was relegated to Port Royal and Aristotelian syllogism. Such formal logic viewed existence as explicated in terms of copulas like &amp;lsquo;is&amp;rsquo; or &amp;lsquo;are.&amp;rsquo; Consider traditional examples of syllogistic logic, such as &amp;lsquo;Socrates is a man&amp;rsquo; or &amp;lsquo;Men are mortal.&amp;rsquo; If these sentences are true, they imply that both men and Socrates exist. So, existence is not a real predicate but is merely derivatively implied by the copula. Existence is merely a matter of the logic of the copula. He may also have meant that, whereas conceiving of a red apple adds something to the concept of an apple, conceiving of an existing apple doesn’t add anything because the mental images of an existing apple and a non-existing apple are the same. Thus, existence isn’t a predicate.&lt;/p&gt;
-&lt;p&gt;But in both cases, when Kant says that existence isn’t a predicate, he seems to be addressing something very different from what someone who constructs the predicate above is claiming. When Kant says existence isn’t a predicate, he is suggesting that within the framework of Aristotelian syllogistic logic, existence isn’t a predicate or that existence does not “add” to the concept of a thing. Meanwhile, those who endorse the trivial construction are simply asserting that a predicate named &amp;rsquo;existence&amp;rsquo; can be constructed in a predicate logic, which is true only of existing things. They are addressing two different questions.&lt;/p&gt;
-&lt;p&gt;Let’s take someone from a post-Frege world of logic. Gilbert Ryle denies that existence is a predicate. What does he mean? The idea is that existence differs significantly from other ordinary terms used in the predicate position. Consider the following sentences:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;‘Brown cows exist.’&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;‘Purple cows don’t exist.’&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;‘Brown cows flourish.’&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;‘Purple cows don’t flourish.’&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The idea is that we are systematically misled into treating sentences like (1) and (2) analogously to (3) and (4) due to superficial grammatical resemblance, since &amp;rsquo;exists&amp;rsquo; appears in the predicate position. However, there is a major difference between existence claims and other predicate claims, such as &amp;lsquo;flourish.&amp;rsquo; The former are translatable into quantificational sentences like &amp;lsquo;Some cows are brown&amp;rsquo; and &amp;lsquo;It is false that some cows are purple.&amp;rsquo; In translation, the word &amp;rsquo;exists&amp;rsquo; disappears from the predicate position, with its function being accomplished by the quantifier. In contrast, ordinary predicates like &amp;lsquo;flourish&amp;rsquo; and &amp;lsquo;red&amp;rsquo; are genuine predicates, as they cannot be translated into sentences where they no longer take a predicate position. The idea is that every existence claim is merely a covert quantificational claim, and hence &amp;rsquo;exists&amp;rsquo; is a bogus predicate. The proper role of existence is played by quantification and not predication.&lt;/p&gt;
-&lt;p&gt;If this is what’s at dispute, then it’s not even clear that Ryle disagrees with someone who claims existence is a predicate because they can construct a &amp;rsquo;exists&amp;rsquo; predicate. What’s actually in contention is whether or not it is a &amp;lsquo;genuine&amp;rsquo; predicate. One could endorse that &amp;rsquo;exists&amp;rsquo; is a predicate but not a &amp;rsquo;true&amp;rsquo; predicate in the sense that Ryle describes.&lt;/p&gt;
-&lt;p&gt;It seems to me that asking whether existence is a predicate is essentially pointless without further clarification of what is meant when one asks.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;&#xA;&lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kripke and Liars</title>
       <link>https://lambdacontinuum.github.io/posts/kripke-and-liars/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/kripke-and-liars/</guid>
-      <description>&lt;p&gt;The Liar paradox is a paradox that arises when one is able to construct sentences that assert their own untruth. Consider the sentence &amp;ldquo;This sentence is not true.&amp;rdquo; Abbreviating this sentence as &amp;lsquo;L&amp;rsquo;, one can see that &amp;lsquo;L&amp;rsquo; is equivalent to ~True(L), that is: L ↔ ~True(L). Assuming that a truth predicate abides by the Tarski schema, True(A) ↔ A, it follows that True(L) ↔ ~True(L). This is a contradiction.&lt;/p&gt;
-&lt;p&gt;There are four routes one can take from here. One could grant that truth abides by the Tarski schema and so entirely abandon the notion of truth, keep the notion of truth but prevent the construction of any such Liar sentences, reject or restrict the Tarski schema, or restrict classical logic so one cannot infer a contradiction (or prohibit explosion while allowing contradictions).&lt;/p&gt;
-&lt;p&gt;Most find preventing the construction of Liar sentences the most plausible solution to the problem of the Liar. This seems plausible, but it isn&amp;rsquo;t as easy as it sounds. Liar sentences seem to naturally arise if one allows self-reference and there are a variety of ways to achieve such self-reference. The most suspicious form of self-reference, what we&amp;rsquo;ll call Artificial Self Reference, arises when we consider languages within which it&amp;rsquo;s permissible to have names for sentences that contain those very names. For example, if we let &amp;lsquo;L&amp;rsquo; be the name of the sentence &amp;lsquo;L isn&amp;rsquo;t true&amp;rsquo;. You may reasonably doubt that such a language is even intelligible, but importantly, this isn&amp;rsquo;t the only way to achieve self-reference. For example, one could achieve self-reference through Gödel Self-Reference.&lt;/p&gt;
-&lt;p&gt;The core insight behind Gödel Self-Reference is that once languages hit a certain level of expressive power, they can express their own syntax. Famously, one can achieve this by setting up a correlation between letters in the alphabet of a language with certain numbers, and between some concatenation relation and a relation among numbers. The result is that for each expression &lt;em&gt;e&lt;/em&gt; of the language, we have a singular term ⟨ &lt;em&gt;e&lt;/em&gt; ⟩ that denotes the number correlated with &lt;em&gt;e&lt;/em&gt;. Using Gödel numbering, from here on out we&amp;rsquo;ll describe the liar as L ↔ ~True(⟨L⟩).&lt;/p&gt;
-&lt;p&gt;It turns out that for any property you can express in some language, one could construct a sentence in the language that predicates that property to its own Gödel number. Formally, for any formula C(v) in the language of arithmetic with v as its only free variable, there is a sentence F in that language such that F ↔ C(⟨F⟩) is provable in the arithmetic theory. This is known as the Gödel-Tarski Fixed Point Lemma. And so this allows us to indirectly but legitimately achieve self-reference.&lt;/p&gt;
-&lt;p&gt;Now, just because self-reference is permitted doesn&amp;rsquo;t mean the construction of Liars is permitted. Applying the Fixed-Point Lemma to any formula ~B(v) gives us, for some sentence F, F ↔ ~B(⟨F⟩). It follows from F ↔ ~B(⟨F⟩) that ~(F ↔ B(⟨F⟩)). Now if truth abides by the Tarski schema, A ↔ True(⟨A⟩), then (arithmetic) truth must be undefinable since for any predicate, P, you define there will be a sentence of the form, ~(A ↔ P(⟨A⟩)), contradicting the Tarski schema. This is known as Tarski&amp;rsquo;s &amp;ldquo;Undefinability Theorem&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;This theorem generalizes to theories in classical logic in which our theory of arithmetic can be embedded. Consider an extension we&amp;rsquo;ll call L1 that results from adding to our language of arithmetic, which we&amp;rsquo;ll call L0, a primitive truth predicate, which we&amp;rsquo;ll call Truth0, meaning &amp;lsquo;is a true sentence of the language of L1&amp;rsquo;. The generalized proof of Tarski&amp;rsquo;s theorem tells us that in the extended language there&amp;rsquo;s the sentence Q such that it&amp;rsquo;s provable that ~(Q ↔ Truth0(⟨Q⟩)), but this is no problem, we&amp;rsquo;re able to consistently add into our extended language as axioms instances of the Tarski schema for all formulas in our non-extended arithmetic language L0 which enables us to define truth for our language L0 without having to deal with our sentence Q serving as a counter-example.&lt;/p&gt;
-&lt;p&gt;So we can define truth for sentences of a language, but only within an extended language. Of course, the undefinability theorem still shows we cannot extend our interpretation of the truth predicate to the extended language, since our extended language cannot consistently contain its own truth predicate any more than our non-extended language can. We need a second extension to consistently construct a truth predicate for the first extension. This second extension may look similar to the first, we obtain it by adding to arithmetic not only the predicate &amp;lsquo;Truth0&amp;rsquo; but also a new predicate &amp;lsquo;Truth1&amp;rsquo;. This process of extension will proceed indefinitely, giving us what we call the Tarski hierarchy over arithmetic.&lt;/p&gt;
-&lt;p&gt;This isn&amp;rsquo;t limited to arithmetic; each of the truth predicates in the Tarski hierarchy over arithmetic can be defined within standard set theory, of course our undefinability theorem still implies that the notion of set-theoretic truth cannot be defined within set theory.&lt;/p&gt;
-&lt;p&gt;What does this tell us about truth &lt;em&gt;tout court&lt;/em&gt;? If we were to add truth &lt;em&gt;tout court&lt;/em&gt; to a language, Tarski&amp;rsquo;s theorem tells us there&amp;rsquo;s a liar sentence in that language. And so if we want to restrict the formation of Liars in our language, it seems we need to reject full truth. This isn&amp;rsquo;t to entirely abandon the notion of truth, we still have the variety of formal truth predicates as given by our extended languages, rather this is to reject the coherence of &amp;ldquo;full&amp;rdquo; truth to prevent the formation of Liars. This is the classical Tarskian picture of a never-ending increasing hierarchy of truth predicates.&lt;/p&gt;
-&lt;p&gt;This solution to the Liar seems fine enough, so what is there to be said about Kripke&amp;rsquo;s thoughts? It&amp;rsquo;s important to note that the standard Tarskian picture works by avoiding to venture into a domain that is extremely easy to enter, and this may indicate the Tarskian hierarchy as an insufficient solution. Consider Kripke&amp;rsquo;s famous example of Jones who says:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Most of Nixon’s assertions about Watergate are untrue.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;This seems like the sort of mundane thing people are willing to say in our day-to-day lives. But, suppose one of the things Nixon said was:&lt;/p&gt;
-&lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Everything Jones says about Watergate is true.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;and that everything else Nixon said about Watergate is evenly divided between the false and the true. This would mean that Jones&amp;rsquo; assertion (1) is true if and only if Nixon&amp;rsquo;s assertion (2) is untrue, and Nixon&amp;rsquo;s assertion (2) is untrue if and only if Jones&amp;rsquo; assertion (1) is untrue. So Jones&amp;rsquo; assertion is true if and only if it&amp;rsquo;s untrue, a contradiction.&lt;/p&gt;
-&lt;p&gt;Maybe to protect against paradox, Jones asserts with the usage of Tarskian truth predicates:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Most of Nixon’s assertions about Watergate are not true0.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;For reasons discussed previously this would obviously block the paradox, but it wouldn&amp;rsquo;t be true to what Jones wanted to say. Jones needs to choose a subscript higher than all the subscripts on &amp;rsquo;true&amp;rsquo; employed in Nixon&amp;rsquo;s utterances. Sadly, Jones probably doesn&amp;rsquo;t know which subscripts Nixon employed, and if he chooses one that&amp;rsquo;s too low his statement won&amp;rsquo;t have the content he wants it to have.&lt;/p&gt;
-&lt;p&gt;The general problem this indicates is that speaking in line with Tarskian theory places an immense pressure on us to choose incredibly high subscripts, otherwise we&amp;rsquo;re at risk of falling short of what we hope to say, but in doing so we make it harder for others to fulfill their own intentions. Imagine if you and a friend each attempted to say that nothing the other said is true, you&amp;rsquo;d both be trying to include the other&amp;rsquo;s assertions within the scope of your own. At most only one of you can succeed since success requires the use of a higher subscript than the other.&lt;/p&gt;
-&lt;p&gt;How do we go about dealing with this problem? Let&amp;rsquo;s add a single non-indexical truth predicate to a language L0, presume that Tarskian truth in such a theory can be defined in standard set theory and also presume that L0 is expressive enough such that self-referential formulas are permitted. Since truth in L0 can be defined in standard set theory, quantifiers in such a language must be restricted so as to range only over the members of some set, we cannot permit the ability to speak of arbitrary sets.&lt;/p&gt;
-&lt;p&gt;We’ll extend L0, a first-order language with names, predicates, and function symbols, to a language L0+ by adding a new 1-place predicate ‘True’. Variables in such a language will range over the members of some domain of discourse, D. Every n-place predicate in our original language has a set of n-tuples of members of D as its extension. For our ‘True’ predicate we won’t assign a permanent extension yet, first we’ll consider various temporary quasi-extensions. Each temporary quasi-extension X is a subset of our domain of discourse D satisfying the following conditions:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;All of the members of X are Gödel numbers of sentences&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;No sentence and it’s negation are both in X.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Let Xneg consist of everything in D that is either not a sentence or the negation of a member of X. From (2) Xneg must be disjoint with X. From this one can give an inductive definition that assigns values to a formula of L0+ relative to an assignment function and a temporary quasi-extension X for ‘True’. I&amp;rsquo;ll avoid explicitly giving te full inductive definition here to avoid unnecessarily increasing the length of this article. Here, the main point is True(t) is true (which here is a term in some set-theoretic meta-language whose purpose is to describe L0+) relative to some assignment function and temporary quasi-extension X if and only if there is an object o denoted by t and o is in X. Likewise, True(t) is false if and only if there is an object o denoted by t and o isn’t in X.&lt;/p&gt;
-&lt;p&gt;Since X and Xneg need not be exhaustive, some formulas won’t be either true or false relative to a given assignment function and temporary quasi-extension X. Since we’ll be focusing on formulas with no free variables, we can drop talk of assignment functions and just focus on semantic value relative to a temporary quasi-extension X.&lt;/p&gt;
-&lt;p&gt;Now when it comes to our choice of a permanent quasi-extension, we can start with the simplest case. What we take to be the minimal fixed point. Let X0 be the empty set. Let X1 be the set of sentences that are true relative to the quasi-extension X0. For any ordinal α, let Xα+1 be the set of sentences that are true relative to the quasi-extension Xα. For a limit ordinal λ, let Xλ be the set of sentences that are true relative to some Xβ where β &amp;lt; λ. Now as it turns out, if a sentence is in Xα, it must also be in Xβ for any β &amp;gt; α. This is clear to see once you note our construction has the Monotonicity property. If X is a subset of Y, then every sentence with value 1 relative to X has value 1 relative to Y, and every sentence with value 0 relative to X has value 0 relative to Y. It follows that if Xα is a subset of Xα+1 then Xα+1 must be a subset of Xα+2 and by induction it follows that if Xα is a subset of Xα+1 then for all γ &amp;gt; β ≥ α, Xβ is a subset of Xγ. Since X0 is the empty set, X0 is a subset of X1, so whenever γ &amp;gt; β, Xβ is a subset of Xγ. Since Xα cannot grow indefinitely because of the fixed cardinality of sentences in the language, there must be an ordinal β for which Xβ = Xβ+1. This is the minimal fixed point.&lt;/p&gt;
-&lt;p&gt;We can say a sentence is true &lt;em&gt;tout court&lt;/em&gt; if it’s true in the minimal fixed point, false &lt;em&gt;tout court&lt;/em&gt; if it’s false in the minimal fixed point, or neither true nor false if it’s neither true nor false in the minimal fixed point.&lt;/p&gt;
-&lt;p&gt;As it turns out, on this construction, any Liar sentence will be assigned neither true nor false and we&amp;rsquo;re given a single non-indexical truth predicate allowing us to avoid the woes of competing for higher subscripts.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;The Liar paradox is a paradox that arises when one is able to construct sentences that assert their own untruth. Consider the sentence &amp;ldquo;This sentence is not true.&amp;rdquo; Abbreviating this sentence as &amp;lsquo;L&amp;rsquo;, one can see that &amp;lsquo;L&amp;rsquo; is equivalent to ~True(L), that is: L ↔ ~True(L). Assuming that a truth predicate abides by the Tarski schema, True(A) ↔ A, it follows that True(L) ↔ ~True(L). This is a contradiction.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Logic Behind a Theory Of Concepts</title>
       <link>https://lambdacontinuum.github.io/posts/logic-concepts/</link>
       <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/logic-concepts/</guid>
-      <description>&lt;p&gt;“Concept” is a polysemous term. Some use it in a way that simply equates it with ‘property,’ but it can take on various specific senses, such as Fregean senses, abstract entities, unsaturated entities whose extensions are sets and classes, and more. But regardless of how one defines concepts, a number of formal issues arise when dealing with them.&lt;/p&gt;
-&lt;p&gt;The connection between concepts and logic should be clear, since many well-known arguments rely on this connection. For example, consider an argument for the theory-laden nature of perception: Perception involves judgments of the form “x is red.” If we perceive that an apple is red, this involves the judgment “the apple is red.” Such judgments involves predication, to predicate “red” one must have the concept of red. These concepts exist within frameworks of interconnected concepts, that is, a theory. The core of this argument depends on the deep connection between concepts and predication.&lt;/p&gt;
-&lt;p&gt;A theory (of the metaphysics) of concepts must necessarily quantify over concepts or their corresponding abstract entities. Unless we adopt a strict nominalism based on First-Order Logic, this will require the use of Second-Order Logic. Consequently, any theory of concepts must take into account the various results and constraints from mathematical logic.&lt;/p&gt;
-&lt;p&gt;There are two types of models for higher-order logic. In a standard model, first-order variables range over a domain 𝒟, second-order variables range over 𝒫(𝒟) for predicates and 𝒫(𝒟_1 × … × 𝒟_n) for n-ary relations, and third-order variables range over 𝒫(𝒫(𝒟)), and so on. This contrasts with Henkin models, where a fixed subset of the powerset is chosen instead. For example, in Henkin semantics, the quantifier in ∀P[P(a)] ranges over a fixed subset of 𝒫(𝒟).&lt;/p&gt;
-&lt;p&gt;Higher-order logics with Henkin models can be viewed as a variant of many-sorted first-order logic. These logics are semantically complete, and the properties of compactness and Löwenheim–Skolem hold. However, they do not allow certain mathematical structures to be defined in their intended way. In contrast, higher-order logic with standard models is neither complete nor compact, and Löwenheim–Skolem does not hold. (By Lindström&amp;rsquo;s theorem, out of all logics that satisfy certain regularity conditions, the compactness theorem and the downward Löwenheim–Skolem theorem first-order logic as the strongest logic. Thus, to achieve greater expressive power, such as the ability to quantify over predicates, we must sacrifice at least one of these properties.)&lt;/p&gt;
-&lt;p&gt;While higher-order logics with standard models lack a full-fledged proof theory, they compensate by enabling the categorical definition of important concepts, such as well-foundedness conditions and distinctions between countable and uncountable domains.&lt;/p&gt;
-&lt;p&gt;Now we can ask: what concepts are there? This question can be answered by specifying a comprehension scheme. Unrestricted comprehension asserts that for any condition φ that can be formulated in the formal language, there is a corresponding concept. However, this leads to problems such as Russell’s paradox of predication.&lt;/p&gt;
-&lt;p&gt;Consider the predicate P(x), defined as ¬x(x), i.e., P(x) is not predicable of itself. Letting ϕ = ¬x(x), unrestricted comprehension gives us ∀x[P(x) ↔ ¬x(x)]. This allows us to derive the contradiction P(P) ↔ ¬P(P).&lt;/p&gt;
-&lt;p&gt;A definition is called impredicative if and only if it quantifies over a collection of objects to which the defined object itself belongs. Otherwise, it is predicative. Russell argued that paradoxes like these arise in systems of logic that allow unrestricted comprehension, as such systems permit impredicative definitions. The proposed solution is to restrict the logic to be predicative, thereby avoiding these paradoxes.&lt;/p&gt;
-&lt;p&gt;One way to avoid paradoxes is to assign an order to all variables and prescribe that, in any atomic formula P(x_1, …, x_n) within a condition φ formulated in the language, the order of all x must be lower than the order of P. This restriction renders ¬x(x) not well-formed.&lt;/p&gt;
-&lt;p&gt;Another approach is to adopt Church’s Simple Type Theory to define a higher-order logic with predicates. In this framework, every term has a type corresponding to a domain. Starting with a finite set of base types, compound types are built recursively. If α and β are types, then (αβ) represents the type of a function that takes an object of type β and yields an object of type α. For example, a unary predicate P has type (σι), representing a function that takes a term of type ι and yields a truth value of type σ. A second-order predicate has type (σ(σι)), and so on.&lt;/p&gt;
-&lt;p&gt;However, we need not completely abandon impredicativity, since it does not essentially lead to contradiction. In fact, many essential concepts, such as induction principles used to define the natural numbers, are impredicative. Because of this, many conceptual realists favor impredicative second-order logics. These logics restrict comprehension less strictly than predicative ones, or they combine full comprehension with a limited substitution principle to gain expressiveness while avoiding paradoxes. The main challenge with this approach is ensuring consistency, which becomes significantly more difficult in impredicative systems.&lt;/p&gt;
-&lt;p&gt;We can express these various views as combinations of different schemas and conditions. A formula φ is homogeneously stratified if and only if there exists a function f(.) that maps terms and formulas of the language to natural numbers, such that for any atomic formula P(x_1, …, x_n) in φ, the following conditions hold:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;f(P) = max[f(x_i)] + 1&lt;/li&gt;
-&lt;li&gt;f(x_i) = f(x_j) for 1 ≤ i, j ≤ n.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;We have the following schema:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;∃F∀x_1, …, x_n[F(x_1, …, x_n) ↔ φ(x_1, …, x_n)] (Scheme A)&lt;/li&gt;
-&lt;li&gt;∃F∀x_1, …, x_n[F(x_1, …, x_n) ↔ G(x_1, …, x_n) &amp;amp; φ(x_1, …, x_n)] (Scheme B)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And the following conditions:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;x_1, …, x_n are free in φ.&lt;/li&gt;
-&lt;li&gt;F is not free in φ.&lt;/li&gt;
-&lt;li&gt;φ is homogeneously stratified.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The following views as combinations of these features:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Unrestricted comprehension is a combination of scheme A and condition (1).&lt;/li&gt;
-&lt;li&gt;Predicative comprehension is a combination of scheme A and conditions (1), (2), and (3).&lt;/li&gt;
-&lt;li&gt;Views where comprehension is less restricted than in predicative ones are a combination of scheme B and conditions (1) and (2).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The logic one adopts is deeply connected to one’s metaphysical stance towards concepts. First-order logic and predicative higher-order logic with Henkin models reflect a strict nominalist perspective. Predicative higher-order logic with standard models can also be viewed as nominalist, as predicative comprehension reduces the existence of general concepts to conditions explicitly stated in the formal language. Impredicative higher-order logics with standard models, by contrast, embody a hardline realist stance. Efforts to avoid inconsistencies arising from impredicative logics result in higher-order logics with varying degrees of expressive power. And so it’s easy to see how the logic one adopts reflects different metaphysical stances regarding nominalism, cognitivism, and realism.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;“Concept” is a polysemous term. Some use it in a way that simply equates it with ‘property,’ but it can take on various specific senses, such as Fregean senses, abstract entities, unsaturated entities whose extensions are sets and classes, and more. But regardless of how one defines concepts, a number of formal issues arise when dealing with them.&lt;/p&gt;&#xA;&lt;p&gt;The connection between concepts and logic should be clear, since many well-known arguments rely on this connection. For example, consider an argument for the theory-laden nature of perception: Perception involves judgments of the form “x is red.” If we perceive that an apple is red, this involves the judgment “the apple is red.” Such judgments involves predication, to predicate “red” one must have the concept of red. These concepts exist within frameworks of interconnected concepts, that is, a theory. The core of this argument depends on the deep connection between concepts and predication.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>A Quick Argument Contra Positivism</title>
       <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
-      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
-&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;K(P ∧ ¬KP)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Since our logic extends K, K(P ∧ ¬KP) ⊨ KP ∧ K¬KP&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;By (2), KP ⊨ KKP&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;This implies KKP ∧ K¬KP, which contradicts D.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Therefore, we have derived a contradiction from our assumption, meaning it is impossible for the assumption to be true.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hence, ¬◊K(P ∧ ¬KP), that is, there are truths that are impossible to know.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Since we’ve demonstrated certain truths are impossible to know, one must either:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Reject the assumption that there are truths we do not know,&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Reject the 4 and D, or&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Reject the notion that all true propositions are unknowable.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Option (1) is untenable as there are obviously truths we don’t know. Option (2) also doesn’t seem viable, if you know that P you know that you know that P (i.e. axiom 4) and if you know P you don’t know not P (i.e. axiom D) seem intuitive. The only option is to accept option (3) which contradicts positivism.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;&#xA;&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;K(P ∧ ¬KP)&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Why Casual Sex is Wrong</title>
       <link>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</guid>
-      <description>&lt;p&gt;As the world becomes more socially progressive, many people believe there is nothing wrong with casual sex. The approach to sexual ethics taken by many socially progressive individuals is that as long as sex is consensual, it is permissible. I can see why this view is popular as it presents a straightforward model of sexual relations and appears to restrict a lot of impermissible behavior. The idea that sex is permissible if and only if it is consensual allows casual sex to be permissible, since sex can indeed be both casual and consensual.&lt;/p&gt;
-&lt;p&gt;Although I consider myself socially progressive, I do not adopt the view that casual sex is permissible. In fact, I think it is plausible that views permitting casual sex may fail to adequately explain the wrongness of rape and pedophilia. This is an argument forwarded by David Benatar.&lt;/p&gt;
-&lt;p&gt;We have two views to consider here. The first holds that for sex to be permissible, it must signify romantic love. We’ll refer to this as the &amp;ldquo;significance view.&amp;rdquo; The opposing perspective is the &amp;ldquo;casual view,&amp;rdquo; which maintains that sex need not have romantic significance to be morally permissible. According to this view, sexual pleasure is not morally different from other forms of pleasure, such as gastronomic or aesthetic pleasure. This does not mean that casual sex is always permissible; sex that is casual yet deemed immoral by another moral principle remains wrong. It simply means that the casual nature of sex, in itself, does not make it impermissible.&lt;/p&gt;
-&lt;p&gt;It is easy to see that the significance view has no difficulty explaining the wrongness of pedophilia or the particular wrongness of rape. Plausibly, children cannot comprehend the full romantic significance that sex should entail, and therefore, engaging in sex with a child treats the child merely as a means to sexual pleasure, disregarding the romantic love sex ought to signify. The case for rape is even more straightforward: rape is unlike other acts of force because it compels someone to engage in an activity meant to express deep romantic love. In this sense, it is uniquely harmful.&lt;/p&gt;
-&lt;p&gt;It is less clear how one might explain the unique wrongness of rape or the wrongness of adult-child sex if one adopts the casual view. If sex is not morally distinct from other activities done for pleasure and holds no special significance, then why couldn’t children partake in it? One would need to appeal to an additional moral principle to constrain sexual actions. There are some possible responses, but, as we shall see, they appear unmotivated and implausible within the casual view of sex.&lt;/p&gt;
-&lt;p&gt;The first argument is that sex is physically harmful to a child. The issue with this is that not all sexual acts necessarily cause physical harm to a child. A more plausible argument is that sex is psychologically harmful to a child. However, this view also encounters challenges. Some research suggests that it is unclear to what extent the psychological harm is a result of the sexual act itself, rather than of social taboos surrounding the topic. I do not hold a particularly strong stance on this matter, as it is largely an empirical question, but it is conceivable that this might be true. In such a case, a defender of the casual view could not cite psychological harm as a principled objection to all pedophilia. In a society without taboos against child-adult sex, where harm arises primarily from the social taboo, child-adult sex might cause no psychological harm to the child, a deeply problematic conclusion. By my lights, adult-child sex would still be wrong in such a society.&lt;/p&gt;
-&lt;p&gt;Another possible response is that a child cannot consent to sexual activity, making it inherently wrong to engage in sexual relations with a child. This principle seems plausible, and the significance view can account for it; however, it is unclear how this principle could hold under the casual view. If sex holds no special significance, then what about it renders a child unable to consent? One suggestion is that children may lack an understanding of the potential health risks associated with casual sex, thus disqualifying them from permissibly entering a sexual encounter. However, this response falls short. First, not all sexual activity entails significant health risks. Moreover, it is common practice for parents or guardians to make decisions for children when they are not competent enough to assess an activity’s risks. For instance, a parent may allow their child to participate in a contact sport despite the risks, valuing the child’s enjoyment of the activity. On the casual view, where sex is seen as no more significant than other activities, it is difficult to explain why sexual risks, and not those of other activities, warrant excluding children and disregarding the consent they or their guardians might give.&lt;/p&gt;
-&lt;p&gt;Perhaps the principle is not that children cannot consent to sex, but rather that, given the differences between adults and children, it is impossible for both parties to fully understand each other’s motives for engaging in sex. This lack of mutual understanding makes it impossible for each to know what the encounter means to the other, and this absence of information undermines the validity of consent. This objection is also plausible within the significance view, but it is unclear why it would hold under the casual view. After all, this inability to fully grasp each other&amp;rsquo;s intentions exists in other activities with children, such as playing a game, which do not carry the unique significance that proponents of the significance view ascribe to sex.&lt;/p&gt;
-&lt;p&gt;There is a more general issue with arguments based on consent: adults regularly interfere with a child&amp;rsquo;s freedom. For instance, a parent may compel their child to attend an opera to help them appreciate certain aesthetic pleasures. If there is no meaningful distinction between sexual pleasures and aesthetic pleasures, on what principled basis can a parent coerce their child to attend the opera but not to engage in sexual activity?&lt;/p&gt;
-&lt;p&gt;Thus, the casual view struggles to account for the wrongness of adult-child sex, but what about the unique wrongness of rape? The wrongness of rape is evident, as most would agree that, prima facie, we should not force others to do things against their will. However, it is difficult to explain why rape is especially wrong compared to other coercive actions, such as forcing someone to eat something they do not wish to eat. At best, proponents of the casual view could argue that rape is especially wrong only for those who reject the casual view. Yet, this is a challenging position to defend.&lt;/p&gt;
-&lt;p&gt;Consider a hypothetical scenario: a promiscuous woman who holds the casual view and frequently engages in casual sex is raped and brings her rapist to trial. In this trial, her sexual history could be cited as evidence of her stance on sexual ethics, implying that her experience of rape did not constitute a unique harm, perhaps equivalent to the coercion of forcing her to eat something unpleasant. This strikes me as deeply flawed. Raping someone for whom sex holds little significance does not reduce the wrongness of the act to that of forcing them to do something trivial. Nor is it justifiable to invoke a woman’s past sexual history to argue that her rape was somehow less morally harmful. Yet, the casual view of sex seems to permit such reasoning.&lt;/p&gt;
-&lt;p&gt;The general challenge the casual view encounters in attempting to account for the wrongness of pedophilia or the special wrongness of rape is its failure to attribute any special significance to sex, while the significance view does grant it such importance, particularly in terms of romantic significance. One might wonder whether a hybrid view could bridge the gap between the casual view and the significance view. To uphold the permissibility of casual sex, this hybrid perspective would need to argue that sex is not like other pleasures and possesses some form of significance, yet it need not necessarily be an expression of romantic affection. It‘s hard to see what other significant normative features of sex could distinguish sexual pleasure from other forms of pleasure, aside from romantic significance. While one might consider factors such as intimacy or privacy it’s hard to see how they don’t either:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Reduce back into the significance view.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Fail to properly condemn rape and pedophilia without condemning promiscuity.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;From where I stand, this seems plausible. I can’t really think of any normative feature of sex that is absent in other forms of pleasure which would promiscuity and casual sex while not permitting certain acts of pedophilia or entailing that rape is especially wrong. I also take it as given that a moral theory of sex being unable to account for the special wrongness of rape or the wrongness of pedophilia constitutes an inadequate normative model of sex. In light of this, I think it’s plausible we should give up the view that casual sex is permissible. Minimally, I think these considerations should make us more carefully consider the moral status of casual sex and promiscuity, which has become more prominent in the modern day. That being said, I’m not completely sold on this. So, if anyone has an argument that they think establishes the permissibility of casual sex, I’d be happy to hear it.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;As the world becomes more socially progressive, many people believe there is nothing wrong with casual sex. The approach to sexual ethics taken by many socially progressive individuals is that as long as sex is consensual, it is permissible. I can see why this view is popular as it presents a straightforward model of sexual relations and appears to restrict a lot of impermissible behavior. The idea that sex is permissible if and only if it is consensual allows casual sex to be permissible, since sex can indeed be both casual and consensual.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>S4 is Inadequate as a Logic of Formal Provability</title>
       <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
-      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;
-&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;(K) □(φ → ψ) → (□φ → □ψ)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;(M) □φ → φ&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;(4) □φ → □□φ&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Modus Ponens: From ⊢ φ and ⊢ φ → ψ, infer ⊢ ψ&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Necessitation: If ⊢ φ, then ⊢ □φ&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The interpretation that modal connectives take within modal logic depends on the modal system we’re attempting to analyze. ‘□’ can be interpreted as logical necessity, nomic necessity, moral obligation, and more. The interpretation we’re interested in is ‘□φ’ as ‘It is provable that φ.’&lt;/p&gt;
-&lt;p&gt;On its face, S4 might seem like a decent candidate for a modal logic that correctly analyzes provability. (K) holds because if a conditional is provable, then if the antecedent of the conditional is provable, the consequent of the conditional is obviously provable as well. (M) holds because if something is provable, it’s true. (4) holds because there’s a proof, then you can prove there is a proof.&lt;/p&gt;
-&lt;p&gt;This intuitive work is valuable, but more needs to be done. We need to ensure that there are no principles that hold for provability but are not provable in S4. To determine this, we require a precise explication of the notion of provability, and we must check whether the principles of S4 hold up in light of this explication.&lt;/p&gt;
-&lt;p&gt;Let’s provide an explication of provability. A natural candidate for the interpretation of □ is a formal provability predicate within a standard axiomatized mathematical theory. In fact, formal provability predicates are typically developed in the context of arithmetic. This is for a few reasons. For one, via Gödel coding, we can discuss numbers instead of expressions. Conveniently, arithmetic has many established results that can be borrowed and applied to syntax.&lt;/p&gt;
-&lt;p&gt;We’ll use Peano Arithmetic (PA). The language of PA, denoted 𝓛PA, is a first-order language with identity and the symbols 0, S, +, and *. Each natural number &lt;em&gt;n&lt;/em&gt; has a corresponding numeral, ⟨ &lt;em&gt;n&lt;/em&gt; ⟩, in PA with the form S(…S(0)) with &lt;em&gt;n&lt;/em&gt; occurrences of &lt;em&gt;S&lt;/em&gt;. Formulas in 𝓛PA can be classified by their complexity. Consider the formulas ∀x &amp;lt; t φ(x) and ∃x &amp;lt; t φ(x), the quantifiers in such formulas are are called &lt;em&gt;bounded&lt;/em&gt;. Formulas with only bounded quantifiers are called Δ0​-formulas. The complexity hierarchy is as follows: Π0 = Σ0 =Δ0. Σn+1-formulas have the form ∃x1…∃xk(φ(x1, …, xk)), where φ(x1,…,xk) is Πn​. Πn+1​-formulas have the form ∀x1…∀xk(φ(x1, …, xk)), where φ(x1,…,xk) is Σn​.&lt;/p&gt;
-&lt;p&gt;All sentences in 𝓛PA are logically equivalent to, for some &lt;em&gt;n&lt;/em&gt; and &lt;em&gt;m&lt;/em&gt; , a Σn​ or Πm​ formula. However, the class of Σ1-formulas is particularly interesting, as a function is Turing-recognizable if it is Σ1​-definable. This means an axiomatic arithmetic that can handle Σ1​ sentences is expressive enough to prove statements concerning the syntax of a formal language within it.&lt;/p&gt;
-&lt;p&gt;We say a theory of arithmetic, T, is Σ1-sound if, for any Σ1-formula, T ⊢ φ implies that φ is true in the standard model of arithmetic. Correspondingly, T is Σ1-complete if, for any sentence φ ∈ Σ1, φ is true in the standard model of arithmetic, then T ⊢ φ. Peano Arithmetic is Σ1-complete.&lt;/p&gt;
-&lt;p&gt;We also map syntactic objects to natural numbers so that each syntactic object τ of 𝓛PA is represented by a Gödel code ⌜τ⌝. Now, consider an arbitrary theory T of 𝓛PA that extends Peano Arithmetic. We call such a theory elementary presented if there’s an arithmetic ∆0-formula, 𝙰𝚡T(x), which is true of a natural number if it codes an axiom of T. We can use 𝙰𝚡T(x) to construct a ∆0-formula 𝙿𝚛𝚏T(y, x), a binary proof predicate of T that is true of natural numbers &lt;em&gt;m&lt;/em&gt; and &lt;em&gt;n&lt;/em&gt; if &lt;em&gt;m&lt;/em&gt; is the code of a sequence of formulas that constitute a proof of the formula whose code is &lt;em&gt;n&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Now consider Binumeration, which consists of two propositions:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;If in the standard model 𝙿𝚛𝚏T( &lt;em&gt;m&lt;/em&gt; , &lt;em&gt;n&lt;/em&gt; ), then PA ⊢ 𝙿𝚛𝚏T(⟨ &lt;em&gt;m&lt;/em&gt; ⟩, ⟨ &lt;em&gt;n&lt;/em&gt; ⟩)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If in the standard model ¬𝙿𝚛𝚏T( &lt;em&gt;m&lt;/em&gt; , &lt;em&gt;n&lt;/em&gt; ), then PA ⊢ ¬𝙿𝚛𝚏T(⟨ &lt;em&gt;m&lt;/em&gt; ⟩, ⟨ &lt;em&gt;n&lt;/em&gt; ⟩).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;We can obtain a monadic standard provability predicate, 𝙿𝚛𝚘𝚟T(x) := ∃y 𝙿𝚛𝚏T(y, x), and a consistency statement, 𝙲𝚘𝚗(x) := ¬𝙿𝚛𝚘𝚟T(⌜⊥⌝).&lt;/p&gt;
-&lt;p&gt;Since 𝙿𝚛𝚘𝚟T(x) is obtained by appending an existential quantifier to a ∆0-formula, it’s a ΣI-formula. It follows from Σ1-completeness that the first conjunct of Binumeration is true. The second conjunct of Binumeration fails, but this is no problem. 𝙿𝚛𝚘𝚟T(x) still succeeds in defining provability since 𝙿𝚛𝚘𝚟T(⟨⌜φ⌝⟩) is true in the standard model just in case T ⊢ φ.&lt;/p&gt;
-&lt;p&gt;In fact, our 𝙿𝚛𝚘𝚟T(x) formula satisfies what are known as the Hilbert-Bernays conditions for formal provability predicates, this is of future relevance.&lt;/p&gt;
-&lt;p&gt;Now that we have provided a precise explication of the notion of formal provability as the formal provability predicate 𝙿𝚛𝚘𝚟T(⟨⌜φ⌝⟩), we can finally ask whether we can interpret □ in S4 as this predicate.&lt;/p&gt;
-&lt;p&gt;To answer this, consider the Diagonal Lemma. For any formula φ(x) ∈ 𝓛PA, there is a sentence λ ∈ 𝓛PA such that PA ⊢ λ ≡ φ(⌜λ⌝). If we take φ(x) to be ¬𝙿𝚛𝚘𝚟PA( &lt;em&gt;x&lt;/em&gt; ), the diagonal lemma entails the existence of a sentence that provably satisfies the condition G ≡ ¬𝙿𝚛𝚘𝚟PA(⌜G⌝). G is thus independent of PA. You may recognize this is Gödel’s incompleteness theorem: if an elementary presented theory T extends PA and is consistent, then there is a sentence G ∈ 𝓛PA such that T ⊬ G and T ⊬ ¬G. Moreover, T ⊬ 𝙲𝚘𝚗(T).&lt;/p&gt;
-&lt;p&gt;Years later, Henkin would ask what would happen with sentences such as H ≡ 𝙿𝚛𝚘𝚟T(⌜H⌝). Löb answered this question with Löb’s theorem: if the Diagonal Lemma applies to T and the provability predicate of a theory T satisfies the Hilbert-Bernays provability conditions , T ⊢ 𝙿𝚛𝚘𝚟T(⌜φ⌝) → φ. For any given sentence φ, we call the formula 𝙿𝚛𝚘𝚟T(⌜φ⌝) → φ reflection for φ (over T), and Löb’s theorem asserts that reflection is provable in T but only for all theorems of T. The theorem follows from an application of 𝙿𝚛𝚘𝚟T(⌜x⌝) → φ to the Diagonal Lemma. Since, if the Diagonal Lemma applies to T, the lemma entails a ψ such that T ⊢ ψ ≡ (𝙿𝚛𝚘𝚟T(⌜ψ⌝) → φ).&lt;/p&gt;
-&lt;p&gt;Now, with background laid down, can □ of S4 be reasonably interpreted as the formal provability predicate? Let us take T = PA. From here, there are a few ways to show the inadequacy of S4 with respect to formal provability. One such approach is to note that, since S4 ⊢ □φ → φ for any φ, interpreting □φ as 𝙿𝚛𝚘𝚟T(⌜φ⌝) would require that for all φ ∈ 𝓛PA, PA ⊢ 𝙿𝚛𝚘𝚟T(⌜φ⌝) → φ. This in conjunction with Löb’s theorem entails that for all φ ∈ 𝓛PA, PA ⊢ φ. So, if PA is consistent, S4 cannot be the logic of the formal provability predicate of PA.&lt;/p&gt;
-&lt;p&gt;Another approach is to recall that 𝙲𝚘𝚗(x) is ¬𝙿𝚛𝚘𝚟T(⌜⊥⌝), which is logically equivalent to 𝙿𝚛𝚘𝚟T(⌜⊥⌝) → ⊥. This is an axiom of S4 since □⊥ → ⊥ is an instance of (M). Therefore, if S4 is adequate, it follows that PA ⊢ 𝙲𝚘𝚗(PA). This contradicts Gödel’s second incompleteness theorem. Moreover, necessitation yields □(□⊥ → ⊥), allowing us, in S4, to derive the claim that the consistency statement is derivable, which again contradicts Gödel’s second incompleteness theorem.&lt;/p&gt;
-&lt;p&gt;This argument assumes that T = PA, but the point generalizes to any consistent, recursively axiomatizable extension of PA. Given this, it’s clear that S4 is inadequate as a modal logic of formal provability.&lt;/p&gt;
-&lt;p&gt;Here’s one ramification of this. S4 was initially proposed as a logic of provability in light of Brouwer’s intuitionistic logic, which was formalized by Heyting as Intuitionistic Propositional Calculus (IPC). On this approach we say a mathematical claim is true if it has a proof and false if there is a proof that it leads to contradiction. This idea inspired Brouwer-Heyting-Kolmogorov semantics, which identifies true with provability. A proof of φ ∧ ψ is a proof of φ and a proof of ψ; a proof of φ ∨ ψ is a proof of φ or a proof of ψ; a proof of φ → ψ is a construction of proofs of ψ from proofs of φ; and since contradictions have no proof, a proof ¬φ is a proof of φ → ⊥, where ⊥ is a contradiction. Gödel would later provide a translation function, &lt;em&gt;t&lt;/em&gt; , that converts formulas in IPC into modal formulas and would prove that if IPC ⊢ φ, then S4 ⊢ t(φ). McKinsey and Tarski subsequently proved that if S4 ⊢ t(φ), then IPC ⊢ φ. Thus, IPC can be interpreted to be about classical provability if and only if S4 is the logic of classical provability. We’ve shown that S4 cannot be the logic of classical provability, and so IPC cannot be taken to be about classical provability.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;&#xA;&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(K) □(φ → ψ) → (□φ → □ψ)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(M) □φ → φ&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(4) □φ → □□φ&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Modus Ponens: From ⊢ φ and ⊢ φ → ψ, infer ⊢ ψ&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Trusting Our Future Selves</title>
       <link>https://lambdacontinuum.github.io/posts/trusting-future-selves/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/trusting-future-selves/</guid>
-      <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting Ct1 be their credence at time t1 and Ct2 be their credence at time t2, Ct1(H|Ct2(H) = x) = x.&lt;/p&gt;
-&lt;p&gt;This is to say that if an agent is rational, then given that they know their later credence in some hypothesis H is x, the agent&amp;rsquo;s earlier credence in H should be x. One may understand this principle as expressing one&amp;rsquo;s trust in one&amp;rsquo;s future self such that they should defer to them.&lt;/p&gt;
-&lt;p&gt;This may seem obvious to some, but it faces two types of counter-examples. The first is memory loss. Suppose t1 is 4/5/2025. Looking outside, I see the weather is rainy, and so my credence that the weather on 4/5/2025, is rainy is, let&amp;rsquo;s say, 0.999. I&amp;rsquo;ll suppose t2 is 4/5/2030, 5 years from now. If I was asked how likely it is the weather was rainy on 4/5/2025, I wouldn&amp;rsquo;t recall that it was rainy; maybe my credence would be around, I don&amp;rsquo;t know, 0.35? If I endorsed reflection, I should defer to my future self though, that is, Ct1(H|Ct2(H) = 0.35) = 0.35 but this seems clearly wrong. I should ignore my future forgetful state and hold Ct1(H|Ct2(H) = 0.35) = 0.999, so reflection cannot be a constraint on rationality. As long as one expects to forget in the future, they should violate reflection.&lt;/p&gt;
-&lt;p&gt;David Christensen offers a hypothetical involving a drug called LSQ that, upon taking it, causes one to believe that they can fly by flapping their arms. So, after taking the drug at t2, Ct2(H) = 1, but knowing prior to taking the drug that you&amp;rsquo;ll be taking it at t1, you obviously shouldn&amp;rsquo;t believe you can fly, so Ct1(H|Ct2(H) = 1) = 0.001, which violates reflection. If one expects to be irrational in the future, they should violate reflection.&lt;/p&gt;
-&lt;p&gt;So we have two instances of failure for reflection, but there does still feel something appealing about deferring to a version of ourselves with more experience, so maybe we should qualify reflection. Say in cases where we are sure we won&amp;rsquo;t forget anything and we are sure our belief change will be rational, i.e., all our belief change will be the result of conditionalization, we should satisfy reflection.&lt;/p&gt;
-&lt;p&gt;Now it turns out that the qualification against memory loss is redundant as an agent whose beliefs are always the result of conditionalization won&amp;rsquo;t experience memory loss, so we can characterize our qualified reflection as saying agents should satisfy reflection if and only if they are certain they&amp;rsquo;ll always be conditionalizers.&lt;/p&gt;
-&lt;p&gt;The problem is clear: we aren&amp;rsquo;t always conditionalizers. Quite the opposite, we&amp;rsquo;re flawed agents susceptible to forgetting and irrationality, and so we ought not abide by reflection. Ideally rational agents, on the other hand, ought to satisfy reflection. The upshot of all this is the constraints ideal agents ought to satisfy come apart from the constraints actual people in the epistemic landscape should satisfy. There are ways in which we ought not emulate ideal epistemic agents.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting Ct1 be their credence at time t1 and Ct2 be their credence at time t2, Ct1(H|Ct2(H) = x) = x.&lt;/p&gt;&#xA;&lt;p&gt;This is to say that if an agent is rational, then given that they know their later credence in some hypothesis H is x, the agent&amp;rsquo;s earlier credence in H should be x. One may understand this principle as expressing one&amp;rsquo;s trust in one&amp;rsquo;s future self such that they should defer to them.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Divine Agency Without Failure</title>
       <link>https://lambdacontinuum.github.io/posts/divine-agency/</link>
       <pubDate>Mon, 27 Jan 2025 17:59:14 -0500</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/divine-agency/</guid>
-      <description>&lt;p&gt;Philosophy of Religion has recently seen a surge of popularity in philosophy circles online, so I’ve decided to throw my hat in the ring. Here’s an argument against God being an agent.&lt;/p&gt;
-&lt;p&gt;Wittgenstein makes an interesting distinction. He distinguishes viewing intentions as mere mental processes from viewing intentions in terms of their fulfillment. For the latter, the idea here is that elements in the world can be taken to be in accord with such intentional states. Fulfillment conveys something that is normative in some minimal sense, leading us to think the very idea of intention is a normative idea. The general gist is that intentional states seem like the types of states that have standards by which one could be in accord or out of accord with them. Consider the cases of belief and desire. Suppose an agent believes that it’s raining outside, believes that an umbrella will protect them from the rain, and desires not to be wet. If such an agent were to walk outside without taking their umbrella, they’d be out of accord with their very own intentional states. The observation here is that intentional states seem to generate ideals of norm or correctness, and these norms are such that one could be in accord with or fail to accord with them. We can assess an agent’s actions as correct or incorrect by the light of the norms generated by their intentions. Thus, normativity is constitutive of intentional states.&lt;/p&gt;
-&lt;p&gt;Furthermore, it seems uncontroversial that intentional states are constitutive of agency. If you were to conceive of an agent, such a being would have beliefs, desires, etc. But here’s the problem: If intentional states are constitutive of agency, and normativity is constitutive of intentional states, it follows that agency is constitutively normative. Why is this a problem? It’s said that the very possibility of failure is a necessary condition for normativity. That is, if you ought to do something, it follows there must be some possibility that you don’t do it.&lt;/p&gt;
-&lt;p&gt;We established earlier that agency is a normative notion, and so agency must imply the possibility of failing to be in accord with one’s intentions—if it’s granted that a necessary condition for normativity is the possibility of failure. But traditional conceptions of God hold that His will is perfectly efficacious. God couldn’t fail to be in accord with His own intentional states. It follows that God couldn’t be an agent. The problem should be clear: God has been reduced to a matter of disposition, a mere causal tendency.&lt;/p&gt;
-&lt;p&gt;What is to be done to defend God’s agency? One could deny that the possibility of failure is an essential component of normativity, or one could deny that the possibility of failure is an essential part of intentional states—thereby rejecting the claim that intentional states are normative. Here, I’ll take the latter approach. More specifically, I’ll undercut the considerations given for intentional states being normative.&lt;/p&gt;
-&lt;p&gt;One may ask, as Akeel Bilgrami does, whether the general claim that intentional states are normative holds in the specific case of linguistic intentions—the intentions speakers have regarding the meaning of their words.&lt;/p&gt;
-&lt;p&gt;The normativity in play when discussing meaning-intentions comes from the idea that we can act in accord with our intentions to use words. For example, uttering “That is a snake” to apply to snakes when we’re in the presence of snakes is acting in accord with our intention. This suggests that the intentions relevant to meaning target the truth-conditions of the words one uses.&lt;/p&gt;
-&lt;p&gt;If we grant that the possibility of failure is a necessary condition for normativity, then for meaning-intentions to be normative, it must be possible to fail to get the truth-conditions of one’s utterances right. The most straightforward way to fail here would be if one doesn’t know the truth-conditions of the sentence they utter.&lt;/p&gt;
-&lt;p&gt;But how could one intend their words to possess truth-conditions they don’t actually possess, simply because they don’t know those truth-conditions? This is the crucial question. Can one &lt;em&gt;not know&lt;/em&gt; the meanings of the words they intend to utter? The answer is that one cannot fail to know the truth-conditions of what they utter.&lt;/p&gt;
-&lt;p&gt;Why? Recall that the idea that the meaning of a sentence is given by its truth-conditions was popularized by Frege’s doctrine of sense. Frege introduced sense to solve puzzles concerning informative identities. Suppose the meaning of a name consists solely in the object it picks out. Then two names that pick out the same object must have the same meaning. This creates a problem. Consider the names ‘Phosphorus’ and ‘Hesperus’, both of which pick out Venus:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Phosphorus = Phosphorus&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hesperus = Hesperus&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Hesperus = Phosphorus&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;We can know &lt;em&gt;a priori&lt;/em&gt; that (1) and (2) are true, but (3) is not knowable &lt;em&gt;a priori&lt;/em&gt;. This reveals a key issue: Being uninformed is not the same as being irrational. If the meaning of a name consists solely in its referent, an agent would be irrational if they denied that Hesperus is Phosphorus. Yet such an agent isn’t irrational—they’re merely uninformed about the &lt;em&gt;a posteriori&lt;/em&gt; identity. The puzzle arises because a Millian theory of names conflates irrationality with ignorance. Frege’s solution posits “sense” (meaning) to preserve the distinction between logical error and empirical ignorance.&lt;/p&gt;
-&lt;p&gt;Thus, any account of meaning must respect the following crucial desideratum: Agents in such puzzles should be seen as lacking empirical knowledge of the a posteriori identities at play, not as holding inconsistent mental states. Nothing should be tolerated in the understanding of the notion of meaning that prevents sense from doing what it was posited to do, solving the Fregean puzzles and maintaining the distinction between logical error and lack of empirical knowledge.&lt;/p&gt;
-&lt;p&gt;Imagine someone wondering, “Is Hesperus Phosphorus?” This is intelligible if senses are posited. But if the wonderer doesn’t know their own senses, they might ask, “Is the sense of ‘Hesperus’ the same as the sense of ‘Phosphorus’?” The puzzle re-emerges! If meanings aren’t transparent to the speaker, Frege’s original problem resurfaces one level up, at the level of senses. This violates the basic desideratum that meaning must solve the puzzle it was posited to solve.&lt;/p&gt;
-&lt;p&gt;And so, one cannot fail to know the meaning of the sentences they intend to utter. This follows from the requirement that meaning must resolve Fregean identity puzzles decisively—a fundamentally Fregean argument for the transparency of meaning. This argument blocks the possibility of failing to act in accord with meaning-intentions due to ignorance of the truth-conditions. There are other sources that may contribute to the possibility of failing to be in accord with the intentions to say something with certain truth conditions. Another major one is misspeaking. I won’t address this here to avoid making the article overly long. If you’re interested, check out &lt;em&gt;Why Meaning Intentions Are Degenerate&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Meaning-intentions thus serve as an exception to Wittgenstein’s insight about the normativity of intentions. Bilgrami grants that Wittgenstein is generally correct about intentions being normative. However, what I gather is that intentions need not &lt;em&gt;necessarily&lt;/em&gt; be normative. The reasoning for intentional states being normative hinges on the idea that intentions can be in or out of accord with actions. But such reasoning doesn’t guarantee all intentions are intrinsically normative. Meaning-intentions act as a counterexample: They’re a degenerate case. Then it wouldn’t follow that normativity is constitutive of agency. Meaning being an agent doesn’t necessarily imply the possibility of failure.&lt;/p&gt;
-&lt;p&gt;To be clear, what I’m providing is an undercutting argument. The argument given for intentions being normative fails at guaranteeing that normativity is constitutive of intentionality, and so agency need not imply the possibility of failure. God’s agency—as a being whose intentions cannot fail—remains preserved.&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Philosophy of Religion has recently seen a surge of popularity in philosophy circles online, so I’ve decided to throw my hat in the ring. Here’s an argument against God being an agent.&lt;/p&gt;&#xA;&lt;p&gt;Wittgenstein makes an interesting distinction. He distinguishes viewing intentions as mere mental processes from viewing intentions in terms of their fulfillment. For the latter, the idea here is that elements in the world can be taken to be in accord with such intentional states. Fulfillment conveys something that is normative in some minimal sense, leading us to think the very idea of intention is a normative idea. The general gist is that intentional states seem like the types of states that have standards by which one could be in accord or out of accord with them. Consider the cases of belief and desire. Suppose an agent believes that it’s raining outside, believes that an umbrella will protect them from the rain, and desires not to be wet. If such an agent were to walk outside without taking their umbrella, they’d be out of accord with their very own intentional states. The observation here is that intentional states seem to generate ideals of norm or correctness, and these norms are such that one could be in accord with or fail to accord with them. We can assess an agent’s actions as correct or incorrect by the light of the norms generated by their intentions. Thus, normativity is constitutive of intentional states.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contra Standard Deontic Logic</title>
       <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
       <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
-      
       <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
-      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset ℐ of the set 𝒲 of possible worlds, such that for all p, Op holds if and only if p ∈ w for all w∈ℐ.&lt;/p&gt;
-&lt;p&gt;ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Op → ~O~p,&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Op ∧ Oq ↔ O(p ∧ q),&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;O(p ∨ q).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The second axiom is equivalent to the combination of:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Op ∧ Oq → O(p ∧ q), i.e. agglomeration.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If Op and p logically implies q, then Oq, i.e. necessitation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Now that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following issues.&lt;/p&gt;
-&lt;p&gt;First is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him your crowbars and said, &amp;ldquo;You may borrow either the big or the small crowbar.&amp;rdquo; You offer him a choice between two tools. Now imagine the tools belonged to someone else who authorized you to lend one of them, but you had forgotten which of the two could be lent. You might say, &amp;ldquo;You may borrow either the big or the small crowbar, but I do not know which.&amp;rdquo; In this latter case, only one of the crowbars is permitted to be borrowed. However, the former case illustrates an instance of free choice permission: you are permitted to take the small crowbar, and you are permitted to take the large crowbar (but not both). To represent this in SDL, we want a permission operator that satisfies the postulate P(a∨b) → Pa∧Pb.&lt;/p&gt;
-&lt;p&gt;Such a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of SDL axioms. However, this leads to implausible results. Consider the following inference:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;O(~a ∧ ~b) → O~a, Holds in SDL.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;O~(a ∨ b) → O~a, Equiv to 1.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;~O~a → ~O~(a ∨ b), Contrapositive.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pa → P(a ∨ b), Definition of P.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pa → Pb, From added postulate.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The axiom combined with the original postulates entails that if something is permitted, then everything else is permitted. This is intolerable, so we cannot solve the issue of free choice by turning the SDL permission operator into an operator of free choice permission.&lt;/p&gt;
-&lt;p&gt;Some deontic logicians attempt to fix this by introducing a second permission operator Pc into SDL. One such definition is Pc(a ∨ b) ↔ Pa ∧ Pb. This definition is implausible, see the following derivation:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Pa → (Pa ∧ P(a ∨ b)), Pa → P(a ∨ b) holds in SDL.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pa → Pc(a ∨ (a ∨ b)), Definition of Pc&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Pa → Pc(a ∨ b).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;So, if you’re permitted to borrow a screwdriver, it follows that you have free choice to either borrow or steal the screwdriver. Other attempts to construct free choice operators have similarly absurd consequences. This is because such constructions rely on the &lt;em&gt;single sentence assumption&lt;/em&gt; —the idea that free choice between a and b can be represented as a property of a single sentence, namely a∨b.&lt;/p&gt;
-&lt;p&gt;Under this assumption, logically equivalent sentences are interchangeable. Thus, if a ∨ b is equivalent to c ∨ d, then there is a free choice permission between a and b if and only if there is a free choice permission between c and d. This entails implausible results. Consider the case of the vegetarian’s free lunch. In a restaurant, I may have a meal with meat or a meal without meat. Therefore, I may either have a meal and pay for it or have a meal and not pay for it. This follows because: Let m denote having a meal with meat, v a meal without meat, and p paying. P(m ∨ v) is equivalent to P(((m ∨ v) ∧ p) ∨ ((m ∨ v) ∧ ~p)).&lt;/p&gt;
-&lt;p&gt;Free choice permission illustrates an intuitive deontic principle that doesn’t hold in SDL. Conversely, SDL sometimes validates principles that are not plausible. We call such cases deontic paradoxes. Consider Åqvist&amp;rsquo;s knower paradox: If a police officer ought to know that Smith robbed Jones, then Smith ought to rob Jones. This counterexample challenges the principle of necessitation. Von Wright correctly points out that all major deontic paradoxes rely on necessitation. However, necessitation follows from SDL’s semantic construction of possible worlds, so these paradoxes challenge SDL’s semantics itself.&lt;/p&gt;
-&lt;p&gt;SDL also fails to model certain important kinds of obligations commonly discussed—namely, obligations of compensation, reparation, and prevention. Recall that under SDL’s semantics, obligatory acts in the actual world consist of actions that would occur in ideal worlds. Suppose there’s a drowning child in front of you. In a deontically ideal world, no child would drown, so you wouldn’t save a child from drowning in an ideal world because no drowning child would exist. It follows that you are not obligated to save the drowning child.&lt;/p&gt;
-&lt;p&gt;Obligations of compensation, reparation, and prevention require the existence of actions that need be compensated, reparated, and prevented. But these are actions that are unideal and wouldn’t occur in an ideal world. Consequently, SDL’s semantics cannot model such obligations. This is a significant problem, as such obligations are central not only to everyday moral discourse but also to moral philosophy as a whole. As Holly Goldman puts it, SDL &amp;ldquo;ignores the fact that particular obligations flow from abstract principles together with contingent features of the world,&amp;rdquo; and such features &amp;ldquo;do not appear in all the morally best worlds.&amp;rdquo;&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset ℐ of the set 𝒲 of possible worlds, such that for all p, Op holds if and only if p ∈ w for all w∈ℐ.&lt;/p&gt;&#xA;&lt;p&gt;ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Other</title>
-      <link>https://lambdacontinuum.github.io/other/</link>
+      <title>About Me</title>
+      <link>https://lambdacontinuum.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lambdacontinuum.github.io/other/</guid>
-      <description>&lt;h2 id=&#34;about-me&#34;&gt;About Me:&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a recent CS graduate from Boston University. Growing up, I&amp;rsquo;d spend a lot of time reading what was mostly fiction. I was a big fan of Paolini&amp;rsquo;s Inheritance Cycle, The Hobbit, and the Lord of the Rings, etc. I wasn&amp;rsquo;t too big a fan of science fiction, I always preferred reading fantasy. Fiction took up most of what I read until high school, when I came across Plato&amp;rsquo;s dialogues. If I&amp;rsquo;m recalling correctly, it was Ion that instilled an interest in philosophy in me (which is funny since by my lights it&amp;rsquo;s one of Plato&amp;rsquo;s worst arguments). From then on, most of my reading was non-fiction, though I still read some fiction, typically wuxia and xianxia novels. I also enjoy reading manga (though I don&amp;rsquo;t really watch anime). I don&amp;rsquo;t enjoy playing video games much, with the exceptions of Old School RuneScape, FromSoftware games, Fallout, and the Elder Scrolls Series. To kill time I&amp;rsquo;ll occasionally solve problems on Project Euler for fun, or tinker with various Linux systems. There was a time when I enjoyed constantly tinkering and recompiling the Linux kernel, though I haven&amp;rsquo;t done that in a while. Outside of that I enjoy UFC/MMA and weightlifting, the latter I do frequently while the former is something I just watch.&lt;/p&gt;
-&lt;h2 id=&#34;links&#34;&gt;Links:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Twitter:&lt;/strong&gt; &lt;a href=&#34;https://twitter.com/woarna_is_right&#34;&gt;@woarna_is_right&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Substack:&lt;/strong&gt; &lt;a href=&#34;https://lambdacontinuum.substack.com/&#34;&gt;Lambda Continuum&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/LambdaContinuum&#34;&gt;LambdaContinuum&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;software-i-use&#34;&gt;Software I use:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;OS:&lt;/strong&gt; NixOS&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Window Manager:&lt;/strong&gt; Hyprland&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Terminal:&lt;/strong&gt; Kitty&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Text Editor:&lt;/strong&gt; NeoVim/NVF configuration&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://lambdacontinuum.github.io/about/</guid>
+      <description>&lt;p&gt;Welcome to Lambda Continuum, my blog named after the wide array of confirmation functions given by Carnap’s approach to induction. This is a site where I blog about my interests, with a particular focus on analytic philosophy and computer science. I cross post my articles to substack if you’d rather follow me over there.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a recent CS graduate from Boston University. Growing up, I&amp;rsquo;d spend a lot of time reading what was mostly fiction. I was a big fan of Paolini&amp;rsquo;s Inheritance Cycle, The Hobbit, and the Lord of the Rings, etc. I wasn&amp;rsquo;t too big a fan of science fiction, I always preferred reading fantasy. Fiction took up most of what I read until high school, when I came across Plato&amp;rsquo;s dialogues. If I&amp;rsquo;m recalling correctly, it was Ion that instilled an interest in philosophy in me (which is funny since by my lights it&amp;rsquo;s one of Plato&amp;rsquo;s worst arguments). From then on, most of my reading was non-fiction, though I still read some fiction, typically wuxia and xianxia novels. I also enjoy reading manga (though I don&amp;rsquo;t really watch anime). I don&amp;rsquo;t enjoy playing video games much, with the exceptions of Old School RuneScape, FromSoftware games, Fallout, and the Elder Scrolls Series. To kill time I&amp;rsquo;ll occasionally solve problems on Project Euler for fun, or tinker with various Linux systems. There was a time when I enjoyed constantly tinkering and recompiling the Linux kernel, though I haven&amp;rsquo;t done that in a while. Outside of that I enjoy UFC/MMA and weightlifting, the latter I do frequently while the former is something I just watch.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Posts</title>
-      <link>https://lambdacontinuum.github.io/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lambdacontinuum.github.io/posts/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
