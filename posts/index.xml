@@ -83,7 +83,7 @@
       <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
-      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;&#xA;&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;&#xA;\[&#xA;\begin{align}&#xA;\text{(K)} \quad &amp; \Box(\phi \Rightarrow \psi) \Rightarrow (\Box\phi \Rightarrow \Box\psi) \\&#xA;\text{(M)} \quad &amp; \Box\phi \Rightarrow \phi \\&#xA;\text{(4)} \quad &amp; \Box\phi \Rightarrow \Box\Box\phi&#xA;\end{align}&#xA;\]&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;&#xA;&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;&#xA;\[&#xA;    \begin{align}&#xA;        \text{(K)} \quad &amp; \Box(\phi \Rightarrow \psi) \Rightarrow (\Box\phi \Rightarrow \Box\psi) \\&#xA;        \text{(M)} \quad &amp; \Box\phi \Rightarrow \phi \\&#xA;        \text{(4)} \quad &amp; \Box\phi \Rightarrow \Box\Box\phi\\&#xA;    \end{align}&#xA;\]&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trusting Our Future Selves</title>
