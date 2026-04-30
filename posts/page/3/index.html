@@ -17,7 +17,7 @@
     
 
     
-<link rel="stylesheet" href="/ananke/css/main.min.38f075309cbdb409b0e95dfe9ba2e7078bbf170c93649c49ae5723cec4f69ca2.css" >
+<link rel="stylesheet" href="/ananke/css/main.min.97b70129b1632e563fac21162a28d4a223d42c37c4d65e1ab2afa50ba843d3ce.css" >
 
 
 
@@ -25,10 +25,23 @@
 
   
 
+
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],   
+      inlineMath: [['\\(', '\\)']],                  
+      packages: {'[+]': ['ams', 'mathtools', 'bbox']}
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
 
     
-
-
     
       
 <link rel="shortcut icon" href="/images/icon.svg" type="image/x-icon" />
@@ -65,7 +78,7 @@
       
     
 	
-  </head><body class="ma0 avenir bg-near-white production is-section is-section">
+  </head><body class="ma0 helvetica bg-near-white production is-section is-section">
     
 
   
@@ -171,14 +184,15 @@
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="/posts/kripke-and-liars/" class="link black dim">
-        Kripke and Liars
+      <a href="/posts/hilbert-thesis/" class="link black dim">
+        I don&#39;t understand Hilbert&#39;s thesis
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>The Liar paradox is a paradox that arises when one is able to construct sentences that assert their own untruth. Consider the sentence &ldquo;This sentence is not true.&rdquo; Abbreviating this sentence as &lsquo;L&rsquo;, one can see that &lsquo;L&rsquo; is equivalent to ~True(L), that is: L ↔ ~True(L). Assuming that a truth predicate abides by the Tarski schema, True(A) ↔ A, it follows that True(L) ↔ ~True(L). This is a contradiction.</p>
+      <p>Kripke has this argument he renders in favor of the Church-Turing Thesis that relies on what’s called Hilbert’s thesis. Hilbert’s thesis is “the idea that the steps of any mathematical argument can be expressed in a language based on first-order logic (with identity).”</p>
+<p>Now, this thesis seems obviously wrong to me. For example, you cannot define a predicate for reachability on a graph in first-order logic. Suppose we attempt to create a first-order formula \(\phi(x, y)\) such that \(\phi(x, y)\) is true if and only if \(y\) is reachable from \(x\). Then, let’s define a certain class of graphs:</p>
     </div>
-    <a href="/posts/kripke-and-liars/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/posts/hilbert-thesis/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 
@@ -189,15 +203,18 @@
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="/posts/logic-concepts/" class="link black dim">
-        The Logic Behind a Theory Of Concepts
+      <a href="/posts/a-quick-argument-contra-positivism/" class="link black dim">
+        A Quick Argument Contra Positivism
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>“Concept” is a polysemous term. Some use it in a way that simply equates it with ‘property,’ but it can take on various specific senses, such as Fregean senses, abstract entities, unsaturated entities whose extensions are sets and classes, and more. But regardless of how one defines concepts, a number of formal issues arise when dealing with them.</p>
-<p>The connection between concepts and logic should be clear, since many well-known arguments rely on this connection. For example, consider an argument for the theory-laden nature of perception: Perception involves judgments of the form “x is red.” If we perceive that an apple is red, this involves the judgment “the apple is red.” Such judgments involves predication, to predicate “red” one must have the concept of red. These concepts exist within frameworks of interconnected concepts, that is, a theory. The core of this argument depends on the deep connection between concepts and predication.</p>
+      <p>Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.</p>
+<p>Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:</p>
+<ol>
+<li>
+<p>\( K(P \land \neg KP)\)</p>
     </div>
-    <a href="/posts/logic-concepts/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
+    <a href="/posts/a-quick-argument-contra-positivism/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
 </div>
 

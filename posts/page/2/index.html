@@ -17,7 +17,7 @@
     
 
     
-<link rel="stylesheet" href="/ananke/css/main.min.38f075309cbdb409b0e95dfe9ba2e7078bbf170c93649c49ae5723cec4f69ca2.css" >
+<link rel="stylesheet" href="/ananke/css/main.min.97b70129b1632e563fac21162a28d4a223d42c37c4d65e1ab2afa50ba843d3ce.css" >
 
 
 
@@ -25,10 +25,23 @@
 
   
 
+
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],   
+      inlineMath: [['\\(', '\\)']],                  
+      packages: {'[+]': ['ams', 'mathtools', 'bbox']}
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
 
     
-
-
     
       
 <link rel="shortcut icon" href="/images/icon.svg" type="image/x-icon" />
@@ -65,7 +78,7 @@
       
     
 	
-  </head><body class="ma0 avenir bg-near-white production is-section is-section">
+  </head><body class="ma0 helvetica bg-near-white production is-section is-section">
     
 
   
@@ -188,7 +201,7 @@
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       <p>I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.</p>
-<p>First, consider the moral principle <em>ought implies can</em> , a principle moral philosophers will commonly endorse. The principle is that if you ought to do <em>P</em> , then it is semantically entailed that you can do <em>P</em>. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given OP ⊨ ◊P; since contraposition preserves validity, ¬◊P ⊨ ¬OP. This would be a violation of the gap.</p>
+<p>First, consider the moral principle <em>ought implies can</em> , a principle moral philosophers will commonly endorse. The principle is that if you ought to do <em>P</em>, then it is semantically entailed that you can do <em>P</em>. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.</p>
     </div>
     <a href="/posts/is-ought-gap/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>

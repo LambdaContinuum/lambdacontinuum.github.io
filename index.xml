@@ -20,7 +20,7 @@
       <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
-      <description>&lt;p&gt;I recently came across an interesting paper on formal objections to error theory, this was the gist of it.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;&#xA;&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;</description>
+      <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;&#xA;&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contra Contextualism Refuting Skepticism</title>
@@ -41,7 +41,7 @@
       <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
-      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;&#xA;&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt; , then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given OP ⊨ ◊P; since contraposition preserves validity, ¬◊P ⊨ ¬OP. This would be a violation of the gap.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;&#xA;&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;</description>
     </item>
     <item>
       <title>God Ordains You to Two-Box</title>
@@ -58,25 +58,18 @@
       <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;&#xA;&lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Kripke and Liars</title>
-      <link>https://lambdacontinuum.github.io/posts/kripke-and-liars/</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://lambdacontinuum.github.io/posts/kripke-and-liars/</guid>
-      <description>&lt;p&gt;The Liar paradox is a paradox that arises when one is able to construct sentences that assert their own untruth. Consider the sentence &amp;ldquo;This sentence is not true.&amp;rdquo; Abbreviating this sentence as &amp;lsquo;L&amp;rsquo;, one can see that &amp;lsquo;L&amp;rsquo; is equivalent to ~True(L), that is: L ↔ ~True(L). Assuming that a truth predicate abides by the Tarski schema, True(A) ↔ A, it follows that True(L) ↔ ~True(L). This is a contradiction.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Logic Behind a Theory Of Concepts</title>
-      <link>https://lambdacontinuum.github.io/posts/logic-concepts/</link>
-      <pubDate>Sat, 14 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://lambdacontinuum.github.io/posts/logic-concepts/</guid>
-      <description>&lt;p&gt;“Concept” is a polysemous term. Some use it in a way that simply equates it with ‘property,’ but it can take on various specific senses, such as Fregean senses, abstract entities, unsaturated entities whose extensions are sets and classes, and more. But regardless of how one defines concepts, a number of formal issues arise when dealing with them.&lt;/p&gt;&#xA;&lt;p&gt;The connection between concepts and logic should be clear, since many well-known arguments rely on this connection. For example, consider an argument for the theory-laden nature of perception: Perception involves judgments of the form “x is red.” If we perceive that an apple is red, this involves the judgment “the apple is red.” Such judgments involves predication, to predicate “red” one must have the concept of red. These concepts exist within frameworks of interconnected concepts, that is, a theory. The core of this argument depends on the deep connection between concepts and predication.&lt;/p&gt;</description>
+      <title>I don&#39;t understand Hilbert&#39;s thesis</title>
+      <link>https://lambdacontinuum.github.io/posts/hilbert-thesis/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/posts/hilbert-thesis/</guid>
+      <description>&lt;p&gt;Kripke has this argument he renders in favor of the Church-Turing Thesis that relies on what’s called Hilbert’s thesis. Hilbert’s thesis is “the idea that the steps of any mathematical argument can be expressed in a language based on first-order logic (with identity).”&lt;/p&gt;&#xA;&lt;p&gt;Now, this thesis seems obviously wrong to me. For example, you cannot define a predicate for reachability on a graph in first-order logic. Suppose we attempt to create a first-order formula \(\phi(x, y)\) such that \(\phi(x, y)\) is true if and only if \(y\) is reachable from \(x\). Then, let’s define a certain class of graphs:&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Quick Argument Contra Positivism</title>
       <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
-      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;&#xA;&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;K(P ∧ ¬KP)&lt;/p&gt;</description>
+      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;&#xA;&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;\( K(P \land \neg KP)\)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why Casual Sex is Wrong</title>
@@ -90,14 +83,14 @@
       <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
-      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;&#xA;&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(K) □(φ → ψ) → (□φ → □ψ)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(M) □φ → φ&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;(4) □φ → □□φ&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Modus Ponens: From ⊢ φ and ⊢ φ → ψ, infer ⊢ ψ&lt;/p&gt;</description>
+      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;&#xA;&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;&#xA;\[&#xA;\begin{align}&#xA;\text{(K)} \quad &amp; \Box(\phi \Rightarrow \psi) \Rightarrow (\Box\phi \Rightarrow \Box\psi) \\&#xA;\text{(M)} \quad &amp; \Box\phi \Rightarrow \phi \\&#xA;\text{(4)} \quad &amp; \Box\phi \Rightarrow \Box\Box\phi&#xA;\end{align}&#xA;\]&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trusting Our Future Selves</title>
       <link>https://lambdacontinuum.github.io/posts/trusting-future-selves/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://lambdacontinuum.github.io/posts/trusting-future-selves/</guid>
-      <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting Ct1 be their credence at time t1 and Ct2 be their credence at time t2, Ct1(H|Ct2(H) = x) = x.&lt;/p&gt;&#xA;&lt;p&gt;This is to say that if an agent is rational, then given that they know their later credence in some hypothesis H is x, the agent&amp;rsquo;s earlier credence in H should be x. One may understand this principle as expressing one&amp;rsquo;s trust in one&amp;rsquo;s future self such that they should defer to them.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting \(C_{t1}\) be their credence at time t1 and \(C_{t2}\) be their credence at time t2:&lt;/p&gt;&#xA;\[&#xA;    C_{t1}(H \mid C_{t2}(H) = x) = x&#xA;\]&lt;p&gt;This is to say that if an agent is rational, then given that they know their later credence in some hypothesis H is x, the agent&amp;rsquo;s earlier credence in H should be x. One may understand this principle as expressing one&amp;rsquo;s trust in one&amp;rsquo;s future self such that they should defer to them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Divine Agency Without Failure</title>
@@ -111,7 +104,7 @@
       <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
       <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
       <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
-      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset ℐ of the set 𝒲 of possible worlds, such that for all p, Op holds if and only if p ∈ w for all w∈ℐ.&lt;/p&gt;&#xA;&lt;p&gt;ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;&#xA;&lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>

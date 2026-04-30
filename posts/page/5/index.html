@@ -17,7 +17,7 @@
     
 
     
-<link rel="stylesheet" href="/ananke/css/main.min.38f075309cbdb409b0e95dfe9ba2e7078bbf170c93649c49ae5723cec4f69ca2.css" >
+<link rel="stylesheet" href="/ananke/css/main.min.97b70129b1632e563fac21162a28d4a223d42c37c4d65e1ab2afa50ba843d3ce.css" >
 
 
 
@@ -25,10 +25,23 @@
 
   
 
+
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],   
+      inlineMath: [['\\(', '\\)']],                  
+      packages: {'[+]': ['ams', 'mathtools', 'bbox']}
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script>
 
     
-
-
     
       
 <link rel="shortcut icon" href="/images/icon.svg" type="image/x-icon" />
@@ -65,7 +78,7 @@
       
     
 	
-  </head><body class="ma0 avenir bg-near-white production is-section is-section">
+  </head><body class="ma0 helvetica bg-near-white production is-section is-section">
     
 
   
@@ -152,25 +165,6 @@
   <div class="mb3 pa4 gray overflow-hidden bg-white">
     <span class="f6 db">Posts</span>
     <h1 class="f3 near-black">
-      <a href="/posts/trusting-future-selves/" class="link black dim">
-        Trusting Our Future Selves
-      </a>
-    </h1>
-    <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting Ct1 be their credence at time t1 and Ct2 be their credence at time t2, Ct1(H|Ct2(H) = x) = x.</p>
-<p>This is to say that if an agent is rational, then given that they know their later credence in some hypothesis H is x, the agent&rsquo;s earlier credence in H should be x. One may understand this principle as expressing one&rsquo;s trust in one&rsquo;s future self such that they should defer to them.</p>
-    </div>
-    <a href="/posts/trusting-future-selves/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
-  </div>
-</div>
-
-        </div>
-      
-        <div class="w-100 w-30-l mb4 relative bg-white">
-          <div class="w-100 mb4 nested-copy-line-height relative bg-white">
-  <div class="mb3 pa4 gray overflow-hidden bg-white">
-    <span class="f6 db">Posts</span>
-    <h1 class="f3 near-black">
       <a href="/posts/divine-agency/" class="link black dim">
         Divine Agency Without Failure
       </a>
@@ -195,8 +189,8 @@
       </a>
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
-      <p>Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset ℐ of the set 𝒲 of possible worlds, such that for all p, Op holds if and only if p ∈ w for all w∈ℐ.</p>
-<p>ℐ represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:</p>
+      <p>Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).</p>
+<p>\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:</p>
     </div>
     <a href="/posts/contra-sdl/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1">read more</a>
   </div>
