@@ -107,6 +107,13 @@
       <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;&#xA;&lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;</description>
     </item>
     <item>
+      <title></title>
+      <link>https://lambdacontinuum.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lambdacontinuum.github.io/resume/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://lambdacontinuum.github.io/resume.pdf&#34;&gt;Resume&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About Me</title>
       <link>https://lambdacontinuum.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
