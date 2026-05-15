@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intuitionism on Lambda Continuum</title>
-    <link>http://localhost:1313/tags/intuitionism/</link>
+    <link>https://lambdacontinuum.github.io/tags/intuitionism/</link>
     <description>Recent content in Intuitionism on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/intuitionism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/intuitionism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>S4 is Inadequate as a Logic of Formal Provability</title>
-      <link>http://localhost:1313/posts/s4-inadequate/</link>
+      <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/s4-inadequate/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
       <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;
 &lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;
 \[

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on Lambda Continuum</title>
-    <link>http://localhost:1313/categories/philosophy/</link>
+    <link>https://lambdacontinuum.github.io/categories/philosophy/</link>
     <description>Recent content in Philosophy on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/categories/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rule-Following Is Not Physicalism&#39;s Problem Alone</title>
-      <link>http://localhost:1313/posts/rule-following-physicalism-not-a-problem/</link>
+      <link>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/rule-following-physicalism-not-a-problem/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</guid>
       <description>&lt;p&gt;Philip Goff recently wrote an &lt;a href=&#34;https://philipgoff.substack.com/p/can-calculators-add-can-brains-add&#34;&gt;article&lt;/a&gt; arguing against physicalism from rule-following.&lt;/p&gt;
 &lt;p&gt;His argument was as follows:&lt;/p&gt;
 &lt;ol&gt;
@@ -65,10 +65,10 @@
     
     <item>
       <title>Error Theory in Tension With Deontic Logic?</title>
-      <link>http://localhost:1313/posts/error-theory-deontic-logic/</link>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/error-theory-deontic-logic/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
       <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
 &lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
 &lt;ol&gt;
@@ -95,10 +95,10 @@
     
     <item>
       <title>Contra Contextualism Refuting Skepticism</title>
-      <link>http://localhost:1313/posts/contextualism-radical-skepticism/</link>
+      <link>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/contextualism-radical-skepticism/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</guid>
       <description>&lt;p&gt;Radical skepticism can derive from multiple sources. One such source is the apparent paradox between one’s widespread everyday knowledge and the rational support provided by our perceptual experiences not seeming to favor the truth of our quotidian perceptual beliefs over radical skeptical scenarios such as being a brain in a vat, since the experiences a subject has under the radical skeptical scenarios are indistinguishable from everyday experiences &lt;em&gt;ex hypothesi&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;A well known response to this skeptical paradox is attributivist contextualism. The contextualist takes it that the word “knows” is context-sensitive and so the truth of various attributions of knowledge depends on the conversational context the word is uttered in. In the case of radical skepticism “know” is thought to pick out different epistemic standards in different contexts of attribution. Conversational contexts that have more demanding epistemic standards can render some knowledge attributions false even if they would be true in more lax contexts.&lt;/p&gt;
 &lt;p&gt;And so the skeptic is correct, but only because the assertions they’re making is made relative to a context with incredibly demanding epistemic standards. When we come back to normal contexts, everyday knowledge ascriptions are true. What contextualism is doing here is giving us sort of diagnostic story that shows us radical skepticism only seems like a paradox because we’ve not properly grasped the context-sensitive nature of the term “knows”.&lt;/p&gt;
@@ -120,10 +120,10 @@
     
     <item>
       <title>Must God be Unique?</title>
-      <link>http://localhost:1313/posts/must-god-be-unique/</link>
+      <link>https://lambdacontinuum.github.io/posts/must-god-be-unique/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/must-god-be-unique/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/must-god-be-unique/</guid>
       <description>&lt;p&gt;Arguments in the Kalam tradition usually proceeded with the following three steps:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -157,10 +157,10 @@
     
     <item>
       <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
-      <link>http://localhost:1313/posts/is-ought-gap/</link>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/is-ought-gap/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
       <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
 &lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;
 &lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;
@@ -204,10 +204,10 @@
     
     <item>
       <title>God Ordains You to Two-Box</title>
-      <link>http://localhost:1313/posts/god-two-box/</link>
+      <link>https://lambdacontinuum.github.io/posts/god-two-box/</link>
       <pubDate>Sun, 21 Sep 2025 21:15:13 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/god-two-box/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/god-two-box/</guid>
       <description>&lt;p&gt;Consider the following argument:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;If God exists then God would tell you to two-box.&lt;/li&gt;
@@ -221,10 +221,10 @@
     
     <item>
       <title>Is existence a predicate?</title>
-      <link>http://localhost:1313/posts/is-existence-a-predicate/</link>
+      <link>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/is-existence-a-predicate/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</guid>
       <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;
 &lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;
 &lt;p&gt;It is trivial to construct a first-order monadic predicate, termed ‘exists,’ such that \(\text{exists} \stackrel{ \scriptscriptstyle \mathrm{def}}{=} \lambda x (\exists y = x)\). This ‘exists’ predicate is true of and only of things that exist and will abide by the syntactic rules of a predicate in first-order logic. So, why would it be incorrect to say that existence is a predicate?&lt;/p&gt;
@@ -255,10 +255,10 @@
     
     <item>
       <title>I don&#39;t understand Hilbert&#39;s thesis</title>
-      <link>http://localhost:1313/posts/hilbert-thesis/</link>
+      <link>https://lambdacontinuum.github.io/posts/hilbert-thesis/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hilbert-thesis/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/hilbert-thesis/</guid>
       <description>&lt;p&gt;Kripke has this argument he renders in favor of the Church-Turing Thesis that relies on what’s called Hilbert’s thesis. Hilbert’s thesis is “the idea that the steps of any mathematical argument can be expressed in a language based on first-order logic (with identity).”&lt;/p&gt;
 &lt;p&gt;Now, this thesis seems obviously wrong to me. For example, you cannot define a predicate for reachability on a graph in first-order logic. Suppose we attempt to create a first-order formula \(\phi(x, y)\) such that \(\phi(x, y)\) is true if and only if \(y\) is reachable from \(x\). Then, let’s define a certain class of graphs:&lt;/p&gt;
 \[
@@ -281,10 +281,10 @@
     
     <item>
       <title>A Quick Argument Contra Positivism</title>
-      <link>http://localhost:1313/posts/a-quick-argument-contra-positivism/</link>
+      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/a-quick-argument-contra-positivism/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
       <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
 &lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
 &lt;ol&gt;
@@ -322,10 +322,10 @@
     
     <item>
       <title>Why Casual Sex is Wrong</title>
-      <link>http://localhost:1313/posts/why-casual-sex-is-wrong/</link>
+      <link>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</link>
       <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/why-casual-sex-is-wrong/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</guid>
       <description>&lt;p&gt;As the world becomes more socially progressive, many people believe there is nothing wrong with casual sex. The approach to sexual ethics taken by many socially progressive individuals is that as long as sex is consensual, it is permissible. I can see why this view is popular as it presents a straightforward model of sexual relations and appears to restrict a lot of impermissible behavior. The idea that sex is permissible if and only if it is consensual allows casual sex to be permissible, since sex can indeed be both casual and consensual.&lt;/p&gt;
 &lt;p&gt;Although I consider myself socially progressive, I do not adopt the view that casual sex is permissible. In fact, I think it is plausible that views permitting casual sex may fail to adequately explain the wrongness of rape and pedophilia. This is an argument forwarded by David Benatar.&lt;/p&gt;
 &lt;p&gt;We have two views to consider here. The first holds that for sex to be permissible, it must signify romantic love. We’ll refer to this as the &amp;ldquo;significance view.&amp;rdquo; The opposing perspective is the &amp;ldquo;casual view,&amp;rdquo; which maintains that sex need not have romantic significance to be morally permissible. According to this view, sexual pleasure is not morally different from other forms of pleasure, such as gastronomic or aesthetic pleasure. This does not mean that casual sex is always permissible; sex that is casual yet deemed immoral by another moral principle remains wrong. It simply means that the casual nature of sex, in itself, does not make it impermissible.&lt;/p&gt;
@@ -352,10 +352,10 @@
     
     <item>
       <title>S4 is Inadequate as a Logic of Formal Provability</title>
-      <link>http://localhost:1313/posts/s4-inadequate/</link>
+      <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/s4-inadequate/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
       <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;
 &lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;
 \[
@@ -400,10 +400,10 @@ Necessitation: If \(\vdash \phi\), then \(\vdash \Box \phi\)&lt;/p&gt;
     
     <item>
       <title>Trusting Our Future Selves</title>
-      <link>http://localhost:1313/posts/trusting-future-selves/</link>
+      <link>https://lambdacontinuum.github.io/posts/trusting-future-selves/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/trusting-future-selves/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/trusting-future-selves/</guid>
       <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting \(C_{t1}\) be their credence at time t1 and \(C_{t2}\) be their credence at time t2:&lt;/p&gt;
 \[
     C_{t1}(H \mid C_{t2}(H) = x) = x
@@ -418,10 +418,10 @@ Necessitation: If \(\vdash \phi\), then \(\vdash \Box \phi\)&lt;/p&gt;
     
     <item>
       <title>Divine Agency Without Failure</title>
-      <link>http://localhost:1313/posts/divine-agency/</link>
+      <link>https://lambdacontinuum.github.io/posts/divine-agency/</link>
       <pubDate>Mon, 27 Jan 2025 17:59:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/divine-agency/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/divine-agency/</guid>
       <description>&lt;p&gt;Philosophy of Religion has recently seen a surge of popularity in philosophy circles online, so I’ve decided to throw my hat in the ring. Here’s an argument against God being an agent.&lt;/p&gt;
 &lt;p&gt;Wittgenstein makes an interesting distinction. He distinguishes viewing intentions as mere mental processes from viewing intentions in terms of their fulfillment. For the latter, the idea here is that elements in the world can be taken to be in accord with such intentional states. Fulfillment conveys something that is normative in some minimal sense, leading us to think the very idea of intention is a normative idea. The general gist is that intentional states seem like the types of states that have standards by which one could be in accord or out of accord with them. Consider the cases of belief and desire. Suppose an agent believes that it’s raining outside, believes that an umbrella will protect them from the rain, and desires not to be wet. If such an agent were to walk outside without taking their umbrella, they’d be out of accord with their very own intentional states. The observation here is that intentional states seem to generate ideals of norm or correctness, and these norms are such that one could be in accord with or fail to accord with them. We can assess an agent’s actions as correct or incorrect by the light of the norms generated by their intentions. Thus, normativity is constitutive of intentional states.&lt;/p&gt;
 &lt;p&gt;Furthermore, it seems uncontroversial that intentional states are constitutive of agency. If you were to conceive of an agent, such a being would have beliefs, desires, etc. But here’s the problem: If intentional states are constitutive of agency, and normativity is constitutive of intentional states, it follows that agency is constitutively normative. Why is this a problem? It’s said that the very possibility of failure is a necessary condition for normativity. That is, if you ought to do something, it follows there must be some possibility that you don’t do it.&lt;/p&gt;
@@ -462,10 +462,10 @@ Necessitation: If \(\vdash \phi\), then \(\vdash \Box \phi\)&lt;/p&gt;
     
     <item>
       <title>Contra Standard Deontic Logic</title>
-      <link>http://localhost:1313/posts/contra-sdl/</link>
+      <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
       <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/contra-sdl/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
       <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;
 &lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
 &lt;ol&gt;

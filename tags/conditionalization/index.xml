@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conditionalization on Lambda Continuum</title>
-    <link>http://localhost:1313/tags/conditionalization/</link>
+    <link>https://lambdacontinuum.github.io/tags/conditionalization/</link>
     <description>Recent content in Conditionalization on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/conditionalization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/conditionalization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trusting Our Future Selves</title>
-      <link>http://localhost:1313/posts/trusting-future-selves/</link>
+      <link>https://lambdacontinuum.github.io/posts/trusting-future-selves/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/trusting-future-selves/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/trusting-future-selves/</guid>
       <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting \(C_{t1}\) be their credence at time t1 and \(C_{t2}\) be their credence at time t2:&lt;/p&gt;
 \[
     C_{t1}(H \mid C_{t2}(H) = x) = x

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logic on Lambda Continuum</title>
-    <link>http://localhost:1313/categories/logic/</link>
+    <link>https://lambdacontinuum.github.io/categories/logic/</link>
     <description>Recent content in Logic on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/logic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/categories/logic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Error Theory in Tension With Deontic Logic?</title>
-      <link>http://localhost:1313/posts/error-theory-deontic-logic/</link>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/error-theory-deontic-logic/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
       <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
 &lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
 &lt;ol&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
-      <link>http://localhost:1313/posts/is-ought-gap/</link>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/is-ought-gap/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
       <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
 &lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;
 &lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;
@@ -86,10 +86,10 @@
     
     <item>
       <title>Is existence a predicate?</title>
-      <link>http://localhost:1313/posts/is-existence-a-predicate/</link>
+      <link>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</link>
       <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/is-existence-a-predicate/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</guid>
       <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;
 &lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;
 &lt;p&gt;It is trivial to construct a first-order monadic predicate, termed ‘exists,’ such that \(\text{exists} \stackrel{ \scriptscriptstyle \mathrm{def}}{=} \lambda x (\exists y = x)\). This ‘exists’ predicate is true of and only of things that exist and will abide by the syntactic rules of a predicate in first-order logic. So, why would it be incorrect to say that existence is a predicate?&lt;/p&gt;
@@ -120,10 +120,10 @@
     
     <item>
       <title>I don&#39;t understand Hilbert&#39;s thesis</title>
-      <link>http://localhost:1313/posts/hilbert-thesis/</link>
+      <link>https://lambdacontinuum.github.io/posts/hilbert-thesis/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hilbert-thesis/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/hilbert-thesis/</guid>
       <description>&lt;p&gt;Kripke has this argument he renders in favor of the Church-Turing Thesis that relies on what’s called Hilbert’s thesis. Hilbert’s thesis is “the idea that the steps of any mathematical argument can be expressed in a language based on first-order logic (with identity).”&lt;/p&gt;
 &lt;p&gt;Now, this thesis seems obviously wrong to me. For example, you cannot define a predicate for reachability on a graph in first-order logic. Suppose we attempt to create a first-order formula \(\phi(x, y)\) such that \(\phi(x, y)\) is true if and only if \(y\) is reachable from \(x\). Then, let’s define a certain class of graphs:&lt;/p&gt;
 \[
@@ -146,10 +146,10 @@
     
     <item>
       <title>A Quick Argument Contra Positivism</title>
-      <link>http://localhost:1313/posts/a-quick-argument-contra-positivism/</link>
+      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/a-quick-argument-contra-positivism/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
       <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
 &lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
 &lt;ol&gt;
@@ -187,10 +187,10 @@
     
     <item>
       <title>S4 is Inadequate as a Logic of Formal Provability</title>
-      <link>http://localhost:1313/posts/s4-inadequate/</link>
+      <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/s4-inadequate/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
       <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;
 &lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;
 \[
@@ -235,10 +235,10 @@ Necessitation: If \(\vdash \phi\), then \(\vdash \Box \phi\)&lt;/p&gt;
     
     <item>
       <title>Contra Standard Deontic Logic</title>
-      <link>http://localhost:1313/posts/contra-sdl/</link>
+      <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
       <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/contra-sdl/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
       <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;
 &lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
 &lt;ol&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Normativity on Lambda Continuum</title>
-    <link>http://localhost:1313/tags/normativity/</link>
+    <link>https://lambdacontinuum.github.io/tags/normativity/</link>
     <description>Recent content in Normativity on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/normativity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/normativity/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Error Theory in Tension With Deontic Logic?</title>
-      <link>http://localhost:1313/posts/error-theory-deontic-logic/</link>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/error-theory-deontic-logic/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
       <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
 &lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
 &lt;ol&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
-      <link>http://localhost:1313/posts/is-ought-gap/</link>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/is-ought-gap/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
       <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
 &lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;
 &lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;
@@ -86,10 +86,10 @@
     
     <item>
       <title>Divine Agency Without Failure</title>
-      <link>http://localhost:1313/posts/divine-agency/</link>
+      <link>https://lambdacontinuum.github.io/posts/divine-agency/</link>
       <pubDate>Mon, 27 Jan 2025 17:59:14 -0500</pubDate>
       
-      <guid>http://localhost:1313/posts/divine-agency/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/divine-agency/</guid>
       <description>&lt;p&gt;Philosophy of Religion has recently seen a surge of popularity in philosophy circles online, so I’ve decided to throw my hat in the ring. Here’s an argument against God being an agent.&lt;/p&gt;
 &lt;p&gt;Wittgenstein makes an interesting distinction. He distinguishes viewing intentions as mere mental processes from viewing intentions in terms of their fulfillment. For the latter, the idea here is that elements in the world can be taken to be in accord with such intentional states. Fulfillment conveys something that is normative in some minimal sense, leading us to think the very idea of intention is a normative idea. The general gist is that intentional states seem like the types of states that have standards by which one could be in accord or out of accord with them. Consider the cases of belief and desire. Suppose an agent believes that it’s raining outside, believes that an umbrella will protect them from the rain, and desires not to be wet. If such an agent were to walk outside without taking their umbrella, they’d be out of accord with their very own intentional states. The observation here is that intentional states seem to generate ideals of norm or correctness, and these norms are such that one could be in accord with or fail to accord with them. We can assess an agent’s actions as correct or incorrect by the light of the norms generated by their intentions. Thus, normativity is constitutive of intentional states.&lt;/p&gt;
 &lt;p&gt;Furthermore, it seems uncontroversial that intentional states are constitutive of agency. If you were to conceive of an agent, such a being would have beliefs, desires, etc. But here’s the problem: If intentional states are constitutive of agency, and normativity is constitutive of intentional states, it follows that agency is constitutively normative. Why is this a problem? It’s said that the very possibility of failure is a necessary condition for normativity. That is, if you ought to do something, it follows there must be some possibility that you don’t do it.&lt;/p&gt;

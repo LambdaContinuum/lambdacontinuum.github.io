@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prior on Lambda Continuum</title>
-    <link>http://localhost:1313/tags/prior/</link>
+    <link>https://lambdacontinuum.github.io/tags/prior/</link>
     <description>Recent content in Prior on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/prior/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/prior/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
-      <link>http://localhost:1313/posts/is-ought-gap/</link>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
       <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/is-ought-gap/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
       <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
 &lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;
 &lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;

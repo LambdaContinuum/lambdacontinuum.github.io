@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Epistemology on Lambda Continuum</title>
-    <link>http://localhost:1313/categories/epistemology/</link>
+    <link>https://lambdacontinuum.github.io/categories/epistemology/</link>
     <description>Recent content in Epistemology on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/epistemology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/categories/epistemology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contra Contextualism Refuting Skepticism</title>
-      <link>http://localhost:1313/posts/contextualism-radical-skepticism/</link>
+      <link>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</link>
       <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/contextualism-radical-skepticism/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</guid>
       <description>&lt;p&gt;Radical skepticism can derive from multiple sources. One such source is the apparent paradox between one’s widespread everyday knowledge and the rational support provided by our perceptual experiences not seeming to favor the truth of our quotidian perceptual beliefs over radical skeptical scenarios such as being a brain in a vat, since the experiences a subject has under the radical skeptical scenarios are indistinguishable from everyday experiences &lt;em&gt;ex hypothesi&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;A well known response to this skeptical paradox is attributivist contextualism. The contextualist takes it that the word “knows” is context-sensitive and so the truth of various attributions of knowledge depends on the conversational context the word is uttered in. In the case of radical skepticism “know” is thought to pick out different epistemic standards in different contexts of attribution. Conversational contexts that have more demanding epistemic standards can render some knowledge attributions false even if they would be true in more lax contexts.&lt;/p&gt;
 &lt;p&gt;And so the skeptic is correct, but only because the assertions they’re making is made relative to a context with incredibly demanding epistemic standards. When we come back to normal contexts, everyday knowledge ascriptions are true. What contextualism is doing here is giving us sort of diagnostic story that shows us radical skepticism only seems like a paradox because we’ve not properly grasped the context-sensitive nature of the term “knows”.&lt;/p&gt;
@@ -34,10 +34,10 @@
     
     <item>
       <title>God Ordains You to Two-Box</title>
-      <link>http://localhost:1313/posts/god-two-box/</link>
+      <link>https://lambdacontinuum.github.io/posts/god-two-box/</link>
       <pubDate>Sun, 21 Sep 2025 21:15:13 -0400</pubDate>
       
-      <guid>http://localhost:1313/posts/god-two-box/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/god-two-box/</guid>
       <description>&lt;p&gt;Consider the following argument:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;If God exists then God would tell you to two-box.&lt;/li&gt;
@@ -51,10 +51,10 @@
     
     <item>
       <title>A Quick Argument Contra Positivism</title>
-      <link>http://localhost:1313/posts/a-quick-argument-contra-positivism/</link>
+      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/a-quick-argument-contra-positivism/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
       <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
 &lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
 &lt;ol&gt;
@@ -92,10 +92,10 @@
     
     <item>
       <title>Trusting Our Future Selves</title>
-      <link>http://localhost:1313/posts/trusting-future-selves/</link>
+      <link>https://lambdacontinuum.github.io/posts/trusting-future-selves/</link>
       <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/trusting-future-selves/</guid>
+      <guid>https://lambdacontinuum.github.io/posts/trusting-future-selves/</guid>
       <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting \(C_{t1}\) be their credence at time t1 and \(C_{t2}\) be their credence at time t2:&lt;/p&gt;
 \[
     C_{t1}(H \mid C_{t2}(H) = x) = x
