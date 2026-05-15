@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SDL on Lambda Continuum</title>
+    <link>https://lambdacontinuum.github.io/tags/sdl/</link>
+    <description>Recent content in SDL on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/sdl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error Theory in Tension With Deontic Logic?</title>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
+      <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
+&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;\(\vDash \forall \phi (\phi \lor \neg \phi)\)&lt;/li&gt;
+&lt;li&gt;\(P\psi \lor \neg P\psi\), from 1&lt;/li&gt;
+&lt;li&gt;\(P\psi \lor I\psi\) since \(\neg P \psi = I \psi\)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From hereon out we’ll call (3) the Dual Schema (DS). The issue should be clear, the error theorist wants to say a moral judgement like “It is impermissible to steal candy from a baby” is false because the sort of property needed to render the judgement true, moral properties, do not obtain anywhere. But the falsity of that judgement alongside (DS) entails “It’s permissible to steal candy from a baby”, a judgement that seemingly instantiates the moral property of permissibility. So, error theory seems to contradict (DS), a logical truth of SDL.&lt;/p&gt;
+&lt;p&gt;The error theorist has a couple of moves here. A plausible one is just rejecting SDL, there are antecedent reasons to do so and I defend such a view on this blog but it’s not clear to me that that’s necessary. The author of the paper argues the objection is only superficially formal.&lt;/p&gt;
+&lt;p&gt;That might need a little more elaboration, what is the error theorist saying when they deny “It is impermissible to steal candy from a baby”? I’d say something like such a judgement is false because for it to be true there needs to be (stance-independent) &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby, but no such reasons of that kind exist. Given the (DS) the error theorist must then be committed to the truth of “It is permissible to steal candy from the baby” and the proponent of this objection thinks that’s an issue for the error theorist. But why? They’ll say “the truth of that judgement requires the moral property of permissibility and the error theorist rejects such properties” but note that the error theorist is objecting to something like the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt;. It’s only an issue for the error theorist to endorse “It is permissible to steal candy from a baby” if the judgement means something like there’s a &lt;em&gt;reason in favor&lt;/em&gt; of the act being permissible but the (DS) doesn’t suppose any such analysis. Suppose instead that to say “It is permissible to steal candy from a baby” is just to say that there are no &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby.&lt;/p&gt;
+&lt;p&gt;So we have two analyses of what it means to say “It’s permissible to steal candy from the baby”, call the one that supposes the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P+) variant and the one that supposes there are no
+&lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P-) variant. The error theorist is clearly committed to a contradiction in affirming (P+) given they think all such judgements are false in virtue of supposing the existence of &lt;em&gt;reasons&lt;/em&gt; that don’t obtain, but there’s no issue for the error theorist in affirming (P-) since the claim doesn’t suppose such &lt;em&gt;reasons&lt;/em&gt;.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; And so there’s only a contradiction for the error theorist if (DS) entails (P+) instead of (P-) but why think that? The objection being raised isn’t purely formal, it implicitly supposes the dual schema involves a certain analysis of permissibility that supposes the sort of properties the error theorist wishes to reject, but the error theorist can just reject that.&lt;/p&gt;
+&lt;p&gt;So say we have two (DS) variants, (DS+) supposes permission is analyzed in line with (P+) while (DS-) supposes permission is analyzed in line with (PS-). SDL says nothing about what variant (DS) is supposed to endorse, but for SDL to show a contradiction in error theory (DS) has to be (DS+). Either way, there isn’t a clear formal contradiction for the error theorist in adopting SDL, they just need to deny their opponents framing of judgements about permission involving the existence reasons.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;In fact, the judgement supposes that such reasons don’t exist. A corollary of this is all judgements about the permission of acts come out true but I don’t see why that would be an issue.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contra Standard Deontic Logic</title>
+      <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
+      <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
+      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;
+&lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \implies \neg O \neg p\),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \land Oq \iff O(p \land q)\),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\(O(p \lor q)\).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The second axiom is equivalent to the combination of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \land Oq \implies O(p \land q)\), i.e. agglomeration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If \(Op\) and \(p\) logically implies \(q\), then \(Oq\), i.e. necessitation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following issues.&lt;/p&gt;
+&lt;p&gt;First is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him your crowbars and said, &amp;ldquo;You may borrow either the big or the small crowbar.&amp;rdquo; You offer him a choice between two tools. Now imagine the tools belonged to someone else who authorized you to lend one of them, but you had forgotten which of the two could be lent. You might say, &amp;ldquo;You may borrow either the big or the small crowbar, but I do not know which.&amp;rdquo; In this latter case, only one of the crowbars is permitted to be borrowed. However, the former case illustrates an instance of free choice permission: you are permitted to take the small crowbar, and you are permitted to take the large crowbar (but not both). To represent this in SDL, we want a permission operator that satisfies the postulate \(P(a \lor b) \implies Pa \land Pb\).&lt;/p&gt;
+&lt;p&gt;Such a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of SDL axioms. However, this leads to implausible results. Consider the following inference:&lt;/p&gt;
+\[
+    \begin{array}{rll}
+        1. &amp; O(\neg a \land \neg b) \implies O \neg a &amp; \text{Holds in SDL} \\
+        2. &amp; O \neg (a \lor b) \implies O \neg a &amp; \text{1, Equiv} \\
+        3. &amp; \neg O \neg a \implies \neg O \neg (a \lor b) &amp; \text{2, Contrapos} \\
+        4. &amp; Pa \implies P(a \lor b) &amp; \text{3, Def. of P} \\
+        5. &amp; P(a \lor b) \implies Pa \land Pb &amp; \text{Hyp.} \\
+        6. &amp; Pa \implies Pb &amp; \text{4, 5, HS} \\
+    \end{array}
+\]&lt;p&gt;The axiom combined with the original postulates entails that if something is permitted, then everything else is permitted. This is intolerable, so we cannot solve the issue of free choice by turning the SDL permission operator into an operator of free choice permission.&lt;/p&gt;
+&lt;p&gt;Some deontic logicians attempt to fix this by introducing a second permission operator Pc into SDL. One such definition is \(P_c(a \lor b) \iff Pa \land Pb\). This definition is implausible, see the following derivation:&lt;/p&gt;
+\[
+    \begin{array}{rll}
+        1. &amp; Pa \implies (P a \lor b) &amp; \text{Holds in SDL} \\
+        2. &amp; Pa \implies (Pa \land P(a \lor b)) &amp; \text{1, Adjunction}\\
+        3. &amp; Pa \implies P_c(a \lor (a \lor b))&amp; \text{2, Def. of }P_c \\
+        3. &amp; Pa \implies P_c(a \lor b) &amp; \text{3, Idempotence} \\
+    \end{array}
+\]&lt;p&gt;So, if you’re permitted to borrow a screwdriver, it follows that you have free choice to either borrow or steal the screwdriver. Other attempts to construct free choice operators have similarly absurd consequences. This is because such constructions rely on the &lt;em&gt;single sentence assumption&lt;/em&gt;; the idea that free choice between a and b can be represented as a property of a single sentence, namely a∨b.&lt;/p&gt;
+&lt;p&gt;Under this assumption, logically equivalent sentences are interchangeable. Thus, if \(a \lor b\) is equivalent to \(c \lor d\), then there is a free choice permission between a and b if and only if there is a free choice permission between c and d. This entails implausible results. Consider the case of the vegetarian’s free lunch. In a restaurant, I may have a meal with meat or a meal without meat. Therefore, I may either have a meal and pay for it or have a meal and not pay for it. This follows because: Let m denote having a meal with meat, v a meal without meat, and p paying:&lt;/p&gt;
+\[
+    P(m \lor v) \equiv P(((m \lor v) \land p) \lor ((m \lor v) \land \neg p)).
+\]&lt;p&gt;Free choice permission illustrates an intuitive deontic principle that doesn’t hold in SDL. Conversely, SDL sometimes validates principles that are not plausible. We call such cases deontic paradoxes. Consider Åqvist&amp;rsquo;s knower paradox: If a police officer ought to know that Smith robbed Jones, then Smith ought to rob Jones. This counterexample challenges the principle of necessitation. Von Wright correctly points out that all major deontic paradoxes rely on necessitation. However, necessitation follows from SDL’s semantic construction of possible worlds, so these paradoxes challenge SDL’s semantics itself.&lt;/p&gt;
+&lt;p&gt;SDL also fails to model certain important kinds of obligations commonly discussed—namely, obligations of compensation, reparation, and prevention. Recall that under SDL’s semantics, obligatory acts in the actual world consist of actions that would occur in ideal worlds. Suppose there’s a drowning child in front of you. In a deontically ideal world, no child would drown, so you wouldn’t save a child from drowning in an ideal world because no drowning child would exist. It follows that you are not obligated to save the drowning child.&lt;/p&gt;
+&lt;p&gt;Obligations of compensation, reparation, and prevention require the existence of actions that need be compensated, reparated, and prevented. But these are actions that are unideal and wouldn’t occur in an ideal world. Consequently, SDL’s semantics cannot model such obligations. This is a significant problem, as such obligations are central not only to everyday moral discourse but also to moral philosophy as a whole. As Holly Goldman puts it, SDL &amp;ldquo;ignores the fact that particular obligations flow from abstract principles together with contingent features of the world,&amp;rdquo; and such features &amp;ldquo;do not appear in all the morally best worlds.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

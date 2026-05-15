@@ -1,69 +1,54 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    
-    <title>Contra Standard Deontic Logic | Lambda Continuum</title>
-   <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).
+<html lang="en-us" style="font-size: 100%">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+  <meta name="author" content="Azad Ellafi">
+
+  
+  
+  <meta name="description" content="Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).
 \(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:">
-    <meta name="generator" content="Hugo 0.160.1">
-    
-    
-    
-      <meta name="robots" content="index, follow">
-    
-    <meta name="author" content="Azad Ellafi">
-    
-
-    
-<link rel="stylesheet" href="/ananke/css/main.min.97b70129b1632e563fac21162a28d4a223d42c37c4d65e1ab2afa50ba843d3ce.css" >
-
-
-
   
 
   
+  <link rel="apple-touch-icon" sizes="180x180" href="https://lambdacontinuum.github.io//images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://lambdacontinuum.github.io//images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://lambdacontinuum.github.io//images/favicon-16x16.png">
 
+  
+  
+  <meta name="keywords" content='hugo latex theme blog texify texify2 texify3 michael neuper'>
+  
 
-    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
-
+  
+  
+  <link rel="stylesheet" href='/katex/katex.min.css'>
+<script defer defer src='/katex/katex.min.js'></script>
+<script defer src='/katex/contrib/auto-render.min.js'></script>
 <script>
-  MathJax = {
-    tex: {
-      displayMath: [['\\[', '\\]'], ['$$', '$$']],   
-      inlineMath: [['\\(', '\\)']],                  
-      packages: {'[+]': ['ams', 'mathtools', 'bbox']}
-    },
-    loader:{
-      load: ['ui/safe']
-    },
-  };
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          throwOnError : false
+        });
+    });
 </script>
+  
 
-    
-    
-      
-<link rel="shortcut icon" href="/images/icon.svg" type="image/x-icon" />
+  
+  
 
-
-    
-
-    
-    
-      <link href="/posts/contra-sdl/index.xml" rel="alternate" type="application/rss+xml" title="Lambda Continuum" />
-      <link href="/posts/contra-sdl/index.xml" rel="feed" type="application/rss+xml" title="Lambda Continuum" />
-      
-    
-
-    
-      <link rel="canonical" href="https://lambdacontinuum.github.io/posts/contra-sdl/">
-    
-
-    
-    
-    <meta property="og:url" content="https://lambdacontinuum.github.io/posts/contra-sdl/">
+  
+  <meta property="og:url" content="https://lambdacontinuum.github.io/posts/contra-sdl/">
   <meta property="og:site_name" content="Lambda Continuum">
   <meta property="og:title" content="Contra Standard Deontic Logic">
   <meta property="og:description" content="Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).
@@ -73,132 +58,164 @@
     <meta property="article:section" content="posts">
     <meta property="article:published_time" content="2025-01-23T17:57:25-05:00">
     <meta property="article:modified_time" content="2025-01-23T17:57:25-05:00">
+    <meta property="article:tag" content="Deontic Logic">
+    <meta property="article:tag" content="SDL">
+    <meta property="article:tag" content="Free Choice Permission">
+    <meta property="article:tag" content="Hansson">
+    <meta property="article:tag" content="Åqvist">
+    <meta property="article:tag" content="Von Wright">
 
+
+  
+  <link rel="canonical" href="https://lambdacontinuum.github.io/posts/contra-sdl/">
+
+  
+  
+  <link rel="alternate" type="application/rss+xml" href="https://lambdacontinuum.github.io/posts/contra-sdl/index.xml" title="Lambda Continuum" />
+  
+  
   <meta itemprop="name" content="Contra Standard Deontic Logic">
   <meta itemprop="description" content="Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).
 \(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:">
   <meta itemprop="datePublished" content="2025-01-23T17:57:25-05:00">
   <meta itemprop="dateModified" content="2025-01-23T17:57:25-05:00">
   <meta itemprop="wordCount" content="1014">
+  <meta itemprop="keywords" content="Deontic Logic,SDL,Free Choice Permission,Hansson,Åqvist,Von Wright,Moral Obligation,Deontic Paradoxes,Permission,Possible Worlds">
+
+  
+  
+  
+    <link rel="stylesheet" href="/css/common.min.2a72526c4806fe4ebefe5caeb9f480eaa4f71b29888965f4c8be789f4661a319.css" integrity="sha256-KnJSbEgG/k6&#43;/lyuufSA6qT3GymIiWX0yL54n0Zhoxk=" crossorigin="anonymous">
+  
+
+  
+  
+    <link rel="stylesheet" href="/css/content.min.f1cb82018e7ec5cd97032074475223ffb36215181141407125e4e72c4fff280a.css" integrity="sha256-8cuCAY5&#43;xc2XAyB0R1Ij/7NiFRgRQUBxJeTnLE//KAo=" crossorigin="anonymous">
+  
+
+  
+  
+  <title>Contra Standard Deontic Logic - Lambda Continuum</title>
+  
+
+  
+  
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Contra Standard Deontic Logic">
   <meta name="twitter:description" content="Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).
 \(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:">
 
-      
-      
+
+  
+
+
+  <link rel="stylesheet" href="/css/single.min.be2da7a982252421d90f4578f4b4fbaf28fd3cb622b5b7079aae0999f0ecfeb0.css" integrity="sha256-vi2nqYIlJCHZD0V49LT7ryj9PLYitbcHmq4JmfDs/rA=" crossorigin="anonymous">
+
+
+  <link rel="stylesheet" href="/css/single.min.78a121b7d7a160420f9daab0ea13add66c37b9c44f27bba07b27207e2b0975d2.css" integrity="sha256-eKEht9ehYEIPnaqw6hOt1mw3ucRPJ7ugeycgfisJddI=" crossorigin="anonymous">
+
+
+</head>
+
+<body>
+  <div id="wrapper">
     
-	
-  </head><body class="ma0 helvetica bg-near-white production is-page is-page page-contra-sdl">
+
+
+<header id="header">
+  <h1>
+    <a href="https://lambdacontinuum.github.io/">Lambda Continuum</a>
+    <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle theme">
+        <svg width="2rem" height="2rem" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 496">
+        <path fill="currentColor" d="M8,256C8,393,119,504,256,504S504,393,504,256,393,8,256,8,8,119,8,256ZM256,440V72a184,184,0,0,1,0,368Z" transform="translate(-8 -8)"/>
+        </svg>
+    </button>
+  </h1>
+
+  <nav>
     
-   
+    <span class="nav-bar-item">
+      
+      <a class="link" href="/posts/">Posts</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      
+      <a class="link" href="/resume.pdf">Resume</a>
+    </span>
+    
+  </nav>
+</header>
+<hr class="head-rule"></hr>
+    
+<main id="main" class="post">
   
-
-  
-  
-  
-  <header class="cover bg-center" style="background-image: url('https://lambdacontinuum.github.io/images/2.jpg');">
-    <div class="bg-black-60">
-      <nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l center items-center justify-between">
-    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+  <div class="post-heading">
+    <h1 class="post-title">Contra Standard Deontic Logic</h1>
+    <div class="publish-metadata">
       
-        Lambda Continuum
+      <svg width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M3 9H21M7 3V5M17 3V5M6 13H8M6 17H8M11 13H13M11 17H13M16 13H18M16 17H18M6.2 21H17.8C18.9201 21 19.4802 21 19.908 20.782C20.2843 20.5903 20.5903 20.2843 20.782 19.908C21 19.4802 21 18.9201 21 17.8V8.2C21 7.07989 21 6.51984 20.782 6.09202C20.5903 5.71569 20.2843 5.40973 19.908 5.21799C19.4802 5 18.9201 5 17.8 5H6.2C5.0799 5 4.51984 5 4.09202 5.21799C3.71569 5.40973 3.40973 5.71569 3.21799 6.09202C3 6.51984 3 7.07989 3 8.2V17.8C3 18.9201 3 19.4802 3.21799 19.908C3.40973 20.2843 3.71569 20.5903 4.09202 20.782C4.51984 21 5.07989 21 6.2 21Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      23 January 2025
       
-    </a>
-    <div class="flex-l items-center">
       
-
+        &nbsp;
+        <span>
+          <svg width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.4998 5.49994L18.3282 8.32837M3 20.9997L3.04745 20.6675C3.21536 19.4922 3.29932 18.9045 3.49029 18.3558C3.65975 17.8689 3.89124 17.4059 4.17906 16.9783C4.50341 16.4963 4.92319 16.0765 5.76274 15.237L17.4107 3.58896C18.1918 2.80791 19.4581 2.80791 20.2392 3.58896C21.0202 4.37001 21.0202 5.63634 20.2392 6.41739L8.37744 18.2791C7.61579 19.0408 7.23497 19.4216 6.8012 19.7244C6.41618 19.9932 6.00093 20.2159 5.56398 20.3879C5.07171 20.5817 4.54375 20.6882 3.48793 20.9012L3 20.9997Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          1014 words
+        </span>
       
-        <ul class="pl0 mr3">
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/posts/" title="Posts page">
-              Posts
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/about/" title="About page">
-              About
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="https://lambdacontinuum.substack.com/" title="Substack page">
-              Substack
-            </a>
-          </li>
-          
-          <li class="list f5 f4-ns fw4 dib pr3">
-            <a class="hover-white white-90 no-underline" href="/resume.pdf" title="Resume page">
-              Resume
-            </a>
-          </li>
-          
-        </ul>
       
-      <div class="ananke-socials"><a href="https://twitter.com/woarna_is_right" target="_blank" rel="noopener"
-        class="ananke-social-link link-transition twitter link dib z-999 pt3 pt0-l mr1"
-        title="follow on Twitter - Opens in a new window"
-        aria-label="follow on Twitter - Opens in a new window">
-      <span class="icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
-            
-          </span></a><a href="https://github.com/LambdaContinuum/" target="_blank" rel="noopener"
-        class="ananke-social-link link-transition github link dib z-999 pt3 pt0-l mr1"
-        title="follow on GitHub - Opens in a new window"
-        aria-label="follow on GitHub - Opens in a new window">
-      <span class="icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
-            
-          </span></a><a href="https://lambdacontinuum.github.io/index.xml" target="_blank" rel="noopener"
-        class="ananke-social-link link-transition rss link dib z-999 pt3 pt0-l mr1"
-        title="follow on RSS - Opens in a new window"
-        aria-label="follow on RSS - Opens in a new window">
-      <span class="icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
-            
-          </span></a></div>
-
+      
+        
+      
+      
+        &nbsp;
+        <span>
+          <svg width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 7V12L14.5 13.5M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          ~5 mins
+        </span>
+      
     </div>
   </div>
-</nav>
 
-      <div class="tc-l pv6 pv7-l ph3 ph4-ns">
-        
-          
-        
-      </div>
-    </div>
-  </header>
-
-
-
-    <main class="pb7" role="main">
-      
   
-
-  <article class="page-contra-sdl flex-l mw7 center ph3 flex-wrap justify-between">
-    <header class="mt4 w-100">
-      <aside class="instapaper_ignoref b helvetica tracked ttu">
-          
-        Posts
-      </aside><div id="sharing" class="mt3 ananke-socials"></div>
-<h1 class="f1 athelas mt3 mb1">Contra Standard Deontic Logic</h1>
-      
-      <p class="tracked"><strong>Azad Ellafi</strong>
-      </p>
-      
-      
-      
-      <time class="f6 mv4 dib tracked" datetime="2025-01-23T17:57:25-05:00">January 23, 2025</time>
-      
-
-      
-      
-    </header>
-    <div class="nested-copy-line-height lh-copy helvetica bg-near-white f4 nested-links mid-gray pr4-l w-100-l"><p>Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).</p>
+  <div>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/deontic-logic'>#deontic logic</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/sdl'>#SDL</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/free-choice-permission'>#free choice permission</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/hansson'>#Hansson</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/%C3%A5qvist'>#Åqvist</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/von-wright'>#von Wright</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/moral-obligation'>#moral obligation</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/deontic-paradoxes'>#deontic paradoxes</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/permission'>#permission</a>
+    
+    <a class="link tag" href='https://lambdacontinuum.github.io/tags/possible-worlds'>#possible worlds</a>
+    
+    <br></br>
+  </div>
+  
+  
+  
+  
+  <article class="content numbered-subtitles">
+    
+    <p>Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).</p>
 <p>\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:</p>
 <ol>
 <li>
@@ -248,44 +265,84 @@
 \]<p>Free choice permission illustrates an intuitive deontic principle that doesn’t hold in SDL. Conversely, SDL sometimes validates principles that are not plausible. We call such cases deontic paradoxes. Consider Åqvist&rsquo;s knower paradox: If a police officer ought to know that Smith robbed Jones, then Smith ought to rob Jones. This counterexample challenges the principle of necessitation. Von Wright correctly points out that all major deontic paradoxes rely on necessitation. However, necessitation follows from SDL’s semantic construction of possible worlds, so these paradoxes challenge SDL’s semantics itself.</p>
 <p>SDL also fails to model certain important kinds of obligations commonly discussed—namely, obligations of compensation, reparation, and prevention. Recall that under SDL’s semantics, obligatory acts in the actual world consist of actions that would occur in ideal worlds. Suppose there’s a drowning child in front of you. In a deontically ideal world, no child would drown, so you wouldn’t save a child from drowning in an ideal world because no drowning child would exist. It follows that you are not obligated to save the drowning child.</p>
 <p>Obligations of compensation, reparation, and prevention require the existence of actions that need be compensated, reparated, and prevented. But these are actions that are unideal and wouldn’t occur in an ideal world. Consequently, SDL’s semantics cannot model such obligations. This is a significant problem, as such obligations are central not only to everyday moral discourse but also to moral philosophy as a whole. As Holly Goldman puts it, SDL &ldquo;ignores the fact that particular obligations flow from abstract principles together with contingent features of the world,&rdquo; and such features &ldquo;do not appear in all the morally best worlds.&rdquo;</p>
-<ul class="pa0">
+
+    
+  </article>
+
+  <button onclick="topFunction()" id="back-to-top" title="Go to top">Back to Top</button>
+
   
-</ul>
 
-      
-    </div></article>
+<div id="sharingbuttons">
+    
+    
 
-    </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
-  <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="https://lambdacontinuum.github.io/" >
-    &copy;  Lambda Continuum 2026 
-  </a>
-    <div><div class="ananke-socials"><a href="https://twitter.com/woarna_is_right" target="_blank" rel="noopener"
-        class="ananke-social-link link-transition twitter link dib z-999 pt3 pt0-l mr1"
-        title="follow on Twitter - Opens in a new window"
-        aria-label="follow on Twitter - Opens in a new window">
-      <span class="icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
-            
-          </span></a><a href="https://github.com/LambdaContinuum/" target="_blank" rel="noopener"
-        class="ananke-social-link link-transition github link dib z-999 pt3 pt0-l mr1"
-        title="follow on GitHub - Opens in a new window"
-        aria-label="follow on GitHub - Opens in a new window">
-      <span class="icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
-            
-          </span></a><a href="https://lambdacontinuum.github.io/index.xml" target="_blank" rel="noopener"
-        class="ananke-social-link link-transition rss link dib z-999 pt3 pt0-l mr1"
-        title="follow on RSS - Opens in a new window"
-        aria-label="follow on RSS - Opens in a new window">
-      <span class="icon">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc. --><path d="M0 64C0 46.3 14.3 32 32 32c229.8 0 416 186.2 416 416c0 17.7-14.3 32-32 32s-32-14.3-32-32C384 253.6 226.4 96 32 96C14.3 96 0 81.7 0 64zM0 416a64 64 0 1 1 128 0A64 64 0 1 1 0 416zM32 160c159.1 0 288 128.9 288 288c0 17.7-14.3 32-32 32s-32-14.3-32-32c0-123.7-100.3-224-224-224c-17.7 0-32-14.3-32-32s14.3-32 32-32z"/></svg>
-            
-          </span></a></div>
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
 </div>
+  <div class="paginator">
+    
+    <a></a>
+    
+    
+    <a class="link" href="https://lambdacontinuum.github.io/posts/divine-agency/" title="Divine Agency Without Failure">next →</a>
+    
+  </div>
+  <div class="comment">
+    
+    
+    
+    
+  </div>
+  
+  
+</main>
+
+    <footer id="footer">
+  <div>
+    <span>Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+</span>
+  </div>
+  <div>
+    <span>Copyright © 2026 Azad Ellafi</span>
   </div>
 </footer>
 
-  </body>
+  </div>
+
+  
+  <script src='https://lambdacontinuum.github.io/js/script.js' defer></script>
+
+  
+  
+  <link media="screen" rel="stylesheet" href="https://lambdacontinuum.github.io/css/custom.css" />
+  
+
+  
+  
+
+  
+  
+
+</body>
+
 </html>

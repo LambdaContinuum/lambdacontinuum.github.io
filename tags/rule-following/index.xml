@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rule-Following on Lambda Continuum</title>
+    <link>https://lambdacontinuum.github.io/tags/rule-following/</link>
+    <description>Recent content in Rule-Following on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/rule-following/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rule-Following Is Not Physicalism&#39;s Problem Alone</title>
+      <link>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</guid>
+      <description>&lt;p&gt;Philip Goff recently wrote an &lt;a href=&#34;https://philipgoff.substack.com/p/can-calculators-add-can-brains-add&#34;&gt;article&lt;/a&gt; arguing against physicalism from rule-following.&lt;/p&gt;
+&lt;p&gt;His argument was as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If my mathematical thought was reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I performed the plus function or the quus function when I do maths.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is a fact of the matter as to whether or not I perform the plus function or the quus function when I do maths.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, my mathematical functioning is not reducible to the physical functioning of my brain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I took issue with this argument so I decided to write up a quick response. Before we continue, I just want to run you all through Kripke’s argument so we’re all on the same page. Any competent speaker of the English language knows that ‘Plus’ denotes the addition function. This function is defined for all integers, and most have grasped the rules of its application. Notably, we’ve grasped the rule for addition without computing every possible sum. Also consider the function denoted by ‘Quus’. This function abides by the same rules as addition except when one of the numbers being summed is greater than 57, in which case the function will return 5.&lt;/p&gt;
+&lt;p&gt;Now, imagine an insane man comes up to you and asks what ‘68 plus 57’ is, to which you respond ‘125’. He scoffs and asks ‘How do you know the answer is 125? For all you know, the way you used “plus” in the past indicates the answer should have been 5’. Going through your memories of your past usages of ‘plus’ &lt;strong&gt;,&lt;/strong&gt; you find that every single feat of addition you’ve performed has involved numbers less than 57. That is, all past usages of ‘plus’ underdetermine whether what was meant was plus or quus. The insane man then asks you what facts about your history establish that what you meant by ‘plus’ in the past was plus and not quus.&lt;/p&gt;
+&lt;p&gt;From here on out, Kripke goes through a list of possible candidates and purports to explain why they fail as an answer to the insane man’s question (I won’t go through them, as it would make this article a bit too long). After concluding that these solutions fail, the insane man will conclude that there is no fact that determines past usage, and if there’s no fact that determines what you meant in the past, there can be no fact about which function you mean in the present. This is the rule-following paradox.&lt;/p&gt;
+&lt;p&gt;A few things to note here. There’s nothing unique about our choice of ‘plus’ and ‘quus’; rules are always learned through a finite number of observations and those finite number of observations will always underdetermine the rule being followed.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The result of the rule-following paradox is not merely that there’s no fact as to whether we’ve performed addition or quaddition; rather, it’s a more general skepticism. There is no fact about what we mean ever.&lt;/p&gt;
+&lt;p&gt;This is a radical result: meaning, on the classical picture, has been rendered meaningless.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; It makes no sense to talk of the meaning of declaratives as consisting in truth-conditions or facts. This is incredibly destructive to classical philosophical inquiry. It entails a bunch of bonkers conclusions, such as, that there are no facts about the contents of people’s mental states, that there are no facts about people’s intentions, etc.&lt;/p&gt;
+&lt;p&gt;Now, back to Goff’s argument contra physicalism from rule-following. Now, (2) says there is a fact about whether one performs the plus function or the quus function. This is to say that the rule-following paradox fails in establishing its conclusion. (1) is the claim that if physicalism is true, there is no fact about whether one performs the plus function or the quus function. This is justified by an appeal to rule-following in the case of physical computation. Naturally, for this argument to go through, it must be the case that rule-following is uniquely a problem for physicalism. Otherwise, the non-physicalist will have a problem in asserting (2) while justifying (1) via rule-following.&lt;/p&gt;
+&lt;p&gt;Is rule-following a paradox unique to physicalism? It’s hard to see how. What drives the paradox isn’t unique to physicalism; underdetermination doesn’t disappear once we assume non-physicalism of the mind. Furthermore, the construction of the paradox makes no reference to physicalism. There is no limit to non-physicalist solutions, unlike say radical translation, which assumes something like behaviorist premises from the outset.&lt;/p&gt;
+&lt;p&gt;So it cannot be the construction that makes this a problem unique to physicalism. Rather, it must be that the non-physicalist has an exceptional solution to rule-following that the physicalist doesn’t. Now, this obviously has to be justified via an argument. It’s not something that’s immediately clear. And so, without such an argument, it’s hard to accept Goff’s argument.&lt;/p&gt;
+&lt;p&gt;Anyway &lt;strong&gt;,&lt;/strong&gt; the best candidate for this is probably going to be a non-reductionist answer to the paradox. These are a family of views that take it that the facts that constitute whether we mean something cannot be described in non-semantic terms. If we take it that meaning facts are &lt;em&gt;sui generis&lt;/em&gt;, we seem to be in tension with physicalism. But this sort of solution is not ideal. By its very nature, it’s uninformative. The facts that constitute whether we follow a rule cannot be explained without invoking the notion of rule-following. This leaves the nature of rule-following and meaning totally mysterious, a point originally raised by Kripke. It also seems to just beg the question against the skeptic, since by taking meaning as primitive we mean to say we cannot reduce meaning facts to non-meaning facts, but the skeptic is asking what facts about you constitute that you mean plus over quus.&lt;/p&gt;
+&lt;p&gt;And look, it’s not like that’s a decisive critique of non-reductionism. I’m sure there’s some sophisticated construction that addresses this worry (my philosophical journey of constantly criticizing a view as foolish only to be smacked by some sophisticated variant that defuses my critique lends credence to this). But the point is merely that there’s doubt that there’s a successful solution compatible with non-physicalism, and there are a bunch of purported solutions that are compatible with physicalism. Given that, it’s hard to see how one could accept Goff’s argument without a survey of the solutions compatible with physicalism and how they fail, as well as a non-physicalist solution that succeeds in defusing rule-following. The person providing the argument has that burden.&lt;/p&gt;
+&lt;p&gt;Without those conditions met, it stands that rule-following isn’t a unique issue for physicalism, in which case Goff’s argument is analogous to a non-physicalist arguing the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If perceptual experience is reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I’m a BIV.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is a fact of the matter as to whether I’m a BIV, namely, that I’m not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, my perceptual experience is not reducible to the physical functioning of my brain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;and then defending (1) on the basis of the underdetermination of one’s rational support for a perceptual belief. It’s absurd! There’s no reason to believe this is a unique problem for the physicalist; the construction of the skeptical paradox doesn’t depend on physicalism at all, and so the argument for (1) just obviously cuts against (2).&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Say we grant rule-following succeeds in showing physicalism is untenable. Given it functions largely as an application of underdetermination, it’s hard to see how taking this argument to its logical conclusion doesn’t show that induction gives us no knowledge of physical laws. Kripke notes the similarity by pointing to the important analogies between rule-following and Hume’s questioning of “the causal nexus whereby a past event necessitates a future one, and the inductive inferential nexus from the past to the future,” as well as by titling his skeptical solution after Hume’s. Now, is Goff willing to accept this and throw out the deliverances of the natural sciences? I’m skeptical.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;This is to accept the radical skeptical paradox, but this is not popular even among those who think responses to the paradox fail. Those who reject this but think the rule-following paradox has no good solution will endorse the skeptical solution. They do so by rejecting the classical picture of meaning and instead focusing on assertability conditions and utility. Kripke’s Wittgenstein argues that this only makes sense within a community. When you’re born, you’re given the correct answer to a finite number of cases that the community generally agrees on, and as long as you’re able to give the correct answer, where the correct answer here is just the answer people in the community would tend to give, in a bunch of cases you’re accepted into the linguistic community as a competent rule-follower. This is, in part, why private language is impossible.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

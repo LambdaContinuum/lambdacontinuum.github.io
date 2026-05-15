@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wittgenstein on Lambda Continuum</title>
+    <link>https://lambdacontinuum.github.io/tags/wittgenstein/</link>
+    <description>Recent content in Wittgenstein on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/wittgenstein/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rule-Following Is Not Physicalism&#39;s Problem Alone</title>
+      <link>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</guid>
+      <description>&lt;p&gt;Philip Goff recently wrote an &lt;a href=&#34;https://philipgoff.substack.com/p/can-calculators-add-can-brains-add&#34;&gt;article&lt;/a&gt; arguing against physicalism from rule-following.&lt;/p&gt;
+&lt;p&gt;His argument was as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If my mathematical thought was reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I performed the plus function or the quus function when I do maths.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is a fact of the matter as to whether or not I perform the plus function or the quus function when I do maths.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, my mathematical functioning is not reducible to the physical functioning of my brain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I took issue with this argument so I decided to write up a quick response. Before we continue, I just want to run you all through Kripke’s argument so we’re all on the same page. Any competent speaker of the English language knows that ‘Plus’ denotes the addition function. This function is defined for all integers, and most have grasped the rules of its application. Notably, we’ve grasped the rule for addition without computing every possible sum. Also consider the function denoted by ‘Quus’. This function abides by the same rules as addition except when one of the numbers being summed is greater than 57, in which case the function will return 5.&lt;/p&gt;
+&lt;p&gt;Now, imagine an insane man comes up to you and asks what ‘68 plus 57’ is, to which you respond ‘125’. He scoffs and asks ‘How do you know the answer is 125? For all you know, the way you used “plus” in the past indicates the answer should have been 5’. Going through your memories of your past usages of ‘plus’ &lt;strong&gt;,&lt;/strong&gt; you find that every single feat of addition you’ve performed has involved numbers less than 57. That is, all past usages of ‘plus’ underdetermine whether what was meant was plus or quus. The insane man then asks you what facts about your history establish that what you meant by ‘plus’ in the past was plus and not quus.&lt;/p&gt;
+&lt;p&gt;From here on out, Kripke goes through a list of possible candidates and purports to explain why they fail as an answer to the insane man’s question (I won’t go through them, as it would make this article a bit too long). After concluding that these solutions fail, the insane man will conclude that there is no fact that determines past usage, and if there’s no fact that determines what you meant in the past, there can be no fact about which function you mean in the present. This is the rule-following paradox.&lt;/p&gt;
+&lt;p&gt;A few things to note here. There’s nothing unique about our choice of ‘plus’ and ‘quus’; rules are always learned through a finite number of observations and those finite number of observations will always underdetermine the rule being followed.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; The result of the rule-following paradox is not merely that there’s no fact as to whether we’ve performed addition or quaddition; rather, it’s a more general skepticism. There is no fact about what we mean ever.&lt;/p&gt;
+&lt;p&gt;This is a radical result: meaning, on the classical picture, has been rendered meaningless.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; It makes no sense to talk of the meaning of declaratives as consisting in truth-conditions or facts. This is incredibly destructive to classical philosophical inquiry. It entails a bunch of bonkers conclusions, such as, that there are no facts about the contents of people’s mental states, that there are no facts about people’s intentions, etc.&lt;/p&gt;
+&lt;p&gt;Now, back to Goff’s argument contra physicalism from rule-following. Now, (2) says there is a fact about whether one performs the plus function or the quus function. This is to say that the rule-following paradox fails in establishing its conclusion. (1) is the claim that if physicalism is true, there is no fact about whether one performs the plus function or the quus function. This is justified by an appeal to rule-following in the case of physical computation. Naturally, for this argument to go through, it must be the case that rule-following is uniquely a problem for physicalism. Otherwise, the non-physicalist will have a problem in asserting (2) while justifying (1) via rule-following.&lt;/p&gt;
+&lt;p&gt;Is rule-following a paradox unique to physicalism? It’s hard to see how. What drives the paradox isn’t unique to physicalism; underdetermination doesn’t disappear once we assume non-physicalism of the mind. Furthermore, the construction of the paradox makes no reference to physicalism. There is no limit to non-physicalist solutions, unlike say radical translation, which assumes something like behaviorist premises from the outset.&lt;/p&gt;
+&lt;p&gt;So it cannot be the construction that makes this a problem unique to physicalism. Rather, it must be that the non-physicalist has an exceptional solution to rule-following that the physicalist doesn’t. Now, this obviously has to be justified via an argument. It’s not something that’s immediately clear. And so, without such an argument, it’s hard to accept Goff’s argument.&lt;/p&gt;
+&lt;p&gt;Anyway &lt;strong&gt;,&lt;/strong&gt; the best candidate for this is probably going to be a non-reductionist answer to the paradox. These are a family of views that take it that the facts that constitute whether we mean something cannot be described in non-semantic terms. If we take it that meaning facts are &lt;em&gt;sui generis&lt;/em&gt;, we seem to be in tension with physicalism. But this sort of solution is not ideal. By its very nature, it’s uninformative. The facts that constitute whether we follow a rule cannot be explained without invoking the notion of rule-following. This leaves the nature of rule-following and meaning totally mysterious, a point originally raised by Kripke. It also seems to just beg the question against the skeptic, since by taking meaning as primitive we mean to say we cannot reduce meaning facts to non-meaning facts, but the skeptic is asking what facts about you constitute that you mean plus over quus.&lt;/p&gt;
+&lt;p&gt;And look, it’s not like that’s a decisive critique of non-reductionism. I’m sure there’s some sophisticated construction that addresses this worry (my philosophical journey of constantly criticizing a view as foolish only to be smacked by some sophisticated variant that defuses my critique lends credence to this). But the point is merely that there’s doubt that there’s a successful solution compatible with non-physicalism, and there are a bunch of purported solutions that are compatible with physicalism. Given that, it’s hard to see how one could accept Goff’s argument without a survey of the solutions compatible with physicalism and how they fail, as well as a non-physicalist solution that succeeds in defusing rule-following. The person providing the argument has that burden.&lt;/p&gt;
+&lt;p&gt;Without those conditions met, it stands that rule-following isn’t a unique issue for physicalism, in which case Goff’s argument is analogous to a non-physicalist arguing the following:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;If perceptual experience is reducible to the physical functioning of my brain, then there would be no fact of the matter as to whether or not I’m a BIV.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There is a fact of the matter as to whether I’m a BIV, namely, that I’m not.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, my perceptual experience is not reducible to the physical functioning of my brain.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;and then defending (1) on the basis of the underdetermination of one’s rational support for a perceptual belief. It’s absurd! There’s no reason to believe this is a unique problem for the physicalist; the construction of the skeptical paradox doesn’t depend on physicalism at all, and so the argument for (1) just obviously cuts against (2).&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Say we grant rule-following succeeds in showing physicalism is untenable. Given it functions largely as an application of underdetermination, it’s hard to see how taking this argument to its logical conclusion doesn’t show that induction gives us no knowledge of physical laws. Kripke notes the similarity by pointing to the important analogies between rule-following and Hume’s questioning of “the causal nexus whereby a past event necessitates a future one, and the inductive inferential nexus from the past to the future,” as well as by titling his skeptical solution after Hume’s. Now, is Goff willing to accept this and throw out the deliverances of the natural sciences? I’m skeptical.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;This is to accept the radical skeptical paradox, but this is not popular even among those who think responses to the paradox fail. Those who reject this but think the rule-following paradox has no good solution will endorse the skeptical solution. They do so by rejecting the classical picture of meaning and instead focusing on assertability conditions and utility. Kripke’s Wittgenstein argues that this only makes sense within a community. When you’re born, you’re given the correct answer to a finite number of cases that the community generally agrees on, and as long as you’re able to give the correct answer, where the correct answer here is just the answer people in the community would tend to give, in a bunch of cases you’re accepted into the linguistic community as a competent rule-follower. This is, in part, why private language is impossible.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Divine Agency Without Failure</title>
+      <link>https://lambdacontinuum.github.io/posts/divine-agency/</link>
+      <pubDate>Mon, 27 Jan 2025 17:59:14 -0500</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/divine-agency/</guid>
+      <description>&lt;p&gt;Philosophy of Religion has recently seen a surge of popularity in philosophy circles online, so I’ve decided to throw my hat in the ring. Here’s an argument against God being an agent.&lt;/p&gt;
+&lt;p&gt;Wittgenstein makes an interesting distinction. He distinguishes viewing intentions as mere mental processes from viewing intentions in terms of their fulfillment. For the latter, the idea here is that elements in the world can be taken to be in accord with such intentional states. Fulfillment conveys something that is normative in some minimal sense, leading us to think the very idea of intention is a normative idea. The general gist is that intentional states seem like the types of states that have standards by which one could be in accord or out of accord with them. Consider the cases of belief and desire. Suppose an agent believes that it’s raining outside, believes that an umbrella will protect them from the rain, and desires not to be wet. If such an agent were to walk outside without taking their umbrella, they’d be out of accord with their very own intentional states. The observation here is that intentional states seem to generate ideals of norm or correctness, and these norms are such that one could be in accord with or fail to accord with them. We can assess an agent’s actions as correct or incorrect by the light of the norms generated by their intentions. Thus, normativity is constitutive of intentional states.&lt;/p&gt;
+&lt;p&gt;Furthermore, it seems uncontroversial that intentional states are constitutive of agency. If you were to conceive of an agent, such a being would have beliefs, desires, etc. But here’s the problem: If intentional states are constitutive of agency, and normativity is constitutive of intentional states, it follows that agency is constitutively normative. Why is this a problem? It’s said that the very possibility of failure is a necessary condition for normativity. That is, if you ought to do something, it follows there must be some possibility that you don’t do it.&lt;/p&gt;
+&lt;p&gt;We established earlier that agency is a normative notion, and so agency must imply the possibility of failing to be in accord with one’s intentions—if it’s granted that a necessary condition for normativity is the possibility of failure. But traditional conceptions of God hold that His will is perfectly efficacious. God couldn’t fail to be in accord with His own intentional states. It follows that God couldn’t be an agent. The problem should be clear: God has been reduced to a matter of disposition, a mere causal tendency.&lt;/p&gt;
+&lt;p&gt;What is to be done to defend God’s agency? One could deny that the possibility of failure is an essential component of normativity, or one could deny that the possibility of failure is an essential part of intentional states—thereby rejecting the claim that intentional states are normative. Here, I’ll take the latter approach. More specifically, I’ll undercut the considerations given for intentional states being normative.&lt;/p&gt;
+&lt;p&gt;One may ask, as Akeel Bilgrami does, whether the general claim that intentional states are normative holds in the specific case of linguistic intentions—the intentions speakers have regarding the meaning of their words.&lt;/p&gt;
+&lt;p&gt;The normativity in play when discussing meaning-intentions comes from the idea that we can act in accord with our intentions to use words. For example, uttering “That is a snake” to apply to snakes when we’re in the presence of snakes is acting in accord with our intention. This suggests that the intentions relevant to meaning target the truth-conditions of the words one uses.&lt;/p&gt;
+&lt;p&gt;If we grant that the possibility of failure is a necessary condition for normativity, then for meaning-intentions to be normative, it must be possible to fail to get the truth-conditions of one’s utterances right. The most straightforward way to fail here would be if one doesn’t know the truth-conditions of the sentence they utter.&lt;/p&gt;
+&lt;p&gt;But how could one intend their words to possess truth-conditions they don’t actually possess, simply because they don’t know those truth-conditions? This is the crucial question. Can one &lt;em&gt;not know&lt;/em&gt; the meanings of the words they intend to utter? The answer is that one cannot fail to know the truth-conditions of what they utter.&lt;/p&gt;
+&lt;p&gt;Why? Recall that the idea that the meaning of a sentence is given by its truth-conditions was popularized by Frege’s doctrine of sense. Frege introduced sense to solve puzzles concerning informative identities. Suppose the meaning of a name consists solely in the object it picks out. Then two names that pick out the same object must have the same meaning. This creates a problem. Consider the names ‘Phosphorus’ and ‘Hesperus’, both of which pick out Venus:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Phosphorus = Phosphorus&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hesperus = Hesperus&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hesperus = Phosphorus&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We can know &lt;em&gt;a priori&lt;/em&gt; that (1) and (2) are true, but (3) is not knowable &lt;em&gt;a priori&lt;/em&gt;. This reveals a key issue: Being uninformed is not the same as being irrational. If the meaning of a name consists solely in its referent, an agent would be irrational if they denied that Hesperus is Phosphorus. Yet such an agent isn’t irrational—they’re merely uninformed about the &lt;em&gt;a posteriori&lt;/em&gt; identity. The puzzle arises because a Millian theory of names conflates irrationality with ignorance. Frege’s solution posits “sense” (meaning) to preserve the distinction between logical error and empirical ignorance.&lt;/p&gt;
+&lt;p&gt;Thus, any account of meaning must respect the following crucial desideratum: Agents in such puzzles should be seen as lacking empirical knowledge of the a posteriori identities at play, not as holding inconsistent mental states. Nothing should be tolerated in the understanding of the notion of meaning that prevents sense from doing what it was posited to do, solving the Fregean puzzles and maintaining the distinction between logical error and lack of empirical knowledge.&lt;/p&gt;
+&lt;p&gt;Imagine someone wondering, “Is Hesperus Phosphorus?” This is intelligible if senses are posited. But if the wonderer doesn’t know their own senses, they might ask, “Is the sense of ‘Hesperus’ the same as the sense of ‘Phosphorus’?” The puzzle re-emerges! If meanings aren’t transparent to the speaker, Frege’s original problem resurfaces one level up, at the level of senses. This violates the basic desideratum that meaning must solve the puzzle it was posited to solve.&lt;/p&gt;
+&lt;p&gt;And so, one cannot fail to know the meaning of the sentences they intend to utter. This follows from the requirement that meaning must resolve Fregean identity puzzles decisively—a fundamentally Fregean argument for the transparency of meaning. This argument blocks the possibility of failing to act in accord with meaning-intentions due to ignorance of the truth-conditions. There are other sources that may contribute to the possibility of failing to be in accord with the intentions to say something with certain truth conditions. Another major one is misspeaking. I won’t address this here to avoid making the article overly long. If you’re interested, check out &lt;em&gt;Why Meaning Intentions Are Degenerate&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Meaning-intentions thus serve as an exception to Wittgenstein’s insight about the normativity of intentions. Bilgrami grants that Wittgenstein is generally correct about intentions being normative. However, what I gather is that intentions need not &lt;em&gt;necessarily&lt;/em&gt; be normative. The reasoning for intentional states being normative hinges on the idea that intentions can be in or out of accord with actions. But such reasoning doesn’t guarantee all intentions are intrinsically normative. Meaning-intentions act as a counterexample: They’re a degenerate case. Then it wouldn’t follow that normativity is constitutive of agency. Meaning being an agent doesn’t necessarily imply the possibility of failure.&lt;/p&gt;
+&lt;p&gt;To be clear, what I’m providing is an undercutting argument. The argument given for intentions being normative fails at guaranteeing that normativity is constitutive of intentionality, and so agency need not imply the possibility of failure. God’s agency—as a being whose intentions cannot fail—remains preserved.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

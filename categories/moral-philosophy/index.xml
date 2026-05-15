@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moral Philosophy on Lambda Continuum</title>
+    <link>https://lambdacontinuum.github.io/categories/moral-philosophy/</link>
+    <description>Recent content in Moral Philosophy on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/categories/moral-philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error Theory in Tension With Deontic Logic?</title>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
+      <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
+&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;\(\vDash \forall \phi (\phi \lor \neg \phi)\)&lt;/li&gt;
+&lt;li&gt;\(P\psi \lor \neg P\psi\), from 1&lt;/li&gt;
+&lt;li&gt;\(P\psi \lor I\psi\) since \(\neg P \psi = I \psi\)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From hereon out we’ll call (3) the Dual Schema (DS). The issue should be clear, the error theorist wants to say a moral judgement like “It is impermissible to steal candy from a baby” is false because the sort of property needed to render the judgement true, moral properties, do not obtain anywhere. But the falsity of that judgement alongside (DS) entails “It’s permissible to steal candy from a baby”, a judgement that seemingly instantiates the moral property of permissibility. So, error theory seems to contradict (DS), a logical truth of SDL.&lt;/p&gt;
+&lt;p&gt;The error theorist has a couple of moves here. A plausible one is just rejecting SDL, there are antecedent reasons to do so and I defend such a view on this blog but it’s not clear to me that that’s necessary. The author of the paper argues the objection is only superficially formal.&lt;/p&gt;
+&lt;p&gt;That might need a little more elaboration, what is the error theorist saying when they deny “It is impermissible to steal candy from a baby”? I’d say something like such a judgement is false because for it to be true there needs to be (stance-independent) &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby, but no such reasons of that kind exist. Given the (DS) the error theorist must then be committed to the truth of “It is permissible to steal candy from the baby” and the proponent of this objection thinks that’s an issue for the error theorist. But why? They’ll say “the truth of that judgement requires the moral property of permissibility and the error theorist rejects such properties” but note that the error theorist is objecting to something like the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt;. It’s only an issue for the error theorist to endorse “It is permissible to steal candy from a baby” if the judgement means something like there’s a &lt;em&gt;reason in favor&lt;/em&gt; of the act being permissible but the (DS) doesn’t suppose any such analysis. Suppose instead that to say “It is permissible to steal candy from a baby” is just to say that there are no &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby.&lt;/p&gt;
+&lt;p&gt;So we have two analyses of what it means to say “It’s permissible to steal candy from the baby”, call the one that supposes the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P+) variant and the one that supposes there are no
+&lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P-) variant. The error theorist is clearly committed to a contradiction in affirming (P+) given they think all such judgements are false in virtue of supposing the existence of &lt;em&gt;reasons&lt;/em&gt; that don’t obtain, but there’s no issue for the error theorist in affirming (P-) since the claim doesn’t suppose such &lt;em&gt;reasons&lt;/em&gt;.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; And so there’s only a contradiction for the error theorist if (DS) entails (P+) instead of (P-) but why think that? The objection being raised isn’t purely formal, it implicitly supposes the dual schema involves a certain analysis of permissibility that supposes the sort of properties the error theorist wishes to reject, but the error theorist can just reject that.&lt;/p&gt;
+&lt;p&gt;So say we have two (DS) variants, (DS+) supposes permission is analyzed in line with (P+) while (DS-) supposes permission is analyzed in line with (PS-). SDL says nothing about what variant (DS) is supposed to endorse, but for SDL to show a contradiction in error theory (DS) has to be (DS+). Either way, there isn’t a clear formal contradiction for the error theorist in adopting SDL, they just need to deny their opponents framing of judgements about permission involving the existence reasons.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;In fact, the judgement supposes that such reasons don’t exist. A corollary of this is all judgements about the permission of acts come out true but I don’t see why that would be an issue.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
+      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
+&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;
+&lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is common in England.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This inference is valid via disjunctive introduction. Now consider the following dilemma. Either (2) is normative or descriptive. If it’s normative this inference is a violation of the gap. If it’s descriptive consider the following deduction:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is not common in England&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This would be a violation of the gap.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Third, consider the trivial case of explosion. From contradictions, everything validly follows. The counter-example is clear, assume a descriptive contradiction and you can validly infer a normative conclusion. This would be a violation of the gap. Recall the is-ought gap is explicated in terms of valid inference not sound inference.&lt;/p&gt;
+&lt;p&gt;Fourth, consider a Standard Deontic Logic and recall the Obligatory operator is closed under Logical consequence.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This is to say that if OA is true and that A entails B, that OB is true. Given that logical truths are logically entailed by everything, it follow that all logical truths are obligatory. Consider the following: \(q \vDash Op \lor \neg Op\). This would be a violation of the gap.&lt;/p&gt;
+&lt;p&gt;Don’t take this as me claiming there is no gap. There is, its construction is just going to be more sophisticated than a mere reference to logical validity.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This supposed violation of the gap relies on the distinction between normative and descriptive exhausting all possible choices. It may fall apart if you think a proposition could be neither normative nor descriptive.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I think such a logic fails at properly capturing normative considerations; see my article on it if you’re curious. Knowing that, you might wonder why I give this as a counterexample. It illustrates the general point that by indexing the is–ought gap to mere logical validity, the truth of the is–ought gap relies on whichever logic you think “holds.” If someone were to adopt SDL as correctly modeling normative considerations, then the is–ought gap is trivially false. If the logic we’re considering is some basic propositional logic, then the explosion counterexample demonstrates that the is–ought gap is false, etc., etc.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Why Casual Sex is Wrong</title>
+      <link>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</link>
+      <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/why-casual-sex-is-wrong/</guid>
+      <description>&lt;p&gt;As the world becomes more socially progressive, many people believe there is nothing wrong with casual sex. The approach to sexual ethics taken by many socially progressive individuals is that as long as sex is consensual, it is permissible. I can see why this view is popular as it presents a straightforward model of sexual relations and appears to restrict a lot of impermissible behavior. The idea that sex is permissible if and only if it is consensual allows casual sex to be permissible, since sex can indeed be both casual and consensual.&lt;/p&gt;
+&lt;p&gt;Although I consider myself socially progressive, I do not adopt the view that casual sex is permissible. In fact, I think it is plausible that views permitting casual sex may fail to adequately explain the wrongness of rape and pedophilia. This is an argument forwarded by David Benatar.&lt;/p&gt;
+&lt;p&gt;We have two views to consider here. The first holds that for sex to be permissible, it must signify romantic love. We’ll refer to this as the &amp;ldquo;significance view.&amp;rdquo; The opposing perspective is the &amp;ldquo;casual view,&amp;rdquo; which maintains that sex need not have romantic significance to be morally permissible. According to this view, sexual pleasure is not morally different from other forms of pleasure, such as gastronomic or aesthetic pleasure. This does not mean that casual sex is always permissible; sex that is casual yet deemed immoral by another moral principle remains wrong. It simply means that the casual nature of sex, in itself, does not make it impermissible.&lt;/p&gt;
+&lt;p&gt;It is easy to see that the significance view has no difficulty explaining the wrongness of pedophilia or the particular wrongness of rape. Plausibly, children cannot comprehend the full romantic significance that sex should entail, and therefore, engaging in sex with a child treats the child merely as a means to sexual pleasure, disregarding the romantic love sex ought to signify. The case for rape is even more straightforward: rape is unlike other acts of force because it compels someone to engage in an activity meant to express deep romantic love. In this sense, it is uniquely harmful.&lt;/p&gt;
+&lt;p&gt;It is less clear how one might explain the unique wrongness of rape or the wrongness of adult-child sex if one adopts the casual view. If sex is not morally distinct from other activities done for pleasure and holds no special significance, then why couldn’t children partake in it? One would need to appeal to an additional moral principle to constrain sexual actions. There are some possible responses, but, as we shall see, they appear unmotivated and implausible within the casual view of sex.&lt;/p&gt;
+&lt;p&gt;The first argument is that sex is physically harmful to a child. The issue with this is that not all sexual acts necessarily cause physical harm to a child. A more plausible argument is that sex is psychologically harmful to a child. However, this view also encounters challenges. Some research suggests that it is unclear to what extent the psychological harm is a result of the sexual act itself, rather than of social taboos surrounding the topic. I do not hold a particularly strong stance on this matter, as it is largely an empirical question, but it is conceivable that this might be true. In such a case, a defender of the casual view could not cite psychological harm as a principled objection to all pedophilia. In a society without taboos against child-adult sex, where harm arises primarily from the social taboo, child-adult sex might cause no psychological harm to the child, a deeply problematic conclusion. By my lights, adult-child sex would still be wrong in such a society.&lt;/p&gt;
+&lt;p&gt;Another possible response is that a child cannot consent to sexual activity, making it inherently wrong to engage in sexual relations with a child. This principle seems plausible, and the significance view can account for it; however, it is unclear how this principle could hold under the casual view. If sex holds no special significance, then what about it renders a child unable to consent? One suggestion is that children may lack an understanding of the potential health risks associated with casual sex, thus disqualifying them from permissibly entering a sexual encounter. However, this response falls short. First, not all sexual activity entails significant health risks. Moreover, it is common practice for parents or guardians to make decisions for children when they are not competent enough to assess an activity’s risks. For instance, a parent may allow their child to participate in a contact sport despite the risks, valuing the child’s enjoyment of the activity. On the casual view, where sex is seen as no more significant than other activities, it is difficult to explain why sexual risks, and not those of other activities, warrant excluding children and disregarding the consent they or their guardians might give.&lt;/p&gt;
+&lt;p&gt;Perhaps the principle is not that children cannot consent to sex, but rather that, given the differences between adults and children, it is impossible for both parties to fully understand each other’s motives for engaging in sex. This lack of mutual understanding makes it impossible for each to know what the encounter means to the other, and this absence of information undermines the validity of consent. This objection is also plausible within the significance view, but it is unclear why it would hold under the casual view. After all, this inability to fully grasp each other&amp;rsquo;s intentions exists in other activities with children, such as playing a game, which do not carry the unique significance that proponents of the significance view ascribe to sex.&lt;/p&gt;
+&lt;p&gt;There is a more general issue with arguments based on consent: adults regularly interfere with a child&amp;rsquo;s freedom. For instance, a parent may compel their child to attend an opera to help them appreciate certain aesthetic pleasures. If there is no meaningful distinction between sexual pleasures and aesthetic pleasures, on what principled basis can a parent coerce their child to attend the opera but not to engage in sexual activity?&lt;/p&gt;
+&lt;p&gt;Thus, the casual view struggles to account for the wrongness of adult-child sex, but what about the unique wrongness of rape? The wrongness of rape is evident, as most would agree that, prima facie, we should not force others to do things against their will. However, it is difficult to explain why rape is especially wrong compared to other coercive actions, such as forcing someone to eat something they do not wish to eat. At best, proponents of the casual view could argue that rape is especially wrong only for those who reject the casual view. Yet, this is a challenging position to defend.&lt;/p&gt;
+&lt;p&gt;Consider a hypothetical scenario: a promiscuous woman who holds the casual view and frequently engages in casual sex is raped and brings her rapist to trial. In this trial, her sexual history could be cited as evidence of her stance on sexual ethics, implying that her experience of rape did not constitute a unique harm, perhaps equivalent to the coercion of forcing her to eat something unpleasant. This strikes me as deeply flawed. Raping someone for whom sex holds little significance does not reduce the wrongness of the act to that of forcing them to do something trivial. Nor is it justifiable to invoke a woman’s past sexual history to argue that her rape was somehow less morally harmful. Yet, the casual view of sex seems to permit such reasoning.&lt;/p&gt;
+&lt;p&gt;The general challenge the casual view encounters in attempting to account for the wrongness of pedophilia or the special wrongness of rape is its failure to attribute any special significance to sex, while the significance view does grant it such importance, particularly in terms of romantic significance. One might wonder whether a hybrid view could bridge the gap between the casual view and the significance view. To uphold the permissibility of casual sex, this hybrid perspective would need to argue that sex is not like other pleasures and possesses some form of significance, yet it need not necessarily be an expression of romantic affection. It‘s hard to see what other significant normative features of sex could distinguish sexual pleasure from other forms of pleasure, aside from romantic significance. While one might consider factors such as intimacy or privacy it’s hard to see how they don’t either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reduce back into the significance view.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fail to properly condemn rape and pedophilia without condemning promiscuity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From where I stand, this seems plausible. I can’t really think of any normative feature of sex that is absent in other forms of pleasure which would promiscuity and casual sex while not permitting certain acts of pedophilia or entailing that rape is especially wrong. I also take it as given that a moral theory of sex being unable to account for the special wrongness of rape or the wrongness of pedophilia constitutes an inadequate normative model of sex. In light of this, I think it’s plausible we should give up the view that casual sex is permissible. Minimally, I think these considerations should make us more carefully consider the moral status of casual sex and promiscuity, which has become more prominent in the modern day. That being said, I’m not completely sold on this. So, if anyone has an argument that they think establishes the permissibility of casual sex, I’d be happy to hear it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contra Standard Deontic Logic</title>
+      <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
+      <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
+      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;
+&lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \implies \neg O \neg p\),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \land Oq \iff O(p \land q)\),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\(O(p \lor q)\).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The second axiom is equivalent to the combination of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \land Oq \implies O(p \land q)\), i.e. agglomeration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If \(Op\) and \(p\) logically implies \(q\), then \(Oq\), i.e. necessitation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following issues.&lt;/p&gt;
+&lt;p&gt;First is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him your crowbars and said, &amp;ldquo;You may borrow either the big or the small crowbar.&amp;rdquo; You offer him a choice between two tools. Now imagine the tools belonged to someone else who authorized you to lend one of them, but you had forgotten which of the two could be lent. You might say, &amp;ldquo;You may borrow either the big or the small crowbar, but I do not know which.&amp;rdquo; In this latter case, only one of the crowbars is permitted to be borrowed. However, the former case illustrates an instance of free choice permission: you are permitted to take the small crowbar, and you are permitted to take the large crowbar (but not both). To represent this in SDL, we want a permission operator that satisfies the postulate \(P(a \lor b) \implies Pa \land Pb\).&lt;/p&gt;
+&lt;p&gt;Such a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of SDL axioms. However, this leads to implausible results. Consider the following inference:&lt;/p&gt;
+\[
+    \begin{array}{rll}
+        1. &amp; O(\neg a \land \neg b) \implies O \neg a &amp; \text{Holds in SDL} \\
+        2. &amp; O \neg (a \lor b) \implies O \neg a &amp; \text{1, Equiv} \\
+        3. &amp; \neg O \neg a \implies \neg O \neg (a \lor b) &amp; \text{2, Contrapos} \\
+        4. &amp; Pa \implies P(a \lor b) &amp; \text{3, Def. of P} \\
+        5. &amp; P(a \lor b) \implies Pa \land Pb &amp; \text{Hyp.} \\
+        6. &amp; Pa \implies Pb &amp; \text{4, 5, HS} \\
+    \end{array}
+\]&lt;p&gt;The axiom combined with the original postulates entails that if something is permitted, then everything else is permitted. This is intolerable, so we cannot solve the issue of free choice by turning the SDL permission operator into an operator of free choice permission.&lt;/p&gt;
+&lt;p&gt;Some deontic logicians attempt to fix this by introducing a second permission operator Pc into SDL. One such definition is \(P_c(a \lor b) \iff Pa \land Pb\). This definition is implausible, see the following derivation:&lt;/p&gt;
+\[
+    \begin{array}{rll}
+        1. &amp; Pa \implies (P a \lor b) &amp; \text{Holds in SDL} \\
+        2. &amp; Pa \implies (Pa \land P(a \lor b)) &amp; \text{1, Adjunction}\\
+        3. &amp; Pa \implies P_c(a \lor (a \lor b))&amp; \text{2, Def. of }P_c \\
+        3. &amp; Pa \implies P_c(a \lor b) &amp; \text{3, Idempotence} \\
+    \end{array}
+\]&lt;p&gt;So, if you’re permitted to borrow a screwdriver, it follows that you have free choice to either borrow or steal the screwdriver. Other attempts to construct free choice operators have similarly absurd consequences. This is because such constructions rely on the &lt;em&gt;single sentence assumption&lt;/em&gt;; the idea that free choice between a and b can be represented as a property of a single sentence, namely a∨b.&lt;/p&gt;
+&lt;p&gt;Under this assumption, logically equivalent sentences are interchangeable. Thus, if \(a \lor b\) is equivalent to \(c \lor d\), then there is a free choice permission between a and b if and only if there is a free choice permission between c and d. This entails implausible results. Consider the case of the vegetarian’s free lunch. In a restaurant, I may have a meal with meat or a meal without meat. Therefore, I may either have a meal and pay for it or have a meal and not pay for it. This follows because: Let m denote having a meal with meat, v a meal without meat, and p paying:&lt;/p&gt;
+\[
+    P(m \lor v) \equiv P(((m \lor v) \land p) \lor ((m \lor v) \land \neg p)).
+\]&lt;p&gt;Free choice permission illustrates an intuitive deontic principle that doesn’t hold in SDL. Conversely, SDL sometimes validates principles that are not plausible. We call such cases deontic paradoxes. Consider Åqvist&amp;rsquo;s knower paradox: If a police officer ought to know that Smith robbed Jones, then Smith ought to rob Jones. This counterexample challenges the principle of necessitation. Von Wright correctly points out that all major deontic paradoxes rely on necessitation. However, necessitation follows from SDL’s semantic construction of possible worlds, so these paradoxes challenge SDL’s semantics itself.&lt;/p&gt;
+&lt;p&gt;SDL also fails to model certain important kinds of obligations commonly discussed—namely, obligations of compensation, reparation, and prevention. Recall that under SDL’s semantics, obligatory acts in the actual world consist of actions that would occur in ideal worlds. Suppose there’s a drowning child in front of you. In a deontically ideal world, no child would drown, so you wouldn’t save a child from drowning in an ideal world because no drowning child would exist. It follows that you are not obligated to save the drowning child.&lt;/p&gt;
+&lt;p&gt;Obligations of compensation, reparation, and prevention require the existence of actions that need be compensated, reparated, and prevented. But these are actions that are unideal and wouldn’t occur in an ideal world. Consequently, SDL’s semantics cannot model such obligations. This is a significant problem, as such obligations are central not only to everyday moral discourse but also to moral philosophy as a whole. As Holly Goldman puts it, SDL &amp;ldquo;ignores the fact that particular obligations flow from abstract principles together with contingent features of the world,&amp;rdquo; and such features &amp;ldquo;do not appear in all the morally best worlds.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

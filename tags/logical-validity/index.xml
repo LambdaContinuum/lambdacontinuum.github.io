@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logical Validity on Lambda Continuum</title>
+    <link>https://lambdacontinuum.github.io/tags/logical-validity/</link>
+    <description>Recent content in Logical Validity on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/logical-validity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
+      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
+&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;
+&lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is common in England.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This inference is valid via disjunctive introduction. Now consider the following dilemma. Either (2) is normative or descriptive. If it’s normative this inference is a violation of the gap. If it’s descriptive consider the following deduction:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is not common in England&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This would be a violation of the gap.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Third, consider the trivial case of explosion. From contradictions, everything validly follows. The counter-example is clear, assume a descriptive contradiction and you can validly infer a normative conclusion. This would be a violation of the gap. Recall the is-ought gap is explicated in terms of valid inference not sound inference.&lt;/p&gt;
+&lt;p&gt;Fourth, consider a Standard Deontic Logic and recall the Obligatory operator is closed under Logical consequence.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This is to say that if OA is true and that A entails B, that OB is true. Given that logical truths are logically entailed by everything, it follow that all logical truths are obligatory. Consider the following: \(q \vDash Op \lor \neg Op\). This would be a violation of the gap.&lt;/p&gt;
+&lt;p&gt;Don’t take this as me claiming there is no gap. There is, its construction is just going to be more sophisticated than a mere reference to logical validity.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This supposed violation of the gap relies on the distinction between normative and descriptive exhausting all possible choices. It may fall apart if you think a proposition could be neither normative nor descriptive.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I think such a logic fails at properly capturing normative considerations; see my article on it if you’re curious. Knowing that, you might wonder why I give this as a counterexample. It illustrates the general point that by indexing the is–ought gap to mere logical validity, the truth of the is–ought gap relies on whichever logic you think “holds.” If someone were to adopt SDL as correctly modeling normative considerations, then the is–ought gap is trivially false. If the logic we’re considering is some basic propositional logic, then the explosion counterexample demonstrates that the is–ought gap is false, etc., etc.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test2 on Lambda Continuum</title>
+    <link>http://localhost:1313/tags/test2/</link>
+    <description>Recent content in Test2 on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/test2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Quick Argument Contra Positivism</title>
+      <link>http://localhost:1313/posts/a-quick-argument-contra-positivism/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/a-quick-argument-contra-positivism/</guid>
+      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
+&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\( K(P \land \neg KP)\)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\( K(P \land \neg KP) \vDash KP \land K \neg KP \)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\( KP \vDash KKP \)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;From 2 and 3, \( KKP \land K \neg KP\), which contradicts D.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, \(\neg \Diamond K(P \land \neg KP)\), that is, there are truths that are impossible to know.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since we’ve demonstrated certain truths are impossible to know, one must either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the assumption that there are truths we do not know,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the 4 and D, or&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the notion that all true propositions are unknowable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Option (1) is untenable as there are obviously truths we don’t know. Option (2) also doesn’t seem viable, if you know that P you know that you know that P (i.e. axiom 4) and if you know P you don’t know not P (i.e. axiom D) seem intuitive. The only option is to accept option (3) which contradicts positivism.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

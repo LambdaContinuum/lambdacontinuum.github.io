@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Epistemology on Lambda Continuum</title>
+    <link>https://lambdacontinuum.github.io/categories/epistemology/</link>
+    <description>Recent content in Epistemology on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/categories/epistemology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contra Contextualism Refuting Skepticism</title>
+      <link>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</link>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/contextualism-radical-skepticism/</guid>
+      <description>&lt;p&gt;Radical skepticism can derive from multiple sources. One such source is the apparent paradox between one’s widespread everyday knowledge and the rational support provided by our perceptual experiences not seeming to favor the truth of our quotidian perceptual beliefs over radical skeptical scenarios such as being a brain in a vat, since the experiences a subject has under the radical skeptical scenarios are indistinguishable from everyday experiences &lt;em&gt;ex hypothesi&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A well known response to this skeptical paradox is attributivist contextualism. The contextualist takes it that the word “knows” is context-sensitive and so the truth of various attributions of knowledge depends on the conversational context the word is uttered in. In the case of radical skepticism “know” is thought to pick out different epistemic standards in different contexts of attribution. Conversational contexts that have more demanding epistemic standards can render some knowledge attributions false even if they would be true in more lax contexts.&lt;/p&gt;
+&lt;p&gt;And so the skeptic is correct, but only because the assertions they’re making is made relative to a context with incredibly demanding epistemic standards. When we come back to normal contexts, everyday knowledge ascriptions are true. What contextualism is doing here is giving us sort of diagnostic story that shows us radical skepticism only seems like a paradox because we’ve not properly grasped the context-sensitive nature of the term “knows”.&lt;/p&gt;
+&lt;p&gt;A few things seem odd about this approach. Say it’s true that whenever we consider radical skepticism we are put into an epistemic context in which knowledge ascriptions are false. Note that this sort of answer is conceding to the skeptic, since their thesis is correct in the context of epistemic appraisal in which it is posed. This is intentional: the contextualist wants to claim that in the incredibly strict epistemic context the radical skeptic is correct, but once we return to everyday epistemic standards our knowledge assertions will go back to expressing truths. It’s problematic, though, given we’re conceding to the skeptic that their epistemic standards are stricter than ours and that the paradox disappears only because the radical skeptic is correct. Our only recourse is to return to quotidian epistemic standards and bar ourselves from entering the skeptic’s epistemic context. This sort of solution seems like it should only be a last resort. Here is something that strikes me as an obvious desideratum for a solution to radical skepticism, the skeptic is incorrect.&lt;/p&gt;
+&lt;p&gt;The contextualist’s solution also supposes the difficulty people have with dealing with the skeptic is the result of some mass semantic confusion. This is odd as philosophers don’t have similar difficulty understanding the context-sensitive nature of other supposedly analogous terms like “tall” and “fast.” No one is confused when you say a bike is fast in the context of men running but not fast in the context of cars racing. Contextualism attributes a widespread blindness to the meaning of terms to the subjects that use them. This isn’t a deal breaker but it should leave us a little suspicious.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Most importantly it’s not clear how contextualism, as a semantic thesis, deals with what is fundamentally an issue of rational justification. Remember, the purported paradox arises when we grant that we have widespread everyday knowledge but that the rational support we have access to doesn’t privilege our ordinary knowledge over the radical skeptical scenarios. What claim does the contextualist deny? They don’t deny that we have widespread everyday knowledge, they’ll say we do in quotidian epistemic contexts. The contextualist, at best, will argue that the latter claim is problematic, because it explicitly makes reference to the skeptical scenario and brings us into a more demanding epistemic context. But to the contextualist the claim is inevitably true when one considers it. One needs to adds a further thesis about the rational support one has in quotidian contexts to address the skeptic since that’s what we’re concerned about, our rational grounding in the everyday context. The contextualist can’t say much about this on the basis of contextualism alone. This isn’t surprising though, like I said previously, contextualism is a semantic thesis and doesn’t say much about these fundamentally epistemic issues. But without saying anything about this, the radical skeptical paradox still needs to be addressed.&lt;/p&gt;
+&lt;p&gt;And so the crux of the issue is the skeptical paradox being raised doesn’t actually make reference to epistemic standards, what’s in play is a more general appeal to the inadequacy of the rational support available to our quotidian beliefs. It’s not a question about what “know” means, rather what’s being asked is a question about the nature of rational support. The contextualist can’t say much about this with contextualism alone. Say the contextualist does provide a further posit about the rational grounding one has in the ordinary context, for example, by dogmatically supposing there just are things we take to be true in the quotidian epistemic context that rationally ground everyday beliefs. Then what was the point of appealing to contextualism? It was totally superfluous. Once one starts to supplement contextualism to deal with the fundamentally epistemic issue at play, those supplemental posits are what do the anti-skeptic work, and contextualism becomes a superfluous element of the strategy.&lt;/p&gt;
+&lt;p&gt;So, it’s hard for me to see why radical skepticism should motivate us to adopt contextualism. This doesn’t mean there can’t be other considerations for adopting such a view, just that skepticism itself doesn’t do much to convince me.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I think it’s a suspicious claim on its own but I was playing around with a more explicit argument about why it’s not the case. I decided to put it in the footnotes because I’m not entirely confident about it. Consider the thesis that one cannot fail to know the meanings of the signs one intends to utter, that is, meaning is transparent. I won’t argue for such a thesis here, but I’ve defended it as a natural result of taking certain Fregean datum seriously elsewhere. Now, granting that one cannot fail to know the meaning of the signs one intends to utter, and that analogous signs don’t have widespread confusion around such an integral part of their meaning, it’s unlikely that there would be widespread blindness to a crucial component of the meaning of “know,” namely its context sensitivity. A few things to note about this sort of inductive inference. It isn’t to argue that there aren’t some people who do in fact fail to know such a crucial component of the meaning of “know.” This is important to acknowledge because a &lt;em&gt;prima facie&lt;/em&gt; response to such an argument might look like denying the transparency of meaning, since we do in fact observe actual agents who fail to know the meanings of signs they intend to utter. This misses the point of such a thesis (and the overall inductive inference being made), namely that failure to know the meaning of signs that one intends to utter is never on the basis of the constitution of meaning (which, as Bilgrami points out, one may observe in “secularized Platonic” accounts of the constitution of meaning within a linguistic community), and so failures are more akin to psychological failures. Think of it as the difference between the failure of an agent in an unideal epistemic environment versus the failure of an irrational agent. Thus, if meaning is transparent, we’ve reduced one such possibility of failure and have increased the likelihood that there isn’t widespread failure by removing a likely candidate for widespread failure. Now the major problem with this kind of inference, and why I’m hesitant about it, is it supposes a relatively strong thesis but only weakly probabilifies the conclusion. I don’t think the conclusion is made that much likelier in part due to my intuition that most failures of the kind are the result of psychology and not on the basis of the constitution of meaning. I’m not sure what to think either way.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>God Ordains You to Two-Box</title>
+      <link>https://lambdacontinuum.github.io/posts/god-two-box/</link>
+      <pubDate>Sun, 21 Sep 2025 21:15:13 -0400</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/god-two-box/</guid>
+      <description>&lt;p&gt;Consider the following argument:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If God exists then God would tell you to two-box.&lt;/li&gt;
+&lt;li&gt;If God exists then everything God recommends to do is rational to do.&lt;/li&gt;
+&lt;li&gt;Therefore, If God exists then God would tell you to two-box and everything God recommends to do is rational to do. (From 1 and 2),&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;(2) is surely uncontroversial, an all good, all powerful, and all knowing being tells me that that some action is rational I&amp;rsquo;m almost certain that it is. (1) seems to just be a variant of the well wishing friend argument George Schlesinger provides. If you have a friend that wants the best for you, knows the content of the opaque box, and they&amp;rsquo;re given the option to recommend what you should do, they&amp;rsquo;re always going to recommend you take both boxes. Now presumably God both wants the best for you and knows the content of the opaque box. So God would recommend two-boxing.&lt;/p&gt;
+&lt;p&gt;So either two-boxing is rational in Newcomb&amp;rsquo;s problem or God doesn&amp;rsquo;t exist. A corollary of this is that the various arguments for God (Modal ontological arguments, contingency arguments, fine-tuning arguments) are arguments for two-boxing and the various arguments for one-boxing (Why Aincha&amp;rsquo; Rich?) are arguments for the non-existence of God.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Quick Argument Contra Positivism</title>
+      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
+      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
+&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\( K(P \land \neg KP)\)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\( K(P \land \neg KP) \vDash KP \land K \neg KP \)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\( KP \vDash KKP \)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;From 2 and 3, \( KKP \land K \neg KP\), which contradicts D.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, \(\neg \Diamond K(P \land \neg KP)\), that is, there are truths that are impossible to know.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since we’ve demonstrated certain truths are impossible to know, one must either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the assumption that there are truths we do not know,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the 4 and D, or&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the notion that all true propositions are unknowable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Option (1) is untenable as there are obviously truths we don’t know. Option (2) also doesn’t seem viable, if you know that P you know that you know that P (i.e. axiom 4) and if you know P you don’t know not P (i.e. axiom D) seem intuitive. The only option is to accept option (3) which contradicts positivism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Trusting Our Future Selves</title>
+      <link>https://lambdacontinuum.github.io/posts/trusting-future-selves/</link>
+      <pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/trusting-future-selves/</guid>
+      <description>&lt;p&gt;Is it rational to believe what you would believe in the future? Consider the principle of reflection, where if one is rational then, letting \(C_{t1}\) be their credence at time t1 and \(C_{t2}\) be their credence at time t2:&lt;/p&gt;
+\[
+    C_{t1}(H \mid C_{t2}(H) = x) = x
+\]&lt;p&gt;This is to say that if an agent is rational, then given that they know their later credence in some hypothesis H is x, the agent&amp;rsquo;s earlier credence in H should be x. One may understand this principle as expressing one&amp;rsquo;s trust in one&amp;rsquo;s future self such that they should defer to them.&lt;/p&gt;
+&lt;p&gt;This may seem obvious to some, but it faces two types of counter-examples. The first is memory loss. Suppose t1 is 4/5/2025. Looking outside, I see the weather is rainy, and so my credence that the weather on 4/5/2025, is rainy is, let&amp;rsquo;s say, 0.999. I&amp;rsquo;ll suppose t2 is 4/5/2030, 5 years from now. If I was asked how likely it is the weather was rainy on 4/5/2025, I wouldn&amp;rsquo;t recall that it was rainy; maybe my credence would be around, I don&amp;rsquo;t know, 0.35? If I endorsed reflection, I should defer to my future self though, that is, \(C_{t1}(H \mid C_{t2}(H) = 0.35) = 0.35\) but this seems clearly wrong. I should ignore my future forgetful state and hold \(C_{t1}(H \mid C_{t2}(H) = 0.35) = 0.999\), so reflection cannot be a constraint on rationality. As long as one expects to forget in the future, they should violate reflection.&lt;/p&gt;
+&lt;p&gt;David Christensen offers a hypothetical involving a drug called LSQ that, upon taking it, causes one to believe that they can fly by flapping their arms. So, after taking the drug at t2, \(C_{t2}(H) = 1\), but knowing prior to taking the drug that you&amp;rsquo;ll be taking it at t1, you obviously shouldn&amp;rsquo;t believe you can fly, so \(C_{t1}(H \mid C_{t2}(H) = 1) = 0.001\), which violates reflection. If one expects to be irrational in the future, they should violate reflection.&lt;/p&gt;
+&lt;p&gt;So we have two instances of failure for reflection, but there does still feel something appealing about deferring to a version of ourselves with more experience, so maybe we should qualify reflection. Say in cases where we are sure we won&amp;rsquo;t forget anything and we are sure our belief change will be rational, i.e., all our belief change will be the result of conditionalization, we should satisfy reflection.&lt;/p&gt;
+&lt;p&gt;Now it turns out that the qualification against memory loss is redundant as an agent whose beliefs are always the result of conditionalization won&amp;rsquo;t experience memory loss, so we can characterize our qualified reflection as saying agents should satisfy reflection if and only if they are certain they&amp;rsquo;ll always be conditionalizers.&lt;/p&gt;
+&lt;p&gt;The problem is clear: we aren&amp;rsquo;t always conditionalizers. Quite the opposite, we&amp;rsquo;re flawed agents susceptible to forgetting and irrationality, and so we ought not abide by reflection. Ideally rational agents, on the other hand, ought to satisfy reflection. The upshot of all this is the constraints ideal agents ought to satisfy come apart from the constraints actual people in the epistemic landscape should satisfy. There are ways in which we ought not emulate ideal epistemic agents.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

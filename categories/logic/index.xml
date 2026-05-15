@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logic on Lambda Continuum</title>
+    <link>https://lambdacontinuum.github.io/categories/logic/</link>
+    <description>Recent content in Logic on Lambda Continuum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/categories/logic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Error Theory in Tension With Deontic Logic?</title>
+      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
+      <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
+      <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
+&lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;\(\vDash \forall \phi (\phi \lor \neg \phi)\)&lt;/li&gt;
+&lt;li&gt;\(P\psi \lor \neg P\psi\), from 1&lt;/li&gt;
+&lt;li&gt;\(P\psi \lor I\psi\) since \(\neg P \psi = I \psi\)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From hereon out we’ll call (3) the Dual Schema (DS). The issue should be clear, the error theorist wants to say a moral judgement like “It is impermissible to steal candy from a baby” is false because the sort of property needed to render the judgement true, moral properties, do not obtain anywhere. But the falsity of that judgement alongside (DS) entails “It’s permissible to steal candy from a baby”, a judgement that seemingly instantiates the moral property of permissibility. So, error theory seems to contradict (DS), a logical truth of SDL.&lt;/p&gt;
+&lt;p&gt;The error theorist has a couple of moves here. A plausible one is just rejecting SDL, there are antecedent reasons to do so and I defend such a view on this blog but it’s not clear to me that that’s necessary. The author of the paper argues the objection is only superficially formal.&lt;/p&gt;
+&lt;p&gt;That might need a little more elaboration, what is the error theorist saying when they deny “It is impermissible to steal candy from a baby”? I’d say something like such a judgement is false because for it to be true there needs to be (stance-independent) &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby, but no such reasons of that kind exist. Given the (DS) the error theorist must then be committed to the truth of “It is permissible to steal candy from the baby” and the proponent of this objection thinks that’s an issue for the error theorist. But why? They’ll say “the truth of that judgement requires the moral property of permissibility and the error theorist rejects such properties” but note that the error theorist is objecting to something like the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt;. It’s only an issue for the error theorist to endorse “It is permissible to steal candy from a baby” if the judgement means something like there’s a &lt;em&gt;reason in favor&lt;/em&gt; of the act being permissible but the (DS) doesn’t suppose any such analysis. Suppose instead that to say “It is permissible to steal candy from a baby” is just to say that there are no &lt;em&gt;reasons in favor&lt;/em&gt; of not stealing candy from a baby.&lt;/p&gt;
+&lt;p&gt;So we have two analyses of what it means to say “It’s permissible to steal candy from the baby”, call the one that supposes the existence of &lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P+) variant and the one that supposes there are no
+&lt;em&gt;reasons in favor of acting&lt;/em&gt; the (P-) variant. The error theorist is clearly committed to a contradiction in affirming (P+) given they think all such judgements are false in virtue of supposing the existence of &lt;em&gt;reasons&lt;/em&gt; that don’t obtain, but there’s no issue for the error theorist in affirming (P-) since the claim doesn’t suppose such &lt;em&gt;reasons&lt;/em&gt;.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; And so there’s only a contradiction for the error theorist if (DS) entails (P+) instead of (P-) but why think that? The objection being raised isn’t purely formal, it implicitly supposes the dual schema involves a certain analysis of permissibility that supposes the sort of properties the error theorist wishes to reject, but the error theorist can just reject that.&lt;/p&gt;
+&lt;p&gt;So say we have two (DS) variants, (DS+) supposes permission is analyzed in line with (P+) while (DS-) supposes permission is analyzed in line with (PS-). SDL says nothing about what variant (DS) is supposed to endorse, but for SDL to show a contradiction in error theory (DS) has to be (DS+). Either way, there isn’t a clear formal contradiction for the error theorist in adopting SDL, they just need to deny their opponents framing of judgements about permission involving the existence reasons.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;In fact, the judgement supposes that such reasons don’t exist. A corollary of this is all judgements about the permission of acts come out true but I don’t see why that would be an issue.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The “Is–Ought” Gap Is Not Merely a Matter of Logical Validity</title>
+      <link>https://lambdacontinuum.github.io/posts/is-ought-gap/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/is-ought-gap/</guid>
+      <description>&lt;p&gt;I recently saw a construal of the “Is–Ought” gap in terms of mere logical validity. It was described as the inability to validly deduce a prescriptive premise from some set of descriptive premises. Viewed this way, the gap faces multiple possible counterexamples.&lt;/p&gt;
+&lt;p&gt;First, consider the moral principle &lt;em&gt;ought implies can&lt;/em&gt; , a principle moral philosophers will commonly endorse. The principle is that if you ought to do &lt;em&gt;P&lt;/em&gt;, then it is semantically entailed that you can do &lt;em&gt;P&lt;/em&gt;. This seems intuitive: to say you should do something seems to prima facie indicate that it’s possible to do. So we’re given \(OP \vDash \Diamond P\); since contraposition preserves validity, \(\neg \Diamond P \vDash \neg OP\). This would be a violation of the gap.&lt;/p&gt;
+&lt;p&gt;Secondly, consider the following dilemma given by A.N. Prior:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is common in England.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This inference is valid via disjunctive introduction. Now consider the following dilemma. Either (2) is normative or descriptive. If it’s normative this inference is a violation of the gap. If it’s descriptive consider the following deduction:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is common in England or all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tea Drinking is not common in England&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, all New-Zealanders ought be shot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This would be a violation of the gap.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Third, consider the trivial case of explosion. From contradictions, everything validly follows. The counter-example is clear, assume a descriptive contradiction and you can validly infer a normative conclusion. This would be a violation of the gap. Recall the is-ought gap is explicated in terms of valid inference not sound inference.&lt;/p&gt;
+&lt;p&gt;Fourth, consider a Standard Deontic Logic and recall the Obligatory operator is closed under Logical consequence.&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; This is to say that if OA is true and that A entails B, that OB is true. Given that logical truths are logically entailed by everything, it follow that all logical truths are obligatory. Consider the following: \(q \vDash Op \lor \neg Op\). This would be a violation of the gap.&lt;/p&gt;
+&lt;p&gt;Don’t take this as me claiming there is no gap. There is, its construction is just going to be more sophisticated than a mere reference to logical validity.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This supposed violation of the gap relies on the distinction between normative and descriptive exhausting all possible choices. It may fall apart if you think a proposition could be neither normative nor descriptive.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;I think such a logic fails at properly capturing normative considerations; see my article on it if you’re curious. Knowing that, you might wonder why I give this as a counterexample. It illustrates the general point that by indexing the is–ought gap to mere logical validity, the truth of the is–ought gap relies on whichever logic you think “holds.” If someone were to adopt SDL as correctly modeling normative considerations, then the is–ought gap is trivially false. If the logic we’re considering is some basic propositional logic, then the explosion counterexample demonstrates that the is–ought gap is false, etc., etc.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Is existence a predicate?</title>
+      <link>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/is-existence-a-predicate/</guid>
+      <description>&lt;p&gt;You hear this argument frequently when discussing the ontological argument for God. The theist may claim that existence is a perfection, while the skeptic counters by arguing that perfections must be properties and to be a property one must be able to predicate it of an object. However, ‘existence is not a predicate,’ merely a prerequisite for properties.&lt;/p&gt;
+&lt;p&gt;Okay, but what exactly does it mean for existence to be (or not to be) a predicate? To me it seems unclear between various interpretations.&lt;/p&gt;
+&lt;p&gt;It is trivial to construct a first-order monadic predicate, termed ‘exists,’ such that \(\text{exists} \stackrel{ \scriptscriptstyle \mathrm{def}}{=} \lambda x (\exists y = x)\). This ‘exists’ predicate is true of and only of things that exist and will abide by the syntactic rules of a predicate in first-order logic. So, why would it be incorrect to say that existence is a predicate?&lt;/p&gt;
+&lt;p&gt;Well, the dictum that existence isn’t a predicate originates with Kant, and he was writing before the progress in a logic of quantification that Frege, Russell, Quine, and others contributed to. It’s reasonable to assume that when Kant claimed existence isn’t a predicate, he meant something different.&lt;/p&gt;
+&lt;p&gt;There are a few possible things Kant may have had in mind when he said that existence isn&amp;rsquo;t a predicate.&lt;/p&gt;
+&lt;p&gt;At the time, traditional formal logic was relegated to Port Royal and Aristotelian syllogism. Such formal logic viewed existence as explicated in terms of copulas like &amp;lsquo;is&amp;rsquo; or &amp;lsquo;are.&amp;rsquo; Consider traditional examples of syllogistic logic, such as &amp;lsquo;Socrates is a man&amp;rsquo; or &amp;lsquo;Men are mortal.&amp;rsquo; If these sentences are true, they imply that both men and Socrates exist. So, existence is not a real predicate but is merely derivatively implied by the copula. Existence is merely a matter of the logic of the copula. He may also have meant that, whereas conceiving of a red apple adds something to the concept of an apple, conceiving of an existing apple doesn’t add anything because the mental images of an existing apple and a non-existing apple are the same. Thus, existence isn’t a predicate.&lt;/p&gt;
+&lt;p&gt;But in both cases, when Kant says that existence isn’t a predicate, he seems to be addressing something very different from what someone who constructs the predicate above is claiming. When Kant says existence isn’t a predicate, he is suggesting that within the framework of Aristotelian syllogistic logic, existence isn’t a predicate or that existence does not “add” to the concept of a thing. Meanwhile, those who endorse the trivial construction are simply asserting that a predicate named &amp;rsquo;existence&amp;rsquo; can be constructed in a predicate logic, which is true only of existing things. They are addressing two different questions.&lt;/p&gt;
+&lt;p&gt;Let’s take someone from a post-Frege world of logic. Gilbert Ryle denies that existence is a predicate. What does he mean? The idea is that existence differs significantly from other ordinary terms used in the predicate position. Consider the following sentences:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;‘Brown cows exist.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;‘Purple cows don’t exist.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;‘Brown cows flourish.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;‘Purple cows don’t flourish.’&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The idea is that we are systematically misled into treating sentences like (1) and (2) analogously to (3) and (4) due to superficial grammatical resemblance, since &amp;rsquo;exists&amp;rsquo; appears in the predicate position. However, there is a major difference between existence claims and other predicate claims, such as &amp;lsquo;flourish.&amp;rsquo; The former are translatable into quantificational sentences like &amp;lsquo;Some cows are brown&amp;rsquo; and &amp;lsquo;It is false that some cows are purple.&amp;rsquo; In translation, the word &amp;rsquo;exists&amp;rsquo; disappears from the predicate position, with its function being accomplished by the quantifier. In contrast, ordinary predicates like &amp;lsquo;flourish&amp;rsquo; and &amp;lsquo;red&amp;rsquo; are genuine predicates, as they cannot be translated into sentences where they no longer take a predicate position. The idea is that every existence claim is merely a covert quantificational claim, and hence &amp;rsquo;exists&amp;rsquo; is a bogus predicate. The proper role of existence is played by quantification and not predication.&lt;/p&gt;
+&lt;p&gt;If this is what’s at dispute, then it’s not even clear that Ryle disagrees with someone who claims existence is a predicate because they can construct a &amp;rsquo;exists&amp;rsquo; predicate. What’s actually in contention is whether or not it is a &amp;lsquo;genuine&amp;rsquo; predicate. One could endorse that &amp;rsquo;exists&amp;rsquo; is a predicate but not a &amp;rsquo;true&amp;rsquo; predicate in the sense that Ryle describes.&lt;/p&gt;
+&lt;p&gt;It seems to me that asking whether existence is a predicate is essentially pointless without further clarification of what is meant when one asks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I don&#39;t understand Hilbert&#39;s thesis</title>
+      <link>https://lambdacontinuum.github.io/posts/hilbert-thesis/</link>
+      <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/hilbert-thesis/</guid>
+      <description>&lt;p&gt;Kripke has this argument he renders in favor of the Church-Turing Thesis that relies on what’s called Hilbert’s thesis. Hilbert’s thesis is “the idea that the steps of any mathematical argument can be expressed in a language based on first-order logic (with identity).”&lt;/p&gt;
+&lt;p&gt;Now, this thesis seems obviously wrong to me. For example, you cannot define a predicate for reachability on a graph in first-order logic. Suppose we attempt to create a first-order formula \(\phi(x, y)\) such that \(\phi(x, y)\) is true if and only if \(y\) is reachable from \(x\). Then, let’s define a certain class of graphs:&lt;/p&gt;
+\[
+\begin{align}
+    \psi_1 &amp;:= (\forall x)(\forall y) \phi(x, y) \\
+    \psi_2 &amp;:= (\forall x)(\exists y) (E(x, y) \land (\forall z) (E(x, z) \to y = z)) \\
+    \psi_3 &amp;:= (\forall x)(\exists y) (E(y, x) \land (\forall z)(E(z, x) \to y = z))
+\end{align}
+\]&lt;p&gt;\(\psi_1\) denotes the graph is strongly connected, \(\psi_2\) that each node in the graph has an out-degree of 1, and \(\psi_3\) that each node has an in-degree of 1. These sentences together characterize a cyclic graph. Additionally, we define a set of formulas \(I_k\), as follows:&lt;/p&gt;
+\[I_k := (\forall x_1)(\forall x_2) \ldots (\forall x_{k-1})(\exists x_k)(x_k \neq x_1 \land x_k \neq x_2 \land \ldots \land x_k \neq x_{k-1})\]&lt;p&gt;That is, each \(I_k\) is true only if there are at least \(k\) domain elements, with \(x_k\) being distinct from \(x_1\) through \(x_{k-1}\).&lt;/p&gt;
+&lt;p&gt;Consider the first three axioms, alongside the requirement that there be at least three domain elements: \(\{\psi_1, \psi_2, \psi_3, I_3\}\). This theory clearly has a model; for instance, the directed cycle with three nodes satisfies it.&lt;/p&gt;
+&lt;p&gt;Likewise, there are models with 4, 5, 6, 7, etc., domain elements.&lt;/p&gt;
+&lt;p&gt;It’s evident that our theory, which describes a cyclic graph \(\{\psi_1, \psi_2, \psi_3\}\), has arbitrarily large finite models. By the overspill principle, it also has an infinite model. This result follows from the compactness theorem: if we add, for every natural number \(n\), a sentence stating that there are at least \(n\) domain elements, we know that there are arbitrarily large models. Hence, every finite subset of these sentences is satisfiable, and by the compactness theorem, there exists a model of the entire theory, which must have infinite cardinality.&lt;/p&gt;
+&lt;p&gt;\(\{\psi_1, \psi_2, \psi_3, I_1, I_2, \ldots\}\) thus has a model, an &amp;ldquo;infinite cycle&amp;rdquo;, which leads to a contradiction. Using \(\phi\) in this concrete example, we would describe an infinite cycle. However, since the graph is strongly connected, if we start at some node and follow all out-degrees, we must eventually visit all nodes. Given that each node has an in-degree of 1, we must return to the starting node, implying that the graph must be finite.&lt;/p&gt;
+&lt;p&gt;Thus, we must reject one of our assumptions, and the only assumption we made was that \(\phi\) exists. Therefore, we conclude that \(\phi\) does not exist in first-order logic.&lt;/p&gt;
+&lt;p&gt;Since such predicates cannot be defined in first-order logic, how could the steps of any mathematical argument be expressed within first-order logic? An obvious counterexample would be any mathematical argument that requires a reachability predicate no?&lt;/p&gt;
+&lt;p&gt;But here’s the thing, I’m skeptical that Kripke’s argument assumes such an obvious falsehood, given Kripke was undoubtably more competent and intelligent than me in this domain. This leads me to believe I’m missing something obvious and/or misunderstanding Hilbert’s thesis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Quick Argument Contra Positivism</title>
+      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
+      <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
+&lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\( K(P \land \neg KP)\)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\( K(P \land \neg KP) \vDash KP \land K \neg KP \)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\( KP \vDash KKP \)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;From 2 and 3, \( KKP \land K \neg KP\), which contradicts D.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Therefore, \(\neg \Diamond K(P \land \neg KP)\), that is, there are truths that are impossible to know.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since we’ve demonstrated certain truths are impossible to know, one must either:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the assumption that there are truths we do not know,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the 4 and D, or&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reject the notion that all true propositions are unknowable.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Option (1) is untenable as there are obviously truths we don’t know. Option (2) also doesn’t seem viable, if you know that P you know that you know that P (i.e. axiom 4) and if you know P you don’t know not P (i.e. axiom D) seem intuitive. The only option is to accept option (3) which contradicts positivism.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>S4 is Inadequate as a Logic of Formal Provability</title>
+      <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
+      <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;
+&lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;
+\[
+    \begin{align}
+        \text{(K)} \quad &amp; \Box(\phi \Rightarrow \psi) \Rightarrow (\Box\phi \Rightarrow \Box\psi) \\
+        \text{(M)} \quad &amp; \Box\phi \Rightarrow \phi \\
+        \text{(4)} \quad &amp; \Box\phi \Rightarrow \Box\Box\phi\\
+    \end{align}
+\]&lt;p&gt;and is closed under the following rules of inference:&lt;/p&gt;
+&lt;p&gt;Modus Ponens: From \(\vdash \phi\) and \(\vdash \phi \implies \psi\), infer \(\psi\)&lt;br&gt;
+Necessitation: If \(\vdash \phi\), then \(\vdash \Box \phi\)&lt;/p&gt;
+&lt;p&gt;The interpretation that modal connectives take within modal logic depends on the modal system we’re attempting to analyze. ‘\(\Box\)’ can be interpreted as logical necessity, nomic necessity, moral obligation, and more. The interpretation we’re interested in is ‘\(\Box \phi\)’ as ‘It is provable that \(\phi\).’&lt;/p&gt;
+&lt;p&gt;On its face, S4 might seem like a decent candidate for a modal logic that correctly analyzes provability. (K) holds because if a conditional is provable, then if the antecedent of the conditional is provable, the consequent of the conditional is obviously provable as well. (M) holds because if something is provable, it’s true. (4) holds because there’s a proof, then you can prove there is a proof.&lt;/p&gt;
+&lt;p&gt;This intuitive work is valuable, but more needs to be done. We need to ensure that there are no principles that hold for provability but are not provable in S4. To determine this, we require a precise explication of the notion of provability, and we must check whether the principles of S4 hold up in light of this explication.&lt;/p&gt;
+&lt;p&gt;Let’s provide an explication of provability. A natural candidate for the interpretation of \(\Box\) is a formal provability predicate within a standard axiomatized mathematical theory. In fact, formal provability predicates are typically developed in the context of arithmetic. This is for a few reasons. For one, via Gödel coding, we can discuss numbers instead of expressions. Conveniently, arithmetic has many established results that can be borrowed and applied to syntax.&lt;/p&gt;
+&lt;p&gt;We’ll use Peano Arithmetic (PA). The language of PA, denoted \(\mathcal{L}_{\text{PA}}\), is a first-order language with identity and the symbols \(0\), \(S\), \(+\), and \(*\). Each natural number \(n\) has a corresponding numeral, \(\langle n \rangle\), in PA with the form \(S( \ldots S(0))\) with \(n\) occurrences of \(S\). Formulas in \(\mathcal{L}_{\text{PA}}\) can be classified by their complexity. Consider the formulas \(\forall x &lt; t \phi (x)\) and \(\exists x &lt; t \phi (x)\), the quantifiers in such formulas are are called &lt;em&gt;bounded&lt;/em&gt;. Formulas with only bounded quantifiers are called \(\Delta_0\)-formulas.&lt;/p&gt;
+&lt;p&gt;The complexity hierarchy is as follows: \(\Pi_0 = \Sigma_0 = \Delta_0\).&lt;/p&gt;
+&lt;p&gt;\(\Sigma_{n+1}\)-formulas have the form \(\exists x_1 \ldots \exists x_k\, (\phi(x_1, \ldots, x_k))\), where \(\phi(x_1, \ldots, x_k)\) is \(\Pi_n\). \(\Pi_{n+1}\)-formulas have the form \(\forall x_1 \ldots \forall x_k\, (\phi(x_1, \ldots, x_k))\), where \(\phi(x_1, \ldots, x_k)\) is \(\Sigma_n\).&lt;/p&gt;
+&lt;p&gt;All sentences in \(\mathcal{L}_{\text{PA}}\) are logically equivalent to, for some \(n\) and \(m\) , a \(\Sigma_n\) or \(\Pi_n\) formula. However, the class of \(\Sigma_1\)-formulas is particularly interesting, as a function is Turing-recognizable if it is \(\Sigma_1\)-definable. This means an axiomatic arithmetic that can handle \(\Sigma_1\) sentences is expressive enough to prove statements concerning the syntax of a formal language within it.&lt;/p&gt;
+&lt;p&gt;We say a theory of arithmetic, \(T\), is \(\Sigma_1\)-sound if, for any \(\Sigma_1\)-formula, \(T \vdash \phi\) implies that \(\phi\) is true in the standard model of arithmetic. Correspondingly, \(T\) is \(\Sigma_1\)-complete if, for any sentence \(\phi \in \Sigma_1\), \(\phi\) is true in the standard model of arithmetic, then \(T \vdash \phi\). Peano Arithmetic is \(\Sigma_1\)-complete.&lt;/p&gt;
+&lt;p&gt;We also map syntactic objects to natural numbers so that each syntactic object \(\tau\) of \(\mathcal{L}_{\text{PA}}\) is represented by a Gödel code \(\ulcorner \tau \urcorner\). Now, consider an arbitrary theory \(T\) of \(\mathcal{L}_{\text{PA}}\) that extends Peano Arithmetic. We call such a theory elementary presented if there&amp;rsquo;s an arithmetic \(\Delta_0\)-formula, \(\mathrm{Ax}T(x)\), which is true of a natural number if it codes an axiom of \(T\). We can use \(\mathrm{Ax}T(x)\) to construct a \(\Delta_0\)-formula \(\mathrm{Prf}T(y, x)\), a binary proof predicate of \(T\) that is true of natural numbers \(m\) and \(n\) if \(m\) is the code of a sequence of formulas that constitute a proof of the formula whose code is \(n\).&lt;/p&gt;
+&lt;p&gt;Now consider Binumeration, which consists of two propositions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;If in the standard model \(\mathrm{Prf}T(m, n)\), then \(\text{PA} \vdash \mathrm{Prf}T(\langle m \rangle, \langle n \rangle)\)&lt;/li&gt;
+&lt;li&gt;If in the standard model \(\neg\mathrm{Prf}T(m, n)\), then \(\text{PA} \vdash \neg\mathrm{Prf}T(\langle m \rangle, \langle n \rangle)\).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We can obtain a monadic standard provability predicate,
+&lt;/p&gt;
+\[\mathrm{Prov}T(x) := \exists y\, \mathrm{Prf}T(y, x),\]&lt;p&gt;and a consistency statement,
+&lt;/p&gt;
+\[\mathrm{Con}(x) := \neg\mathrm{Prov}T(\ulcorner \bot \urcorner).\]&lt;p&gt;Since \(\mathrm{Prov}T(x)\) is obtained by appending an existential quantifier to a \(\Delta_0\)-formula, it&amp;rsquo;s a \(\Sigma_1\)-formula. It follows from \(\Sigma_1\)-completeness that the first conjunct of Binumeration is true. The second conjunct of Binumeration fails, but this is no problem. \(\mathrm{Prov}T(x)\) still succeeds in defining provability since \(\mathrm{Prov}T(\ulcorner \phi \urcorner)\) is true in the standard model just in case \(T \vdash \phi\).&lt;/p&gt;
+&lt;p&gt;In fact, our \(\mathrm{Prov}T(x)\) formula satisfies what are known as the Hilbert-Bernays conditions for formal provability predicates, this is of future relevance.&lt;/p&gt;
+&lt;p&gt;Now that we have provided a precise explication of the notion of formal provability as the formal provability predicate \(\mathrm{Prov}T(\ulcorner \phi \urcorner)\), we can finally ask whether we can interpret \(\Box\) in S4 as this predicate.&lt;/p&gt;
+&lt;p&gt;To answer this, consider the Diagonal Lemma. For any formula \(\phi(x) \in \mathcal{L}_{\text{PA}}\), there is a sentence \(\lambda \in \mathcal{L}_{\text{PA}}\) such that \(\text{PA} \vdash \lambda \equiv \phi(\ulcorner \lambda \urcorner)\). If we take \(\phi(x)\) to be \(\neg\mathrm{Prov}PA(x)\), the diagonal lemma entails the existence of a sentence that provably satisfies the condition \(G \equiv \neg\mathrm{Prov}PA(\ulcorner G \urcorner)\). \(G\) is thus independent of PA. You may recognize this is Gödel&amp;rsquo;s incompleteness theorem: if an elementary presented theory \(T\) extends PA and is consistent, then there is a sentence \(G \in \mathcal{L}_{\text{PA}}\) such that \(T \not\vdash G\) and \(T \not\vdash \neg G\). Moreover, \(T \not\vdash \mathrm{Con}(T)\).&lt;/p&gt;
+&lt;p&gt;Years later, Henkin would ask what would happen with sentences such as \(H \equiv \mathrm{Prov}T(\ulcorner H \urcorner)\). Löb answered this question with Löb&amp;rsquo;s theorem: if the Diagonal Lemma applies to T and the provability predicate of a theory T satisfies the Hilbert-Bernays provability conditions, \(T \vdash \mathrm{Prov}T(\ulcorner \phi \urcorner) \to \phi\). For any given sentence \(\phi\), we call the formula \(\mathrm{Prov}T(\ulcorner \phi \urcorner) \to \phi\) reflection for \(\phi\) (over T), and Löb&amp;rsquo;s theorem asserts that reflection is provable in T but only for all theorems of T. The theorem follows from an application of \(\mathrm{Prov}T(\ulcorner x \urcorner) \to \phi\) to the Diagonal Lemma. Since, if the Diagonal Lemma applies to T, the lemma entails a \(\psi\) such that \(T \vdash \psi \equiv (\mathrm{Prov}T(\ulcorner \psi \urcorner) \to \phi)\).&lt;/p&gt;
+&lt;p&gt;Now, with background laid down, can \(\Box\) of S4 be reasonably interpreted as the formal provability predicate? Let us take T = PA. From here, there are a few ways to show the inadequacy of S4 with respect to formal provability. One such approach is to note that, since \(\text{S4} \vdash \Box\phi \to \phi\) for any \(\phi\), interpreting \(\Box\phi\) as \(\mathrm{Prov}T(\ulcorner \phi \urcorner)\) would require that for all \(\phi \in \mathcal{L}_{\text{PA}}\), \(\text{PA} \vdash \mathrm{Prov}T(\ulcorner \phi \urcorner) \to \phi\). This in conjunction with Löb&amp;rsquo;s theorem entails that for all \(\phi \in \mathcal{L}_{\text{PA}}\), \(\text{PA} \vdash \phi\). So, if PA is consistent, S4 cannot be the logic of the formal provability predicate of PA.&lt;/p&gt;
+&lt;p&gt;Another approach is to recall that \(\mathrm{Con}(x)\) is \(\neg\mathrm{Prov}T(\ulcorner \bot \urcorner)\), which is logically equivalent to \(\mathrm{Prov}T(\ulcorner \bot \urcorner) \to \bot\). This is an axiom of S4 since \(\Box\bot \to \bot\) is an instance of (M). Therefore, if S4 is adequate, it follows that \(\text{PA} \vdash \mathrm{Con}(\text{PA})\). This contradicts Gödel&amp;rsquo;s second incompleteness theorem. Moreover, necessitation yields \(\Box(\Box\bot \to \bot)\), allowing us, in S4, to derive the claim that the consistency statement is derivable, which again contradicts Gödel&amp;rsquo;s second incompleteness theorem.&lt;/p&gt;
+&lt;p&gt;This argument assumes that T = PA, but the point generalizes to any consistent, recursively axiomatizable extension of PA. Given this, it&amp;rsquo;s clear that S4 is inadequate as a modal logic of formal provability.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s one ramification of this. S4 was initially proposed as a logic of provability in light of Brouwer&amp;rsquo;s intuitionistic logic, which was formalized by Heyting as Intuitionistic Propositional Calculus (IPC). On this approach we say a mathematical claim is true if it has a proof and false if there is a proof that it leads to contradiction. This idea inspired Brouwer-Heyting-Kolmogorov semantics, which identifies true with provability. A proof of \(\phi \land \psi\) is a proof of \(\phi\) and a proof of \(\psi\); a proof of \(\phi \lor \psi\) is a proof of \(\phi\) or a proof of \(\psi\); a proof of \(\phi \to \psi\) is a construction of proofs of \(\psi\) from proofs of \(\phi\); and since contradictions have no proof, a proof of \(\neg\phi\) is a proof of \(\phi \to \bot\), where \(\bot\) is a contradiction. Gödel would later provide a translation function, \(t\), that converts formulas in IPC into modal formulas and would prove that if \(\text{IPC} \vdash \phi\), then \(\text{S4} \vdash t(\phi)\). McKinsey and Tarski subsequently proved that if \(\text{S4} \vdash t(\phi)\), then \(\text{IPC} \vdash \phi\). Thus, IPC can be interpreted to be about classical provability if and only if S4 is the logic of classical provability. We&amp;rsquo;ve shown that S4 cannot be the logic of classical provability, and so IPC cannot be taken to be about classical provability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contra Standard Deontic Logic</title>
+      <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
+      <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
+      
+      <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
+      <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;
+&lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \implies \neg O \neg p\),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \land Oq \iff O(p \land q)\),&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;\(O(p \lor q)\).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The second axiom is equivalent to the combination of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;\(Op \land Oq \implies O(p \land q)\), i.e. agglomeration.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If \(Op\) and \(p\) logically implies \(q\), then \(Oq\), i.e. necessitation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now that we’ve characterized SDL, why do I think it fails to properly model obligation? Consider the following issues.&lt;/p&gt;
+&lt;p&gt;First is the problem of free choice permission. Imagine your neighbor asked to borrow a crowbar. You showed him your crowbars and said, &amp;ldquo;You may borrow either the big or the small crowbar.&amp;rdquo; You offer him a choice between two tools. Now imagine the tools belonged to someone else who authorized you to lend one of them, but you had forgotten which of the two could be lent. You might say, &amp;ldquo;You may borrow either the big or the small crowbar, but I do not know which.&amp;rdquo; In this latter case, only one of the crowbars is permitted to be borrowed. However, the former case illustrates an instance of free choice permission: you are permitted to take the small crowbar, and you are permitted to take the large crowbar (but not both). To represent this in SDL, we want a permission operator that satisfies the postulate \(P(a \lor b) \implies Pa \land Pb\).&lt;/p&gt;
+&lt;p&gt;Such a principle doesn’t hold in SDL. An obvious solution might be to simply add the principle to the list of SDL axioms. However, this leads to implausible results. Consider the following inference:&lt;/p&gt;
+\[
+    \begin{array}{rll}
+        1. &amp; O(\neg a \land \neg b) \implies O \neg a &amp; \text{Holds in SDL} \\
+        2. &amp; O \neg (a \lor b) \implies O \neg a &amp; \text{1, Equiv} \\
+        3. &amp; \neg O \neg a \implies \neg O \neg (a \lor b) &amp; \text{2, Contrapos} \\
+        4. &amp; Pa \implies P(a \lor b) &amp; \text{3, Def. of P} \\
+        5. &amp; P(a \lor b) \implies Pa \land Pb &amp; \text{Hyp.} \\
+        6. &amp; Pa \implies Pb &amp; \text{4, 5, HS} \\
+    \end{array}
+\]&lt;p&gt;The axiom combined with the original postulates entails that if something is permitted, then everything else is permitted. This is intolerable, so we cannot solve the issue of free choice by turning the SDL permission operator into an operator of free choice permission.&lt;/p&gt;
+&lt;p&gt;Some deontic logicians attempt to fix this by introducing a second permission operator Pc into SDL. One such definition is \(P_c(a \lor b) \iff Pa \land Pb\). This definition is implausible, see the following derivation:&lt;/p&gt;
+\[
+    \begin{array}{rll}
+        1. &amp; Pa \implies (P a \lor b) &amp; \text{Holds in SDL} \\
+        2. &amp; Pa \implies (Pa \land P(a \lor b)) &amp; \text{1, Adjunction}\\
+        3. &amp; Pa \implies P_c(a \lor (a \lor b))&amp; \text{2, Def. of }P_c \\
+        3. &amp; Pa \implies P_c(a \lor b) &amp; \text{3, Idempotence} \\
+    \end{array}
+\]&lt;p&gt;So, if you’re permitted to borrow a screwdriver, it follows that you have free choice to either borrow or steal the screwdriver. Other attempts to construct free choice operators have similarly absurd consequences. This is because such constructions rely on the &lt;em&gt;single sentence assumption&lt;/em&gt;; the idea that free choice between a and b can be represented as a property of a single sentence, namely a∨b.&lt;/p&gt;
+&lt;p&gt;Under this assumption, logically equivalent sentences are interchangeable. Thus, if \(a \lor b\) is equivalent to \(c \lor d\), then there is a free choice permission between a and b if and only if there is a free choice permission between c and d. This entails implausible results. Consider the case of the vegetarian’s free lunch. In a restaurant, I may have a meal with meat or a meal without meat. Therefore, I may either have a meal and pay for it or have a meal and not pay for it. This follows because: Let m denote having a meal with meat, v a meal without meat, and p paying:&lt;/p&gt;
+\[
+    P(m \lor v) \equiv P(((m \lor v) \land p) \lor ((m \lor v) \land \neg p)).
+\]&lt;p&gt;Free choice permission illustrates an intuitive deontic principle that doesn’t hold in SDL. Conversely, SDL sometimes validates principles that are not plausible. We call such cases deontic paradoxes. Consider Åqvist&amp;rsquo;s knower paradox: If a police officer ought to know that Smith robbed Jones, then Smith ought to rob Jones. This counterexample challenges the principle of necessitation. Von Wright correctly points out that all major deontic paradoxes rely on necessitation. However, necessitation follows from SDL’s semantic construction of possible worlds, so these paradoxes challenge SDL’s semantics itself.&lt;/p&gt;
+&lt;p&gt;SDL also fails to model certain important kinds of obligations commonly discussed—namely, obligations of compensation, reparation, and prevention. Recall that under SDL’s semantics, obligatory acts in the actual world consist of actions that would occur in ideal worlds. Suppose there’s a drowning child in front of you. In a deontically ideal world, no child would drown, so you wouldn’t save a child from drowning in an ideal world because no drowning child would exist. It follows that you are not obligated to save the drowning child.&lt;/p&gt;
+&lt;p&gt;Obligations of compensation, reparation, and prevention require the existence of actions that need be compensated, reparated, and prevented. But these are actions that are unideal and wouldn’t occur in an ideal world. Consequently, SDL’s semantics cannot model such obligations. This is a significant problem, as such obligations are central not only to everyday moral discourse but also to moral philosophy as a whole. As Holly Goldman puts it, SDL &amp;ldquo;ignores the fact that particular obligations flow from abstract principles together with contingent features of the world,&amp;rdquo; and such features &amp;ldquo;do not appear in all the morally best worlds.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

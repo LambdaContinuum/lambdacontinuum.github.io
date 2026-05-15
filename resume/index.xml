@@ -4,8 +4,7 @@
     <title>Lambda Continuum</title>
     <link>https://lambdacontinuum.github.io/resume/</link>
     <description>Recent content on Lambda Continuum</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://lambdacontinuum.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://lambdacontinuum.github.io/resume/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
