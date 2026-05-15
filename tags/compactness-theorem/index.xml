@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compactness Theorem on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/compactness-theorem/</link>
+    <link>http://localhost:1313/tags/compactness-theorem/</link>
     <description>Recent content in Compactness Theorem on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/compactness-theorem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/compactness-theorem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I don&#39;t understand Hilbert&#39;s thesis</title>
-      <link>https://lambdacontinuum.github.io/posts/hilbert-thesis/</link>
+      <link>http://localhost:1313/posts/hilbert-thesis/</link>
       <pubDate>Thu, 19 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/hilbert-thesis/</guid>
+      <guid>http://localhost:1313/posts/hilbert-thesis/</guid>
       <description>&lt;p&gt;Kripke has this argument he renders in favor of the Church-Turing Thesis that relies on what’s called Hilbert’s thesis. Hilbert’s thesis is “the idea that the steps of any mathematical argument can be expressed in a language based on first-order logic (with identity).”&lt;/p&gt;
 &lt;p&gt;Now, this thesis seems obviously wrong to me. For example, you cannot define a predicate for reachability on a graph in first-order logic. Suppose we attempt to create a first-order formula \(\phi(x, y)\) such that \(\phi(x, y)\) is true if and only if \(y\) is reachable from \(x\). Then, let’s define a certain class of graphs:&lt;/p&gt;
 \[

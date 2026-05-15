@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contra Standard Deontic Logic on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
+    <link>http://localhost:1313/posts/contra-sdl/</link>
     <description>Recent content in Contra Standard Deontic Logic on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jan 2025 17:57:25 -0500</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/posts/contra-sdl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2025 17:57:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/posts/contra-sdl/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Knowability on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/knowability/</link>
+    <link>http://localhost:1313/tags/knowability/</link>
     <description>Recent content in Knowability on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/knowability/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/knowability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Quick Argument Contra Positivism</title>
-      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
+      <link>http://localhost:1313/posts/a-quick-argument-contra-positivism/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
+      <guid>http://localhost:1313/posts/a-quick-argument-contra-positivism/</guid>
       <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
 &lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
 &lt;ol&gt;

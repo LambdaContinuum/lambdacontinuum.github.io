@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modal Logic on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/modal-logic/</link>
+    <link>http://localhost:1313/tags/modal-logic/</link>
     <description>Recent content in Modal Logic on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/modal-logic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/modal-logic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Must God be Unique?</title>
-      <link>https://lambdacontinuum.github.io/posts/must-god-be-unique/</link>
+      <link>http://localhost:1313/posts/must-god-be-unique/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/must-god-be-unique/</guid>
+      <guid>http://localhost:1313/posts/must-god-be-unique/</guid>
       <description>&lt;p&gt;Arguments in the Kalam tradition usually proceeded with the following three steps:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>A Quick Argument Contra Positivism</title>
-      <link>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</link>
+      <link>http://localhost:1313/posts/a-quick-argument-contra-positivism/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/a-quick-argument-contra-positivism/</guid>
+      <guid>http://localhost:1313/posts/a-quick-argument-contra-positivism/</guid>
       <description>&lt;p&gt;Logical Positivism commits one to the thesis that meaningful thought is verifiable. An entailment of such a thesis is that all true propositions, in principle, are verifiable and therefore knowable. Here’s a short argument from Fitch’s Knowability Paradox that serves to prove positivism incorrect.&lt;/p&gt;
 &lt;p&gt;Assume, for reductio, that we know there are truths that no one knows and consider an epistemic logic that is at least system K4D:&lt;/p&gt;
 &lt;ol&gt;
@@ -87,10 +87,10 @@
     
     <item>
       <title>S4 is Inadequate as a Logic of Formal Provability</title>
-      <link>https://lambdacontinuum.github.io/posts/s4-inadequate/</link>
+      <link>http://localhost:1313/posts/s4-inadequate/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/s4-inadequate/</guid>
+      <guid>http://localhost:1313/posts/s4-inadequate/</guid>
       <description>&lt;p&gt;Provability logics are modal logics used to investigate, surprise, surprise, various features of provability operators or predicates. The first candidate for a provability logic was the modal system S4.&lt;/p&gt;
 &lt;p&gt;S4 is characterized by the following axioms:&lt;/p&gt;
 \[
