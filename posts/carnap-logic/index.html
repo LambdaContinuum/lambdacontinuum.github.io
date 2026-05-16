@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-us" style="font-size: 100%">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+  <meta name="author" content="Azad Ellafi">
+
+  
+  
+  <meta name="description" content="Consider the notion of confirmation, it&rsquo;s standard to talk of confirmation in a manner that gestures at an &ldquo;in favor of&rdquo; relationship between evidence and hypotheses. Carnap&rsquo;s approach to induction was intended to give a formal explication of confirmation of some hypothesis, H, given some body of E. If E is some conjunction of all available observation data, \(c(H, E)\) is the degree of confidence or belief one should assign H given that body of evidence.">
+  
+
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313//images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313//images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313//images/favicon-16x16.png">
+
+  
+  
+  <meta name="keywords" content='hugo latex theme blog texify texify2 texify3 michael neuper'>
+  
+
+  
+  
+  <link rel="stylesheet" href='/katex/katex.min.css'>
+<script defer defer src='/katex/katex.min.js'></script>
+<script defer src='/katex/contrib/auto-render.min.js'></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          throwOnError : false
+        });
+    });
+</script>
+  
+
+  
+  
+
+  
+  <meta property="og:url" content="http://localhost:1313/posts/carnap-logic/">
+  <meta property="og:site_name" content="Lambda Continuum">
+  <meta property="og:title" content="Carnap Logic">
+  <meta property="og:description" content="Consider the notion of confirmation, it’s standard to talk of confirmation in a manner that gestures at an “in favor of” relationship between evidence and hypotheses. Carnap’s approach to induction was intended to give a formal explication of confirmation of some hypothesis, H, given some body of E. If E is some conjunction of all available observation data, \(c(H, E)\) is the degree of confidence or belief one should assign H given that body of evidence.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2026-05-15T20:13:28-04:00">
+    <meta property="article:modified_time" content="2026-05-15T20:13:28-04:00">
+
+
+  
+  <link rel="canonical" href="http://localhost:1313/posts/carnap-logic/">
+
+  
+  
+  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/posts/carnap-logic/index.xml" title="Lambda Continuum" />
+  
+  
+  <meta itemprop="name" content="Carnap Logic">
+  <meta itemprop="description" content="Consider the notion of confirmation, it’s standard to talk of confirmation in a manner that gestures at an “in favor of” relationship between evidence and hypotheses. Carnap’s approach to induction was intended to give a formal explication of confirmation of some hypothesis, H, given some body of E. If E is some conjunction of all available observation data, \(c(H, E)\) is the degree of confidence or belief one should assign H given that body of evidence.">
+  <meta itemprop="datePublished" content="2026-05-15T20:13:28-04:00">
+  <meta itemprop="dateModified" content="2026-05-15T20:13:28-04:00">
+  <meta itemprop="wordCount" content="1757">
+
+  
+  
+  
+    <link rel="stylesheet" href="/css/common.min.2a72526c4806fe4ebefe5caeb9f480eaa4f71b29888965f4c8be789f4661a319.css" integrity="sha256-KnJSbEgG/k6&#43;/lyuufSA6qT3GymIiWX0yL54n0Zhoxk=" crossorigin="anonymous">
+  
+
+  
+  
+    <link rel="stylesheet" href="/css/content.min.f1cb82018e7ec5cd97032074475223ffb36215181141407125e4e72c4fff280a.css" integrity="sha256-8cuCAY5&#43;xc2XAyB0R1Ij/7NiFRgRQUBxJeTnLE//KAo=" crossorigin="anonymous">
+  
+
+  
+  
+  <title>Carnap Logic - Lambda Continuum</title>
+  
+
+  
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Carnap Logic">
+  <meta name="twitter:description" content="Consider the notion of confirmation, it’s standard to talk of confirmation in a manner that gestures at an “in favor of” relationship between evidence and hypotheses. Carnap’s approach to induction was intended to give a formal explication of confirmation of some hypothesis, H, given some body of E. If E is some conjunction of all available observation data, \(c(H, E)\) is the degree of confidence or belief one should assign H given that body of evidence.">
+
+
+  
+
+
+  <link rel="stylesheet" href="/css/single.min.be2da7a982252421d90f4578f4b4fbaf28fd3cb622b5b7079aae0999f0ecfeb0.css" integrity="sha256-vi2nqYIlJCHZD0V49LT7ryj9PLYitbcHmq4JmfDs/rA=" crossorigin="anonymous">
+
+
+  <link rel="stylesheet" href="/css/single.min.78a121b7d7a160420f9daab0ea13add66c37b9c44f27bba07b27207e2b0975d2.css" integrity="sha256-eKEht9ehYEIPnaqw6hOt1mw3ucRPJ7ugeycgfisJddI=" crossorigin="anonymous">
+
+
+</head>
+
+<body>
+  <div id="wrapper">
+    
+
+
+<header id="header">
+  <h1>
+    <a href="http://localhost:1313/">Lambda Continuum</a>
+    <button id="dark-mode-toggle" class="dark-mode-toggle" aria-label="Toggle theme">
+        <svg width="2rem" height="2rem" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 496">
+        <path fill="currentColor" d="M8,256C8,393,119,504,256,504S504,393,504,256,393,8,256,8,8,119,8,256ZM256,440V72a184,184,0,0,1,0,368Z" transform="translate(-8 -8)"/>
+        </svg>
+    </button>
+  </h1>
+
+  <nav>
+    
+    <span class="nav-bar-item">
+      
+      <a class="link" href="/posts/">Posts</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      
+      <a class="link" href="/resume/">Resume</a>
+    </span>
+    
+    <span class="nav-bar-item">
+      
+      <a class="link" href="/index.xml">RSS</a>
+    </span>
+    
+  </nav>
+</header>
+<hr class="head-rule"></hr>
+    
+<main id="main" class="post">
+  
+  <div class="post-heading">
+    <h1 class="post-title">Carnap Logic</h1>
+    <div class="publish-metadata">
+      
+      <svg width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M3 9H21M7 3V5M17 3V5M6 13H8M6 17H8M11 13H13M11 17H13M16 13H18M16 17H18M6.2 21H17.8C18.9201 21 19.4802 21 19.908 20.782C20.2843 20.5903 20.5903 20.2843 20.782 19.908C21 19.4802 21 18.9201 21 17.8V8.2C21 7.07989 21 6.51984 20.782 6.09202C20.5903 5.71569 20.2843 5.40973 19.908 5.21799C19.4802 5 18.9201 5 17.8 5H6.2C5.0799 5 4.51984 5 4.09202 5.21799C3.71569 5.40973 3.40973 5.71569 3.21799 6.09202C3 6.51984 3 7.07989 3 8.2V17.8C3 18.9201 3 19.4802 3.21799 19.908C3.40973 20.2843 3.71569 20.5903 4.09202 20.782C4.51984 21 5.07989 21 6.2 21Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+      15 May 2026
+      
+      
+        &nbsp;
+        <span>
+          <svg width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M15.4998 5.49994L18.3282 8.32837M3 20.9997L3.04745 20.6675C3.21536 19.4922 3.29932 18.9045 3.49029 18.3558C3.65975 17.8689 3.89124 17.4059 4.17906 16.9783C4.50341 16.4963 4.92319 16.0765 5.76274 15.237L17.4107 3.58896C18.1918 2.80791 19.4581 2.80791 20.2392 3.58896C21.0202 4.37001 21.0202 5.63634 20.2392 6.41739L8.37744 18.2791C7.61579 19.0408 7.23497 19.4216 6.8012 19.7244C6.41618 19.9932 6.00093 20.2159 5.56398 20.3879C5.07171 20.5817 4.54375 20.6882 3.48793 20.9012L3 20.9997Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          1757 words
+        </span>
+      
+      
+      
+        
+      
+      
+        &nbsp;
+        <span>
+          <svg width="0.75em" height="0.75em" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 7V12L14.5 13.5M21 12C21 16.9706 16.9706 21 12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          ~9 mins
+        </span>
+      
+    </div>
+  </div>
+
+  
+  
+  
+  
+  <article class="content numbered-subtitles">
+    
+    <p>Consider the notion of confirmation, it&rsquo;s standard to talk of confirmation in a manner that gestures at an &ldquo;in favor of&rdquo; relationship between evidence and hypotheses. Carnap&rsquo;s approach to induction was intended to give a formal explication of confirmation of some hypothesis, H, given some body of E. If E is some conjunction of all available observation data, \(c(H, E)\) is the degree of confidence or belief one should assign H given that body of evidence.</p>
+<p>Now consider a first-order language that consists of a finite number of logically independent monadic predicates, a finite number of individual constants, and standard boolean connectives. A literal in such a language is either an atomic formula or its negation. A state description in such a language is a conjunction which, for any predicate and any constant, contains exactly one literal composed of them.</p>
+<p>Thus, a state description for any property and any object will say whether the object has the property. It&rsquo;s easy to see that any sentence is logically equivalent to the disjunction of the state descriptions which entail it. So, if every object in the domain is named by a different individual constant, then the set of all state descriptions will exhaust all possible states of the domain as describable in the language. This is best illustrated by example. Consider a language with only one predicate G and only two constants a, and b. This language has four state descriptions:</p>
+<ol>
+<li>\(Ga \land Gb\)</li>
+<li>\(Ga \land \neg Gb\)</li>
+<li>\(\neg Ga \land Gb\)</li>
+<li>\(\neg Ga \land \neg Gb\)</li>
+</ol>
+<p>A probability measure assigns probabilities to state descriptions such that the sum of the probability measures of all state descriptions is 1. As state descriptions are mutually exclusive, the probability measure of a disjunction of state descriptions is the sum of all the probability measures of all disjuncts.</p>
+<p>Each sentence is equivalent to a disjunction of a state description, so the probability measure will cover all sentences. Given a probability measure m,</p>
+\[
+    c(H, E)  = \frac{m(H \land E)}{m(E)}
+\]<p>So the degree to which evidence E confirms a hypothesis H is the proportion of the probability of the hypothesis and the evidence to the probability of the evidence. It&rsquo;s easy to see that there&rsquo;s a variety of different confirmation functions since there&rsquo;s a variety of different probability measures.</p>
+<p>So how should we define our probability measure? One way that Carnap looks at is to divide the probabilities equally among the state descriptions. If there are k available state descriptions, and n of those state descriptions entail H, the probability of H is given by \(m^{\dagger}(H) = n/k\)</p>
+<p>In our prior example, each state description is assigned the $m^{\dagger}$ value of \(\frac{1}{4}\). So:</p>
+\[
+    m^{\dagger}(\neg Ga) = m^{\dagger}(3) + m^{\dagger}(4) = 1/4 + 1/4 = 1/2
+\]<p>The degree of confirmation of \(\neg Ga\) by \(Gb\) is also \(1/2\):</p>
+\[
+    c^{\dagger}(\neg Ga, Gb) = \frac{m^{\dagger}(\neg Ga \land Gb)}{m^{\dagger}(Gb)} = \frac{m^{\dagger}(c)}{m^{\dagger}(a) + m^{\dagger}(c)} = \frac{1/4}{1/2} = 1/2.
+\]<p>WLOG \(m^{\dagger} (Ga) = c^{\dagger}(Ga, Gb) = 1/2\), so observing \(Gb\) has no effect on the beliefs one should assign to \(Ga\). This problem generalizes, which led Carnap to consider a different probability measure, \(m^{*}\). This measure relies on what is called a structure description. A structure description (generated from a given state description) is the set of all state descriptions that result from some state description by a permutation of individual constants. Structure descriptions can be seen as encoding information about the numerical distribution of properties among objects. So our simple language above has three structure descriptions:</p>
+<ol>
+<li>\(\{Ga \land Gb\}\)</li>
+<li>\(\{Ga \land \neg Gb, \neg Ga \land Gb\}\)</li>
+<li>\(\{\neg Ga \land \neg Gb\}\)</li>
+</ol>
+<p>(1) encodes that all objects have property G, (2) that exactly one object has property G, and (3) that no objects have property G.</p>
+<p>First we assign equal probabilities amongst all structure descriptions (such that they all sum up to 1). Then divide the probability each structure description equally among its members. For example, structure descriptions (1), (2), and (3) are assigned probability measure \(1/3\). (1) and (3) have exactly one state description, each of which is assigned \(1/3\). (2) has 2 state descriptions, so we assign \(1/3\) equally amongst members of (2) such that every element of (2) has probability \(1/6\).</p>
+<p>Calculating \(c^*(\neg Ga, Gb)\):</p>
+\[
+    c^*(\neg Ga, Gb) = \frac{m^*(\neg Ga \land Gb)}{m^*(Gb)} = \frac{m^*(c)}{m^*(a) + m^*(c)} = \frac{1/6}{3/6} = 1/3
+\]<p>The probability measure of \(\neg Ga\):</p>
+\[
+    m^*(\neg Ga) = m^*(c) + m^*(d) = 1/3 + 1/6 = 1/2
+\]<p>Since \(c^*(\neg Ga, Gb) < m^*(\neg Ga)\), \(Gb\) disconfirms \(\neg Ga\).</p>
+<p>Now above I said there&rsquo;s a variety of confirmation functions. This undersells it. If \(F_1, F_2, \dots, F_k\) are monadic predicates of a language, we say that a Q-formula predicated of a constant a is of the form:</p>
+\[
+    \pm F_1 a \land \pm F_2 a \land ... \land \pm F_k a
+\]<p>where \(\pm\) stands for negation or nothing. Q-formulas of such a language can be enumerated, say you pick the i-th one and call it \(Q_i\). What&rsquo;s of interest is the ability to compute how much complete information of an object confirms a given complete description of some new object. We do this by calculating \(c(H_{Q_{i}}, E_{Q})\) where \(H_{Q_{i}}\) is the \(Q_i\) formula predicated of a certain constant a and \(E_q\) is a conjunction of certain Q-formulas predicated of some constants different from a.</p>
+<p>Carnap suggests there are at least two important factors in our assessment of \(c(H_{Q_{i}}, E_{Q})\):</p>
+<ol>
+<li>One is the empirical factor of the relative frequency of \(Q_i\)s in \(E_Q: s_i/s\) where \(s_i\) is the number of occurrences (modulo logical equivalences) of \(Q_i\) in E and s is the number of non-equivalent Q-formulas in E.</li>
+<li>The other is the logical one: the logical factor of \(Q_i\) equals \(1/K\), where $K$ is the number of all Q-predicates of the language.</li>
+</ol>
+<p>Following Carnap, \(c(H_{Q_i}, E_Q)\) should be somewhere between these two values. A convenient way of representing this is to take it to be their weighted mean defined by:</p>
+\[
+    c(H_{Q_i}, E_Q) = \frac{\frac{w_1s_i}{s} + \frac{w_2}{K}}{w_1 + w_2}
+\]<p>Since what matters is the ratio of the weights, we can follow Carnap in parametrizing \(w_1\) by taking it to be \(s\), guaranteeing the empirical factor gains weight as more observations are made. Call the other weight \(\lambda\):</p>
+\[
+    c(H_{Q_i}, E_Q) = \frac{s_i + \lambda/K}{s + \lambda}
+\]<p>Any choice of \(\lambda\) gives us a new confirmation function. Let&rsquo;s look at the extremes of our confirmation functions, maximal importance to evidence and maximal importance to the logical factor. Setting \(\lambda = 0\):</p>
+\[
+    c(H_{Q_i}, E_Q) = \frac{s_i + 0/K}{s + 0} = s_i/s
+\]<p>This corresponds to Reichenbach&rsquo;s straight rule, in that it assigns maximal role to the evidence and zero role to logical possibility.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> This can be seen by imagining there are three objects, of which you&rsquo;ve observed two. Both objects turned out to be red. We may ask what the confirmation value of the hypothesis that the last object is also red:</p>
+\[
+    c(Red(c), Red(a) \land Red(b)) = s_{Red}/s = 2/2 = 1
+\]<p>Suppose instead only one object was red, the other wasn&rsquo;t. That means:</p>
+\[
+    c(Red(c), Red(a) \land \neg Red(b)) = s_{Red}/s = 1/2
+\]<p>What about the case of maximal importance to the logical factor? Consider the limit of \(\lambda\) as it approaches infinity:</p>
+\[
+    \lim_{\lambda \to \infty} c(H_{Q_i}, E_Q) = \lim_{\lambda \to \infty} \frac{s_i + \lambda/K}{s + \lambda} = \frac{1}{K}
+\]<p>It&rsquo;s clear that on this confirmation function it doesn&rsquo;t matter whether we observe any other red objects, the confirmation of the hypothesis that the next object will be red is just the prior probability of the hypothesis. This shows us that \(\lim_{\lambda \to \infty} c(H_{Q_i}, E_Q)\) is our previously defined confirmation function \(c^\dagger\):</p>
+\[
+    c^\dagger = \lim_{\lambda \to \infty} c(H_{Q_i}, E_Q)
+\]<p>Where is \(c^*\) located on our continuum? When you set \(\lambda = k\):</p>
+\[
+  c(H_{Q_i}, E_Q) = \frac{s_i + K/K}{s + K} = \frac{s_i + 1}{s + K}
+\]<p>Given the infinite amount of probability measures, one may ask how one determines which measure one should prefer (if any)? Some have pointed out that given certain restrictions, there are substantive claims that hold no matter what non-extreme function we choose.<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup> Carnap himself adopted a laissez-faire view towards the end, thinking there was a range of open options to pick from.</p>
+<p>You may analogize it to special relativity theory: it&rsquo;s not velocity that is objective, rather velocity with respect to a frame of reference. Similarly, confirmation isn&rsquo;t objective, rather confirmation with respect to a probability measure.</p>
+<p>A more serious problem is reasoning by analogy. Intuitively, the more primitive properties two objects share, the more likely it should be that they would agree on other properties. Yet \(c^*\) fails to capture this intuition. For instance, suppose we have a language with two predicates $F$ and $G$ and two constants $a$ and $b$. If reasoning by analogy worked, then the fact that $Fa \land Fb \land Ga$ should give more support to the hypothesis that $Gb$ than just the evidence $Ga$: </p>
+$$c^*(Gb, Fa \land Fb \land Ga) > c^*(Gb, Ga)$$<p>
+And yet, that isn&rsquo;t true, because in this case both degrees of confirmation are equal! Carnap attempted to deal with such issues by introducing a new parameter, $\eta$, but the success is quite limited.</p>
+<p>Another serious problem: once we generalize the notions to infinite domains, Carnap&rsquo;s inductive methods a priori assign zero probabilities to universal generalizations. This is considered a problem because usually laws of nature are taken to be universal and if it were true that no finite evidence can provide support for any universal statement, this would go against our intuitions that certain scientific hypotheses are better confirmed than others.</p>
+<p>There&rsquo;s also a general problem with syntactic approaches to confirmation. Goodman&rsquo;s new riddle of induction shows us it&rsquo;s not trivial that all predicates that can be utilized in law-like generalizations are those that the natural sciences are purported to give. Carnapian inductive theory is inadequate, given that which predicates can be sensibly used in inductive reasoning is an extralogical issue.</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Reichenbach wants to identify the probability of an event with the limit of the relative frequency of events of the same kind. How do we assess relative frequency at the limit? Reichenbach argues we should apply the Straight Rule, which says that one should take observed relative frequencies to be the limiting relative frequencies (and adjust as new observations are made).&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2">
+<p>For example, regularity (every state description has non-zero probability) and symmetry (complete permutations of individual constants and predicates of the same type do not change the value of the function)&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+    
+  </article>
+
+  <button onclick="topFunction()" id="back-to-top" title="Go to top">Back to Top</button>
+
+  
+
+<div id="sharingbuttons">
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+</div>
+  <div class="paginator">
+    
+    <a class="link" href="http://localhost:1313/posts/rule-following-physicalism-not-a-problem/" title="Rule-Following Is Not Physicalism&#39;s Problem Alone">← prev</a>
+    
+    
+    <a></a>
+    
+  </div>
+  <div class="comment">
+    
+    
+    
+    
+  </div>
+  
+  
+</main>
+
+    <footer id="footer">
+  <div>
+    <span>Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+</span>
+  </div>
+  <div>
+    <span>Copyright © 2026 Azad Ellafi</span>
+  </div>
+</footer>
+
+  </div>
+
+  
+  <script src='http://localhost:1313/js/script.js' defer></script>
+
+  
+  
+  <link media="screen" rel="stylesheet" href="http://localhost:1313/css/custom.css" />
+  
+
+  
+  
+
+  
+  
+
+</body>
+
+</html>
