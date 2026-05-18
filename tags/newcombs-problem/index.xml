@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newcomb&#39;s Problem on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/newcombs-problem/</link>
+    <link>http://localhost:1313/tags/newcombs-problem/</link>
     <description>Recent content in Newcomb&#39;s Problem on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Sep 2025 21:15:13 -0400</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/newcombs-problem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Sep 2025 21:15:13 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/newcombs-problem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>God Ordains You to Two-Box</title>
-      <link>https://lambdacontinuum.github.io/posts/god-two-box/</link>
+      <link>http://localhost:1313/posts/god-two-box/</link>
       <pubDate>Sun, 21 Sep 2025 21:15:13 -0400</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/god-two-box/</guid>
+      <guid>http://localhost:1313/posts/god-two-box/</guid>
       <description>&lt;p&gt;Consider the following argument:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;If God exists then God would tell you to two-box.&lt;/li&gt;

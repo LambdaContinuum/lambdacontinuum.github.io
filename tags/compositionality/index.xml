@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Compositionality on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/compositionality/</link>
+    <link>http://localhost:1313/tags/compositionality/</link>
     <description>Recent content in Compositionality on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 20:13:28 -0400</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/compositionality/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2026 20:13:28 -0400</lastBuildDate><atom:link href="http://localhost:1313/tags/compositionality/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Short Reflection on Reference and Donkeys</title>
-      <link>https://lambdacontinuum.github.io/posts/reference-donkey/</link>
+      <link>http://localhost:1313/posts/reference-donkey/</link>
       <pubDate>Fri, 15 May 2026 20:13:28 -0400</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/reference-donkey/</guid>
+      <guid>http://localhost:1313/posts/reference-donkey/</guid>
       <description>&lt;p&gt;We use indefinites in day-to-day talk all the time; they’re the kind of phrases whose reference is ambiguous, general, or vague. Since philosophers of language love discussing reference, it’s a linguistic structure ripe for philosophical analysis.&lt;/p&gt;
 &lt;p&gt;Consider the sentence with an indefinite description ‘a(n) P is Q.’ Geach provides an analysis of the semantic content of such descriptions as mere existential quantification, \(\exists x(Px \land Qx)\).&lt;/p&gt;
 &lt;p&gt;Now, anaphora is a term with many meanings, but here we’ll use it to denote the linguistic phenomenon in which a phrase has its referent determined by an antecedent expression. An example of anaphora would be: ‘Ronald drove above the speed limit. He crashed.’ In the second sentence, ‘he’ refers to ‘Ronald’ from the previous sentence.&lt;/p&gt;

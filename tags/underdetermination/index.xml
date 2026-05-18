@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Underdetermination on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/underdetermination/</link>
+    <link>http://localhost:1313/tags/underdetermination/</link>
     <description>Recent content in Underdetermination on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/underdetermination/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/underdetermination/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rule-Following Is Not Physicalism&#39;s Problem Alone</title>
-      <link>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</link>
+      <link>http://localhost:1313/posts/rule-following-physicalism-not-a-problem/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/rule-following-physicalism-not-a-problem/</guid>
+      <guid>http://localhost:1313/posts/rule-following-physicalism-not-a-problem/</guid>
       <description>&lt;p&gt;Philip Goff recently wrote an &lt;a href=&#34;https://philipgoff.substack.com/p/can-calculators-add-can-brains-add&#34;&gt;article&lt;/a&gt; arguing against physicalism from rule-following.&lt;/p&gt;
 &lt;p&gt;His argument was as follows:&lt;/p&gt;
 &lt;ol&gt;

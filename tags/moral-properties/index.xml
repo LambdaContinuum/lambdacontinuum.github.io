@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moral Properties on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/moral-properties/</link>
+    <link>http://localhost:1313/tags/moral-properties/</link>
     <description>Recent content in Moral Properties on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/moral-properties/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/moral-properties/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Error Theory in Tension With Deontic Logic?</title>
-      <link>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</link>
+      <link>http://localhost:1313/posts/error-theory-deontic-logic/</link>
       <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/error-theory-deontic-logic/</guid>
+      <guid>http://localhost:1313/posts/error-theory-deontic-logic/</guid>
       <description>&lt;p&gt;I recently came across an &lt;a href=&#34;https://link.springer.com/article/10.1007/s10790-025-10076-3&#34;&gt;interesting paper&lt;/a&gt; on formal objections to error theory, this was the gist of it. Error Theorists are typically construed as being committed to moral judgements being the sorts of judgements that have propositional content, but such judgements never come out true because the moral properties required to render them true are not instantiated.&lt;/p&gt;
 &lt;p&gt;Some believe error theory entails a formal inconsistency. Within SDL permission and impermission are interdefinable duals and so:&lt;/p&gt;
 \[

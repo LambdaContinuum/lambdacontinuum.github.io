@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hansson on Lambda Continuum</title>
-    <link>https://lambdacontinuum.github.io/tags/hansson/</link>
+    <link>http://localhost:1313/tags/hansson/</link>
     <description>Recent content in Hansson on Lambda Continuum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jan 2025 17:57:25 -0500</lastBuildDate><atom:link href="https://lambdacontinuum.github.io/tags/hansson/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jan 2025 17:57:25 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/hansson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contra Standard Deontic Logic</title>
-      <link>https://lambdacontinuum.github.io/posts/contra-sdl/</link>
+      <link>http://localhost:1313/posts/contra-sdl/</link>
       <pubDate>Thu, 23 Jan 2025 17:57:25 -0500</pubDate>
       
-      <guid>https://lambdacontinuum.github.io/posts/contra-sdl/</guid>
+      <guid>http://localhost:1313/posts/contra-sdl/</guid>
       <description>&lt;p&gt;Bengt Hansson introduced the term Standard Deontic Logic (referred to as SDL from here on) to denote deontic logics characterized by the semantic principle of Ideal Worlds Intersection. This principle posits that there is a subset \(\mathcal{I}\) of the set \(\mathcal{W}\) of possible worlds, such that for all p, \(Op\) holds if and only if \(\forall w \in \mathcal{I}, p \in w\).&lt;/p&gt;
 &lt;p&gt;\(\mathcal{I}\) represents the set of deontically perfect worlds. Sentences valid in such a model coincide with the sentences derivable from the following axioms:&lt;/p&gt;
 &lt;ol&gt;
